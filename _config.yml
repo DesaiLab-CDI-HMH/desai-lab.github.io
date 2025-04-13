@@ -1,0 +1,68 @@
+title: "Desai Lab"
+description: "Complement System in Basic Cellular Biology and Immune Regulation"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "mint"  # Options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+
+logo: "/assets/images/logo_CDI.png"
+permalink: /:categories/:title/
+breadcrumbs: true
+
+repository: "DesaiLab-CDI-HMH/desai-lab.github.io"
+title_separator: "|"
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+header:
+  nav: true
+  navigation: navigation
+
+lunr:
+  search_within_pages: true
+
+author:
+  name: "Jigar V. Desai"
+  # avatar: "/assets/images/bio-photo.jpg"
+  bio: "Assistant Member"
+  location: "Nutley, NJ"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://x.com/jigarvdesai"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/DesaiLab-CDI-HMH"
+
+include:
+  - _pages
+
+# Optional: Enable Disqus or other commenting systems
+# comments:
+#   provider: "disqus"
+#   disqus:
+#     shortname: "your-shortname"
+
