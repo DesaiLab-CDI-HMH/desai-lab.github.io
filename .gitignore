@@ -1,0 +1,10 @@
+# Build output
+_site/
+.jekyll-cache/
+.sass-cache/
+.bundle/
+vendor/
+
+# OS cruft
+.DS_Store
+**/.DS_Store
