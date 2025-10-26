@@ -41,4 +41,4 @@ os.makedirs(os.path.dirname(output_path), exist_ok=True)
 with open(output_path, 'w') as f:
     yaml.dump(publications, f, allow_unicode=True, sort_keys=False)
 
-print(f"✅ Saved {len(publications)} publications to {output_path}")
+print(f"Saved {len(publications)} publications to {output_path}")
