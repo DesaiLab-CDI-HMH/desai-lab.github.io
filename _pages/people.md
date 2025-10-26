@@ -9,9 +9,9 @@ author_profile: true
 
 <div style="max-width: 300px; text-align: center;">
   <img src="/assets/images/team/jigar.jpg" alt="Jigar V. Desai" style="border-radius: 50%; width: 160px;">
-  <h3 style="margin-bottom: 5px;">Jigar V. desai, MS, PhD</h3>
+  <h3 style="margin-bottom: 5px;">Jigar V. Desai, MS, PhD</h3>
   <p><em>Principal Investigator</em></p>
-  <p style="font-size: 14px;">My lab studies how the complement system — an evolutionary ancient arm of immunity — works regulates mucosal and systemic immunity. We are uncovering how this dialogue shapes defenses against infection and influences cancer, especially colorectal cancer. We recently showed that complement inside phagocytes tunes myeloid cell function; now we’re defining its role in antifungal immunity in the lung and anti-tumor immunity in the gut. We combine patient samples, advanced spatial biology and single-cell profiling approaches, engineered mouse and fungal models, and organoid–immune–microbe co-cultures to turn mechanisms into therapies.</p>
+  <p style="font-size: 14px;">My lab studies how the complement system — an evolutionary ancient arm of immunity — works regulates mucosal and systemic immunity. We are uncovering how this dialogue shapes defenses against infection and influences cancer, especially colorectal cancer. We recently showed that complement inside phagocytes tunes myeloid cell function; now we are defining its role in antifungal immunity at diverse mucosal surfaces (e.g., at pulmonary mucosa – during invasive pulmonary aspergillosis; at intenstinal mucosa – during commensal colonization by Candida albicans) and anti-tumor immunity in the gut. We are utilizing patient specimens, in vivo murine modeling, ex vivo modeling using primary cells and organoids as well as approaches including advanced spatial molecular and single-cell profiling approaches, engineered mice and fungal strains, and intravital microscopy to turn mechanisms into therapies.</p>
   <p>
     <a href="mailto:jigarkumar.desai@hmh-cdi.org">Email</a> 
   </p>
