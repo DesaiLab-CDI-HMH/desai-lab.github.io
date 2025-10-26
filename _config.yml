@@ -50,9 +50,9 @@ author:
   bio: "Assistant Member"
   location: "Nutley, NJ"
   links:
-    - label: "Twitter"
-      icon: "fab fa-twitter"
-      url: "https://x.com/jigarvdesai"
+    - label: "Google Scholar"
+      icon: "fab fa-google"
+      url: "https://scholar.google.com/citations?user=hhKlTYYAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/DesaiLab-CDI-HMH"
