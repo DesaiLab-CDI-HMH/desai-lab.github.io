@@ -8,3 +8,15 @@ vendor/
 # OS cruft
 .DS_Store
 **/.DS_Store
+
+# source maps
+*.map
+*.log
+_site/
+.jekyll-cache/
+.sass-cache/
+.bundle/
+vendor/
+.DS_Store
+**/.DS_Store
+*.map
