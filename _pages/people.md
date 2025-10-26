@@ -8,6 +8,16 @@ author_profile: true
 <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: flex-start;">
 
 <div style="max-width: 300px; text-align: center;">
+  <img src="/assets/images/team/jigar.jpg" alt="Jigar V. Desai" style="border-radius: 50%; width: 160px;">
+  <h3 style="margin-bottom: 5px;">Jigar V. desai, MS, PhD</h3>
+  <p><em>Principal Investigator</em></p>
+  <p style="font-size: 14px;">My lab studies how the complement system — an evolutionary ancient arm of immunity — works regulates mucosal and systemic immunity. We are uncovering how this dialogue shapes defenses against infection and influences cancer, especially colorectal cancer. We recently showed that complement inside phagocytes tunes myeloid cell function; now we’re defining its role in antifungal immunity in the lung and anti-tumor immunity in the gut. We combine patient samples, advanced spatial biology and single-cell profiling approaches, engineered mouse and fungal models, and organoid–immune–microbe co-cultures to turn mechanisms into therapies.</p>
+  <p>
+    <a href="mailto:jigarkumar.desai@hmh-cdi.org">Email</a> 
+  </p>
+</div>
+
+<div style="max-width: 300px; text-align: center;">
   <img src="/assets/images/team/ashley.jpg" alt="Ashley Carlo" style="border-radius: 50%; width: 160px;">
   <h3 style="margin-bottom: 5px;">Ashley Carlo, MD</h3>
   <p><em>Clinical Fellow</em></p>
