@@ -1,12 +1,11 @@
----
-layout: single
-title: Publications
-permalink: /publications/
----
-
-<ul>
 {% assign pubs = site.data.publications | sort: "year" | reverse %}
-{% for p in pubs %}
-  <li>{{ p.citation }}</li>
-{% endfor %}
+{% assign grouped = pubs | group_by: "year" %}
+
+{% for group in grouped %}
+### {{ group.name }}
+<ul class="pub-list">
+  {% for p in group.items %}
+  <li>{{ p.citation_nature }}</li>
+  {% endfor %}
 </ul>
+{% endfor %}
