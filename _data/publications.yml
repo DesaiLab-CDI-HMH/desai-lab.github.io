@@ -1,71 +1,1037 @@
-- title: Inhibition of B cell receptor signaling by ibrutinib in primary CNS lymphoma
+- title: Applying AIMer-Based RNA Editing Technology to Correct a Nonsense Mutation
+    in the Lung
   authors:
-  - Michail S Lionakis
-  - Kieron Dunleavy
-  - Mark Roschewski
-  - Brigitte C Widemann
-  - John A Butman
-  - Roland Schmitz
-  - Yandan Yang
-  - Diane E Cole
-  - Christopher Melani
-  - Christine S Higham
-  - Jigar V Desai
-  - Michele Ceribelli
-  - Lu Chen
-  - Craig J Thomas
-  - Richard F Little
-  - Juan Gea-Banacloche
-  - Sucharita Bhaumik
-  - Maryalice Stetler-Stevenson
-  - Stefania Pittaluga
-  - Elaine S Jaffe
-  - John Heiss
-  - Nicole Lucas
-  - Seth M Steinberg
-  - Louis M Staudt
-  - Wyndham H Wilson
-  year: 2017
-  journal: Cancer cell
-  volume: '31'
-  issue: '6'
-  pages: 833-843. e5
+  - Ian Harding
+  - Jack Godfrey
+  - Chikdu Shivalila
+  - Megan Cannon
+  - Jigar Desai
+  - Alyse Faraone
+  - Carolyn Grimes
+  - Naoki Iwamoto
+  - Pachamuthu Kandasamy
+  - Tomomi Kawamoto
+  - Genliang Lu
+  - Jake Metterville
+  - Prashant Monian
+  - Erin Purcell-Estabrook
+  - Stephany Standley
+  - Hailin Yang
+  - Ryan Yordanoff
+  - Hui Yu
+  - Michael Byrne
+  - Chandra Vargeese
+  year: 2025
+  journal: null
+  volume: '33'
+  issue: '4'
+  pages: null
   doi: ''
-  url: https://www.cell.com/cancer-cell/fulltext/S1535-6108(17)30167-8
-  citation: Lionakis, M. S., Dunleavy, K., Roschewski, M., Widemann, B. C., Butman,
-    J. A., Schmitz, R. & et al.. Inhibition of B cell receptor signaling by ibrutinib
-    in primary CNS lymphoma. Cancer cell 31, 833-843. e5 (2017).
-- title: Inhibition of Bruton tyrosine kinase in patients with severe COVID-19
+  url: https://scholar.google.com/scholar?cluster=7720671980272750639&hl=en&oi=scholarr
+  citation: Harding, I., Godfrey, J., Shivalila, C., Cannon, M., Desai, J., Faraone,
+    A. & et al.. Applying AIMer-Based RNA Editing Technology to Correct a Nonsense
+    Mutation in the Lung. 33 (2025).
+  citation_nature: Harding I., Godfrey J., Shivalila C., Cannon M., Desai J., Faraone
+    A., et al.. Applying AIMer-Based RNA Editing Technology to Correct a Nonsense
+    Mutation in the Lung. 33(4) (2025). https://scholar.google.com/scholar?cluster=7720671980272750639&hl=en&oi=scholarr
+- title: Complement and fungal diseases
   authors:
-  - Mark Roschewski
+  - Jigar V Desai
   - Michail S Lionakis
-  - Jeff P Sharman
-  - Joseph Roswarski
-  - Andre Goy
-  - M Andrew Monticelli
-  - Michael Roshon
-  - Stephen H Wrzesinski
+  year: 2025
+  journal: Journal of Allergy and Clinical Immunology
+  volume: null
+  issue: null
+  pages: null
+  doi: ''
+  url: https://www.jacionline.org/article/S0091-6749(25)00165-4/abstract
+  citation: Desai, J. V. & Lionakis, M. S.. Complement and fungal diseases. Journal
+    of Allergy and Clinical Immunology (2025).
+  citation_nature: Desai J.V. & Lionakis M.S.. Complement and fungal diseases. Journal
+    of Allergy and Clinical Immunology (2025). https://www.jacionline.org/article/S0091-6749(25)00165-4/abstract
+- title: Compositions for editing mecp2 transcripts and methods thereof
+  authors:
+  - Christopher Michael Acker
+  - Onanong Chivatakarn
+  - Prashant Monian
+  - Chikdu Shakti Shivalila
+  - Subramanian Marappan
+  - Chandra Vargeese
+  - Pachamuthu Kandasamy
+  - Genliang Lu
+  - Hui Yu
+  - David Charles Donnell Butler
+  - Luciano Henrique Apponi
+  - Mamoru Shimizu
+  - Stephany Michelle Standley
+  - David John Boulay
+  - Andrew Guzior Hoss
+  - Jigar Desai
+  - Jack David Godfrey
+  - Hailin Yang
+  - Naoki Iwamoto
+  - Jayakanthan Kumarasamy
+  - Anthony Lamattina
+  - Ian Chandler Harding
+  - Jesse Turner
+  year: 2025
+  journal: null
+  volume: null
+  issue: null
+  pages: null
+  doi: ''
+  url: https://patents.google.com/patent/US20250135036A1/en
+  citation: Acker, C. M., Chivatakarn, O., Monian, P., Shivalila, C. S., Marappan,
+    S., Vargeese, C. & et al.. Compositions for editing mecp2 transcripts and methods
+    thereof. (2025).
+  citation_nature: Acker C.M., Chivatakarn O., Monian P., Shivalila C.S., Marappan
+    S., Vargeese C., et al.. Compositions for editing mecp2 transcripts and methods
+    thereof. (2025). https://patents.google.com/patent/US20250135036A1/en
+- title: GM-CSF–mediated epithelial-immune cell cross-talk orchestrates pulmonary
+    immunity to Aspergillus fumigatus
+  authors:
+  - Kathleen AM Mills
+  - Frederike Westermann
+  - Vanessa Espinosa
+  - Eric Rosiek
+  - Jigar V Desai
+  - Mariano A Aufiero
+  - Yahui Guo
+  - Fitty L Liu
+  - Kennedy A Mitchell
+  - Selma Tuzlak
+  - Donatella De Feo
+  - Michail S Lionakis
+  - Amariliz Rivera
+  - Burkhard Becher
+  - Tobias M Hohl
+  year: 2025
+  journal: Science immunology
+  volume: '10'
+  issue: '105'
+  pages: eadr0547
+  doi: 10.1126/sciimmunol.adr0547
+  url: https://www.science.org/doi/abs/10.1126/sciimmunol.adr0547
+  citation: Mills, K. A., Westermann, F., Espinosa, V., Rosiek, E., Desai, J. V.,
+    Aufiero, M. A. & et al.. GM-CSF–mediated epithelial-immune cell cross-talk orchestrates
+    pulmonary immunity to Aspergillus fumigatus. Science immunology 10, eadr0547 (2025).
+    https://doi.org/10.1126/sciimmunol.adr0547
+  citation_nature: Mills K.A., Westermann F., Espinosa V., Rosiek E., Desai J.V.,
+    Aufiero M.A., et al.. GM-CSF–mediated epithelial-immune cell cross-talk orchestrates
+    pulmonary immunity to Aspergillus fumigatus. Science immunology 10(105), eadr0547
+    (2025). doi:10.1126/sciimmunol.adr0547
+- title: 'mSphere of Influence: Complement activity beyond systemic circulation—implications
+    in the context of infections'
+  authors:
+  - Jigar V Desai
+  year: 2025
+  journal: mSphere
+  volume: '10'
+  issue: '3'
+  pages: e00531-24
+  doi: 10.1128/msphere.00531-24
+  url: https://journals.asm.org/doi/abs/10.1128/msphere.00531-24
+  citation: 'Desai, J. V.. mSphere of Influence: Complement activity beyond systemic
+    circulation—implications in the context of infections. mSphere 10, e00531-24 (2025).
+    https://doi.org/10.1128/msphere.00531-24'
+  citation_nature: 'Desai J.V.. mSphere of Influence: Complement activity beyond systemic
+    circulation—implications in the context of infections. mSphere 10(3), e00531-24
+    (2025). doi:10.1128/msphere.00531-24'
+- title: Neutralizing GM-CSF autoantibodies impair neutrophil antifungal effector
+    function in a patient with aspergillosis
+  authors:
+  - Andrew L Wishart
+  - Joseph Pechacek
+  - Lindsey B Rosen
   - Jigar V Desai
   - Marissa A Zarakas
-  - Jacob Collen
-  - Keith M Rose
-  - Ahmed Hamdy
-  - Raquel Izumi
-  - George W Wright
-  - Kevin K Chung
-  - Jose Baselga
+  - Taura Webb
+  - Stefania Pittaluga
+  - Amir Seyedmousavi
+  - Tobias M Hohl
+  - Douglas B Kuhns
+  - Steven M Holland
+  - Michail S Lionakis
+  year: 2025
+  journal: Journal of Infection
+  volume: null
+  issue: null
+  pages: '106588'
+  doi: ''
+  url: https://www.sciencedirect.com/science/article/pii/S0163445325001884
+  citation: Wishart, A. L., Pechacek, J., Rosen, L. B., Desai, J. V., Zarakas, M.
+    A., Webb, T. & et al.. Neutralizing GM-CSF autoantibodies impair neutrophil antifungal
+    effector function in a patient with aspergillosis. Journal of Infection, 106588
+    (2025).
+  citation_nature: Wishart A.L., Pechacek J., Rosen L.B., Desai J.V., Zarakas M.A.,
+    Webb T., et al.. Neutralizing GM-CSF autoantibodies impair neutrophil antifungal
+    effector function in a patient with aspergillosis. Journal of Infection 106588
+    (2025). https://www.sciencedirect.com/science/article/pii/S0163445325001884
+- title: Oligonucleotide compositions and methods relating thereto
+  authors:
+  - Genliang Lu
+  - Prashant Monian
+  - Chikdu Shakti Shivalila
+  - Jack David Godfrey
+  - Ian Chandler Harding
+  - Paloma Hoban Giangrande
+  - Tom Liantang Pu
+  - Nayantara Kothari
+  - Subramanian Marappan
+  - Chandra Vargeese
+  - Pachamuthu Kandasamy
+  - Hui Yu
+  - Jayakanthan Kumarasamy
+  - Naoki Iwamoto
+  - Stephany Michelle Standley
+  - Mamoru Shimizu
+  - Timothy Charles Ryan
+  - Jigar Desai
+  - Anthony Lamattina
+  - Milinda Amila Kumara Samaraweera
+  - Wei Liu
+  - Brett Schrand
+  year: 2025
+  journal: null
+  volume: null
+  issue: null
+  pages: null
+  doi: ''
+  url: https://patents.google.com/patent/US20250262235A1/en
+  citation: Lu, G., Monian, P., Shivalila, C. S., Godfrey, J. D., Harding, I. C.,
+    Giangrande, P. H. & et al.. Oligonucleotide compositions and methods relating
+    thereto. (2025).
+  citation_nature: Lu G., Monian P., Shivalila C.S., Godfrey J.D., Harding I.C., Giangrande
+    P.H., et al.. Oligonucleotide compositions and methods relating thereto. (2025).
+    https://patents.google.com/patent/US20250262235A1/en
+- title: P-1054. BTK drives neutrophil activation for sterilizing antifungal immunity
+  authors:
+  - Marissa Agathonia Zarakas
+  - Jigar Desai
+  - Andrew Wishart
+  - Cristina Cunha
+  - Agostinho Carvalho
+  - Tobias M Hohl
+  - Michail S Lionakis
+  year: 2025
+  journal: Open Forum Infectious Diseases
+  volume: '12'
+  issue: Supplement_1
+  pages: ofae631. 1243
+  doi: ''
+  url: https://academic.oup.com/ofid/article-abstract/12/Supplement_1/ofae631.1243/7987227
+  citation: Zarakas, M. A., Desai, J., Wishart, A., Cunha, C., Carvalho, A., Hohl,
+    T. M. & Lionakis, M. S.. P-1054. BTK drives neutrophil activation for sterilizing
+    antifungal immunity. Open Forum Infectious Diseases 12, ofae631. 1243 (2025).
+  citation_nature: Zarakas M.A., Desai J., Wishart A., Cunha C., Carvalho A., Hohl
+    T.M., et al.. P-1054. BTK drives neutrophil activation for sterilizing antifungal
+    immunity. Open Forum Infectious Diseases 12(Supplement_1), ofae631. 1243 (2025).
+    https://academic.oup.com/ofid/article-abstract/12/Supplement_1/ofae631.1243/7987227
+- title: Silencing of Inhbe mRNA Using GalNAc-siRNAs Induces Durable Weight Loss in
+    a Mouse Model of Diet-Induced Obesity
+  authors:
+  - Naoki Iwamoto
+  - Wei Liu
+  - Stearne Briem
+  - Michael Byrne
+  - Cynthia Caracta
+  - Arindom Chatterjee
+  - Jigar Desai
+  - Frank Favaloro
+  - Pachamuthu Kandasamy
+  - Tomomi Kawamoto
+  - Anthony Lamattina
+  - Fangjun Liu
+  - Ken Longo
+  - Richard Looby
+  - Khoa Luu
+  - Subramanian Marappan
+  - Jake Metterville
+  - Padma Narayanan
+  - Lola Owen
+  - Qianli Pan
+  - Erin Merrill
+  - Priyanka Shiva Prakasha
+  - Himali Shah
+  - Stephany Standley
+  - Kristin Taborn
+  - Snehlata Tripathi
+  - Hailin Yang
+  - Hsiu-Chiung Yang
+  - Yuan Yin
+  - Erik Ingelsson
+  - Chandra Vargeese
+  year: 2025
+  journal: null
+  volume: '33'
+  issue: '4'
+  pages: null
+  doi: ''
+  url: https://scholar.google.com/scholar?cluster=4417712424031447333&hl=en&oi=scholarr
+  citation: Iwamoto, N., Liu, W., Briem, S., Byrne, M., Caracta, C., Chatterjee, A.
+    & et al.. Silencing of Inhbe mRNA Using GalNAc-siRNAs Induces Durable Weight Loss
+    in a Mouse Model of Diet-Induced Obesity. 33 (2025).
+  citation_nature: Iwamoto N., Liu W., Briem S., Byrne M., Caracta C., Chatterjee
+    A., et al.. Silencing of Inhbe mRNA Using GalNAc-siRNAs Induces Durable Weight
+    Loss in a Mouse Model of Diet-Induced Obesity. 33(4) (2025). https://scholar.google.com/scholar?cluster=4417712424031447333&hl=en&oi=scholarr
+- title: The Gcn5 lysine acetyltransferase mediates cell wall remodeling, antifungal
+    drug resistance, and virulence of Candida auris
+  authors:
+  - Manju Chauhan
+  - Raju Shivarathri
+  - Ariel A Aptekmann
+  - Anuradha Chowdhary
+  - Karl Kuchler
+  - Jigar V Desai
+  - Neeraj Chauhan
+  year: 2025
+  journal: mSphere
+  volume: '10'
+  issue: '4'
+  pages: e00069-25
+  doi: 10.1128/msphere.00069-25
+  url: https://journals.asm.org/doi/abs/10.1128/msphere.00069-25
+  citation: Chauhan, M., Shivarathri, R., Aptekmann, A. A., Chowdhary, A., Kuchler,
+    K., Desai, J. V. & Chauhan, N.. The Gcn5 lysine acetyltransferase mediates cell
+    wall remodeling, antifungal drug resistance, and virulence of Candida auris. mSphere
+    10, e00069-25 (2025). https://doi.org/10.1128/msphere.00069-25
+  citation_nature: Chauhan M., Shivarathri R., Aptekmann A.A., Chowdhary A., Kuchler
+    K., Desai J.V., et al.. The Gcn5 lysine acetyltransferase mediates cell wall remodeling,
+    antifungal drug resistance, and virulence of Candida auris. mSphere 10(4), e00069-25
+    (2025). doi:10.1128/msphere.00069-25
+- title: A multidimensional assessment of in-host fitness costs of drug resistance
+    in the opportunistic fungal pathogen Candida glabrata
+  authors:
+  - Amir Arastehfar
+  - Farnaz Daneshnia
+  - Hrant Hovhannisyan
+  - Nathaly Cabrera
+  - Macit Ilkit
+  - Jigar V Desai
+  - Toni Gabaldón
+  - Erika Shor
+  - David S Perlin
+  year: 2024
+  journal: FEMS yeast research
+  volume: '24'
+  issue: null
+  pages: foae035
+  doi: 10.1093/femsyr/foae035/7900768
+  url: https://academic.oup.com/femsyr/article-abstract/doi/10.1093/femsyr/foae035/7900768
+  citation: Arastehfar, A., Daneshnia, F., Hovhannisyan, H., Cabrera, N., Ilkit, M.,
+    Desai, J. V., Gabaldón, T., Shor, E. & Perlin, D. S.. A multidimensional assessment
+    of in-host fitness costs of drug resistance in the opportunistic fungal pathogen
+    Candida glabrata. FEMS yeast research 24, foae035 (2024). https://doi.org/10.1093/femsyr/foae035/7900768
+  citation_nature: Arastehfar A., Daneshnia F., Hovhannisyan H., Cabrera N., Ilkit
+    M., Desai J.V., et al.. A multidimensional assessment of in-host fitness costs
+    of drug resistance in the opportunistic fungal pathogen Candida glabrata. FEMS
+    yeast research 24, foae035 (2024). doi:10.1093/femsyr/foae035/7900768
+- title: Adapting AIMer-based RNA editing technology for application in CNS
+  authors:
+  - C Acker
+  - C Shivalila
+  - J Desai
+  - I Harding
+  - N Iwamoto
+  - G Lu
+  - P Kandasamy
+  - T Kawamoto
+  - J Metterville
+  - M Cannon
+  - E Purcell-Estabrook
+  - A Faraone
+  - P Monian
+  - T Pu
+  - S Standley
+  - J Turner
+  - R Yordanoff
+  - F Liu
+  - H Yang
+  - PH Giangrande
+  - M Byrne
+  - C Vargeese
+  year: 2024
+  journal: null
+  volume: '35'
+  issue: 3-4
+  pages: A328-A329
+  doi: ''
+  url: https://scholar.google.com/scholar?cluster=11948528599118579087&hl=en&oi=scholarr
+  citation: Acker, C., Shivalila, C., Desai, J., Harding, I., Iwamoto, N., Lu, G.
+    & et al.. Adapting AIMer-based RNA editing technology for application in CNS.
+    35, A328-A329 (2024).
+  citation_nature: Acker C., Shivalila C., Desai J., Harding I., Iwamoto N., Lu G.,
+    et al.. Adapting AIMer-based RNA editing technology for application in CNS. 35(3-4),
+    A328-A329 (2024). https://scholar.google.com/scholar?cluster=11948528599118579087&hl=en&oi=scholarr
+- title: BTK drives neutrophil activation for sterilizing antifungal immunity
+  authors:
+  - Jigar V Desai
+  - Marissa A Zarakas
+  - Andrew L Wishart
+  - Mark Roschewski
+  - Mariano A Aufiero
+  - Agnes Donkò
+  - Gustaf Wigerblad
+  - Neta Shlezinger
+  - Markus Plate
+  - Matthew R James
+  - Jean K Lim
+  - Gulbu Uzel
+  - Jenna RE Bergerson
+  - Ivan Fuss
+  - Robert A Cramer
+  - Luis M Franco
+  - Emily S Clark
+  - Wasif N Khan
+  - Daisuke Yamanaka
+  - Georgios Chamilos
+  - Jamel El-Benna
+  - Mariana J Kaplan
   - Louis M Staudt
+  - Thomas L Leto
+  - Steven M Holland
   - Wyndham H Wilson
-  year: 2020
-  journal: Science immunology
+  - Tobias M Hohl
+  - Michail S Lionakis
+  year: 2024
+  journal: The Journal of clinical investigation
+  volume: '134'
+  issue: '12'
+  pages: null
+  doi: ''
+  url: https://www.jci.org/articles/view/176142
+  citation: Desai, J. V., Zarakas, M. A., Wishart, A. L., Roschewski, M., Aufiero,
+    M. A., Donkò, A. & et al.. BTK drives neutrophil activation for sterilizing antifungal
+    immunity. The Journal of clinical investigation 134 (2024).
+  citation_nature: Desai J.V., Zarakas M.A., Wishart A.L., Roschewski M., Aufiero
+    M.A., Donkò A., et al.. BTK drives neutrophil activation for sterilizing antifungal
+    immunity. The Journal of clinical investigation 134(12) (2024). https://www.jci.org/articles/view/176142
+- title: Evaluation of murine renal phagocyte-fungal interactions using intravital
+    confocal microscopy and flow cytometry
+  authors:
+  - Jigar V Desai
+  - Michail S Lionakis
+  year: 2024
+  journal: STAR protocols
   volume: '5'
-  issue: '48'
-  pages: eabd0110
-  doi: 10.1126/sciimmunol.abd0110
-  url: https://www.science.org/doi/abs/10.1126/sciimmunol.abd0110
-  citation: Roschewski, M., Lionakis, M. S., Sharman, J. P., Roswarski, J., Goy, A.,
-    Monticelli, M. A. & et al.. Inhibition of Bruton tyrosine kinase in patients with
-    severe COVID-19. Science immunology 5, eabd0110 (2020). https://doi.org/10.1126/sciimmunol.abd0110
+  issue: '1'
+  pages: '102781'
+  doi: ''
+  url: https://www.sciencedirect.com/science/article/pii/S2666166723007487
+  citation: Desai, J. V. & Lionakis, M. S.. Evaluation of murine renal phagocyte-fungal
+    interactions using intravital confocal microscopy and flow cytometry. STAR protocols
+    5, 102781 (2024).
+  citation_nature: Desai J.V. & Lionakis M.S.. Evaluation of murine renal phagocyte-fungal
+    interactions using intravital confocal microscopy and flow cytometry. STAR protocols
+    5(1), 102781 (2024). https://www.sciencedirect.com/science/article/pii/S2666166723007487
+- title: Oligonucleotide compositions and methods thereof
+  authors:
+  - Prashant Monian
+  - Chikdu Shakti Shivalila
+  - Subramanian Marappan
+  - Chandra Vargeese
+  - Pachamuthu Kandasamy
+  - Genliang Lu
+  - Hui Yu
+  - David Charles Donnell Butler
+  - Luciano Henrique Apponi
+  - Mamoru Shimizu
+  - Stephany Michelle Standley
+  - David John Boulay
+  - Andrew Guzior Hoss
+  - Jigar Desai
+  - Jack David Godfrey
+  - Hailin Yang
+  - Naoki Iwamoto
+  - Jayakanthan Kumarasamy
+  - Anthony Lamattina
+  - Tom Liantang Pu
+  year: 2024
+  journal: null
+  volume: null
+  issue: null
+  pages: null
+  doi: ''
+  url: https://patents.google.com/patent/US20240026358A1/en
+  citation: Monian, P., Shivalila, C. S., Marappan, S., Vargeese, C., Kandasamy, P.,
+    Lu, G. & et al.. Oligonucleotide compositions and methods thereof. (2024).
+  citation_nature: Monian P., Shivalila C.S., Marappan S., Vargeese C., Kandasamy
+    P., Lu G., et al.. Oligonucleotide compositions and methods thereof. (2024). https://patents.google.com/patent/US20240026358A1/en
+- title: siRNA-INHBE Silencing in Mice Confirms Human Genetic Data and Supports a
+    New Approach for Obesity
+  authors:
+  - Hsiu-Chiung Yang
+  - Wei Liu
+  - Subramanian Marappan
+  - Michael Byrne
+  - Khoa Luu
+  - Tomomi Kawamoto
+  - Keith Bowman
+  - Stephany Standley
+  - Naoki Iwamoto
+  - Himali Shah
+  - Lola Owen
+  - Jigar Desai
+  - Anthony Lamattina
+  - Priyanka Prakasha
+  - Hailin Yang
+  - Qianli Pan
+  - Carina Thomas
+  - Kris Taborn
+  - Kuldeep Singh
+  - Pachamuthu Kandasamy
+  - Chandra Vargeese
+  year: 2024
+  journal: null
+  volume: '32'
+  issue: null
+  pages: 163-164
+  doi: ''
+  url: https://scholar.google.com/scholar?cluster=13788506503045622395&hl=en&oi=scholarr
+  citation: Yang, H., Liu, W., Marappan, S., Byrne, M., Luu, K., Kawamoto, T. & et
+    al.. siRNA-INHBE Silencing in Mice Confirms Human Genetic Data and Supports a
+    New Approach for Obesity. 32, 163–164 (2024).
+  citation_nature: Yang H.C.-, Liu W., Marappan S., Byrne M., Luu K., Kawamoto T.,
+    et al.. siRNA-INHBE Silencing in Mice Confirms Human Genetic Data and Supports
+    a New Approach for Obesity. 32, 163-164 (2024). https://scholar.google.com/scholar?cluster=13788506503045622395&hl=en&oi=scholarr
+- title: The Candida auris Hog1 MAP kinase is essential for the colonization of murine
+    skin and intradermal persistence
+  authors:
+  - Raju Shivarathri
+  - Manju Chauhan
+  - Abhishek Datta
+  - Diprasom Das
+  - Adela Karuli
+  - Ariel Aptekmann
+  - Sabrina Jenull
+  - Karl Kuchler
+  - Shankar Thangamani
+  - Anuradha Chowdhary
+  - Jigar V Desai
+  - Neeraj Chauhan
+  year: 2024
+  journal: MBio
+  volume: '15'
+  issue: '11'
+  pages: e02748-24
+  doi: 10.1128/mbio.02748-24
+  url: https://journals.asm.org/doi/abs/10.1128/mbio.02748-24
+  citation: Shivarathri, R., Chauhan, M., Datta, A., Das, D., Karuli, A., Aptekmann,
+    A. & et al.. The Candida auris Hog1 MAP kinase is essential for the colonization
+    of murine skin and intradermal persistence. MBio 15, e02748-24 (2024). https://doi.org/10.1128/mbio.02748-24
+  citation_nature: Shivarathri R., Chauhan M., Datta A., Das D., Karuli A., Aptekmann
+    A., et al.. The Candida auris Hog1 MAP kinase is essential for the colonization
+    of murine skin and intradermal persistence. MBio 15(11), e02748-24 (2024). doi:10.1128/mbio.02748-24
+- title: 'The Influence of Body Fat Dynamics on Pulmonary Immune Responses in Murine
+    Tuberculosis: Unraveling Sex-Specific Insights'
+  authors:
+  - Dhanya Dhanyalayam
+  - Hariprasad Thangavel
+  - Tabinda Sidrat
+  - Neelam Oswal
+  - Kezia Lizardo
+  - Michael Mauro
+  - Xin Zhao
+  - Hai-Hui Xue
+  - Jigar V Desai
+  - Jyothi F Nagajyothi
+  year: 2024
+  journal: International Journal of Molecular Sciences
+  volume: '25'
+  issue: '13'
+  pages: '6823'
+  doi: ''
+  url: https://www.mdpi.com/1422-0067/25/13/6823
+  citation: 'Dhanyalayam, D., Thangavel, H., Sidrat, T., Oswal, N., Lizardo, K., Mauro,
+    M., Zhao, X., Xue, H., Desai, J. V. & Nagajyothi, J. F.. The Influence of Body
+    Fat Dynamics on Pulmonary Immune Responses in Murine Tuberculosis: Unraveling
+    Sex-Specific Insights. International Journal of Molecular Sciences 25, 6823 (2024).'
+  citation_nature: 'Dhanyalayam D., Thangavel H., Sidrat T., Oswal N., Lizardo K.,
+    Mauro M., et al.. The Influence of Body Fat Dynamics on Pulmonary Immune Responses
+    in Murine Tuberculosis: Unraveling Sex-Specific Insights. International Journal
+    of Molecular Sciences 25(13), 6823 (2024). https://www.mdpi.com/1422-0067/25/13/6823'
+- title: C5a-licensed phagocytes drive sterilizing immunity during systemic fungal
+    infection
+  authors:
+  - Jigar V Desai
+  - Dhaneshwar Kumar
+  - Tilo Freiwald
+  - Daniel Chauss
+  - Melissa D Johnson
+  - Michael S Abers
+  - Julie M Steinbrink
+  - John R Perfect
+  - Barbara Alexander
+  - Vasiliki Matzaraki
+  - Brendan D Snarr
+  - Marissa A Zarakas
+  - Vasileios Oikonomou
+  - Lakmali M Silva
+  - Raju Shivarathri
+  - Emily Beltran
+  - Luciana Negro Demontel
+  - Luopin Wang
+  - Jean K Lim
+  - Dylan Launder
+  - Heather R Conti
+  - Muthulekha Swamydas
+  - Micah T McClain
+  - Niki M Moutsopoulos
+  - Majid Kazemian
+  - Mihai G Netea
+  - Vinod Kumar
+  - Jörg Köhl
+  - Claudia Kemper
+  - Behdad Afzali
+  - Michail S Lionakis
+  year: 2023
+  journal: Cell
+  volume: '186'
+  issue: '13'
+  pages: 2802-2822. e22
+  doi: ''
+  url: https://www.cell.com/cell/fulltext/S0092-8674(23)00465-8?uuid=uuid%3Aef536d67-eb49-4b01-90fe-a28f0bb1037f
+  citation: Desai, J. V., Kumar, D., Freiwald, T., Chauss, D., Johnson, M. D., Abers,
+    M. S. & et al.. C5a-licensed phagocytes drive sterilizing immunity during systemic
+    fungal infection. Cell 186, 2802-2822. e22 (2023).
+  citation_nature: Desai J.V., Kumar D., Freiwald T., Chauss D., Johnson M.D., Abers
+    M.S., et al.. C5a-licensed phagocytes drive sterilizing immunity during systemic
+    fungal infection. Cell 186(13), 2802-2822. e22 (2023). https://www.cell.com/cell/fulltext/S0092-8674(23)00465-8?uuid=uuid%3Aef536d67-eb49-4b01-90fe-a28f0bb1037f
+- title: 'C5‐C5aR1‐mediated immune responses during fungal infection: Clinical and
+    translational implications'
+  authors:
+  - Jigar V Desai
+  - Michail S Lionakis
+  year: 2023
+  journal: Clinical and Translational Medicine
+  volume: '13'
+  issue: '9'
+  pages: e1424
+  doi: ''
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10507165/
+  citation: 'Desai, J. V. & Lionakis, M. S.. C5‐C5aR1‐mediated immune responses during
+    fungal infection: Clinical and translational implications. Clinical and Translational
+    Medicine 13, e1424 (2023).'
+  citation_nature: 'Desai J.V. & Lionakis M.S.. C5‐C5aR1‐mediated immune responses
+    during fungal infection: Clinical and translational implications. Clinical and
+    Translational Medicine 13(9), e1424 (2023). https://pmc.ncbi.nlm.nih.gov/articles/PMC10507165/'
+- title: Network analysis of large-scale ImmGen and Tabula Muris datasets highlights
+    metabolic diversity of tissue mononuclear phagocytes
+  authors:
+  - Anastasiia Gainullina
+  - Denis A Mogilenko
+  - Li-Hao Huang
+  - Helena Todorov
+  - Vipin Narang
+  - Ki-Wook Kim
+  - Lim Sheau Yng
+  - Andrew Kent
+  - Baosen Jia
+  - Kumba Seddu
+  - Karen Krchma
+  - Jun Wu
+  - Karine Crozat
+  - Elena Tomasello
+  - Regine Dress
+  - Peter See
+  - Charlotte Scott
+  - Sophie Gibbings
+  - Geetika Bajpai
+  - Jigar V Desai
+  - Barbara Maier
+  - Sébastien This
+  - Peter Wang
+  - Stephanie Vargas Aguilar
+  - Lucie Poupel
+  - Sebastien Dussaud
+  - Tyng-An Zhou
+  - Veronique Angeli
+  - J Magarian Blander
+  - Kyunghee Choi
+  - Marc Dalod
+  - Ivan Dzhagalov
+  - Emmanuel L Gautier
+  - Claudia Jakubzick
+  - Kory Lavine
+  - Michail S Lionakis
+  - Helena Paidassi
+  - Michael H Sieweke
+  - Florent Ginhoux
+  - Martin Guilliams
+  - Christophe Benoist
+  - Miriam Merad
+  - Gwendalyn J Randolph
+  - Alexey Sergushichev
+  - Maxim N Artyomov
+  year: 2023
+  journal: Cell reports
+  volume: '42'
+  issue: '2'
+  pages: null
+  doi: ''
+  url: https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00057-8?dgcid=raven_jbs_etoc_email
+  citation: Gainullina, A., Mogilenko, D. A., Huang, L., Todorov, H., Narang, V.,
+    Kim, K. & et al.. Network analysis of large-scale ImmGen and Tabula Muris datasets
+    highlights metabolic diversity of tissue mononuclear phagocytes. Cell reports
+    42 (2023).
+  citation_nature: Gainullina A., Mogilenko D.A., Huang L.H.-, Todorov H., Narang
+    V., Kim K.W.-, et al.. Network analysis of large-scale ImmGen and Tabula Muris
+    datasets highlights metabolic diversity of tissue mononuclear phagocytes. Cell
+    reports 42(2) (2023). https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00057-8?dgcid=raven_jbs_etoc_email
+- title: Overlooked Candida glabrata petites are echinocandin tolerant, induce host
+    inflammatory responses, and display poor in vivo fitness
+  authors:
+  - Amir Arastehfar
+  - Farnaz Daneshnia
+  - Hrant Hovhannisyan
+  - Diego Fuentes
+  - Nathaly Cabrera
+  - Christopher Quinteros
+  - Macit Ilkit
+  - Nevzat Ünal
+  - Suleyha Hilmioğlu-Polat
+  - Kauser Jabeen
+  - Sadaf Zaka
+  - Jigar V Desai
+  - Cornelia Lass-Flörl
+  - Erika Shor
+  - Toni Gabaldon
+  - David S Perlin
+  year: 2023
+  journal: MBio
+  volume: '14'
+  issue: '5'
+  pages: e01180-23
+  doi: 10.1128/mbio.01180-23
+  url: https://journals.asm.org/doi/abs/10.1128/mbio.01180-23
+  citation: Arastehfar, A., Daneshnia, F., Hovhannisyan, H., Fuentes, D., Cabrera,
+    N., Quinteros, C. & et al.. Overlooked Candida glabrata petites are echinocandin
+    tolerant, induce host inflammatory responses, and display poor in vivo fitness.
+    MBio 14, e01180-23 (2023). https://doi.org/10.1128/mbio.01180-23
+  citation_nature: Arastehfar A., Daneshnia F., Hovhannisyan H., Fuentes D., Cabrera
+    N., Quinteros C., et al.. Overlooked Candida glabrata petites are echinocandin
+    tolerant, induce host inflammatory responses, and display poor in vivo fitness.
+    MBio 14(5), e01180-23 (2023). doi:10.1128/mbio.01180-23
+- title: pDC-like cells are pre-DC2 and require KLF4 to control homeostatic CD4 T
+    cells
+  authors:
+  - Patrick Fernandes Rodrigues
+  - Athanasios Kouklas
+  - Grozdan Cvijetic
+  - Nicolas Bouladoux
+  - Mladen Mitrovic
+  - Jigar V Desai
+  - Djalma S Lima-Junior
+  - Michail S Lionakis
+  - Yasmine Belkaid
+  - Robert Ivanek
+  - Roxane Tussiwand
+  year: 2023
+  journal: Science immunology
+  volume: '8'
+  issue: '80'
+  pages: eadd4132
+  doi: 10.1126/sciimmunol.add4132
+  url: https://www.science.org/doi/abs/10.1126/sciimmunol.add4132
+  citation: Rodrigues, P. F., Kouklas, A., Cvijetic, G., Bouladoux, N., Mitrovic,
+    M., Desai, J. V. & et al.. pDC-like cells are pre-DC2 and require KLF4 to control
+    homeostatic CD4 T cells. Science immunology 8, eadd4132 (2023). https://doi.org/10.1126/sciimmunol.add4132
+  citation_nature: Rodrigues P.F., Kouklas A., Cvijetic G., Bouladoux N., Mitrovic
+    M., Desai J.V., et al.. pDC-like cells are pre-DC2 and require KLF4 to control
+    homeostatic CD4 T cells. Science immunology 8(80), eadd4132 (2023). doi:10.1126/sciimmunol.add4132
+- title: Efficacy of cochleated amphotericin B in mouse and human mucocutaneous candidiasis
+  authors:
+  - Jigar V Desai
+  - Amanda Urban
+  - Doris Z Swaim
+  - Benjamin Colton
+  - Lilian W Kibathi
+  - Elise MN Ferrè
+  - Pamela Stratton
+  - Melissa A Merideth
+  - Sally Hunsberger
+  - Theresa Matkovits
+  - Raphael Mannino
+  - Steven M Holland
+  - Edmund Tramont
+  - Michail S Lionakis
+  - Alexandra F Freeman
+  year: 2022
+  journal: Antimicrobial Agents and Chemotherapy
+  volume: '66'
+  issue: '7'
+  pages: e00308-22
+  doi: 10.1128/aac.00308-22
+  url: https://journals.asm.org/doi/abs/10.1128/aac.00308-22
+  citation: Desai, J. V., Urban, A., Swaim, D. Z., Colton, B., Kibathi, L. W., Ferrè,
+    E. M. & et al.. Efficacy of cochleated amphotericin B in mouse and human mucocutaneous
+    candidiasis. Antimicrobial Agents and Chemotherapy 66, e00308-22 (2022). https://doi.org/10.1128/aac.00308-22
+  citation_nature: Desai J.V., Urban A., Swaim D.Z., Colton B., Kibathi L.W., Ferrè
+    E.M., et al.. Efficacy of cochleated amphotericin B in mouse and human mucocutaneous
+    candidiasis. Antimicrobial Agents and Chemotherapy 66(7), e00308-22 (2022). doi:10.1128/aac.00308-22
+- title: Human Dectin-1 deficiency impairs macrophage-mediated defense against phaeohyphomycosis
+  authors:
+  - Rebecca A Drummond
+  - Jigar V Desai
+  - Amy P Hsu
+  - Vasileios Oikonomou
+  - Donald C Vinh
+  - Joshua A Acklin
+  - Michael S Abers
+  - Magdalena A Walkiewicz
+  - Sarah L Anzick
+  - Muthulekha Swamydas
+  - Simon Vautier
+  - Mukil Natarajan
+  - Andrew J Oler
+  - Daisuke Yamanaka
+  - Katrin D Mayer-Barber
+  - Yoichiro Iwakura
+  - David Bianchi
+  - Brian Driscoll
+  - Ken Hauck
+  - Ahnika Kline
+  - Nicholas SP Viall
+  - Christa S Zerbe
+  - Elise MN Ferré
+  - Monica M Schmitt
+  - Tom DiMaggio
+  - Stefania Pittaluga
+  - John A Butman
+  - Adrian M Zelazny
+  - Yvonne R Shea
+  - Cesar A Arias
+  - Cameron Ashbaugh
+  - Maryam Mahmood
+  - Zelalem Temesgen
+  - Alexander G Theofiles
+  - Masayuki Nigo
+  - Varsha Moudgal
+  - Karen C Bloch
+  - Sean G Kelly
+  - M Suzanne Whitworth
+  - Ganesh Rao
+  - Cindy J Whitener
+  - Neema Mafi
+  - Juan Gea-Banacloche
+  - Lawrence C Kenyon
+  - William R Miller
+  - Katia Boggian
+  - Andrea Gilbert
+  - Matthew Sincock
+  - Alexandra F Freeman
+  - John E Bennett
+  - Rodrigo Hasbun
+  - Constantinos M Mikelis
+  - Kyung J Kwon-Chung
+  - Yasmine Belkaid
+  - Gordon D Brown
+  - Jean K Lim
+  - Douglas B Kuhns
+  - Steven M Holland
+  - Michail S Lionakis
+  year: 2022
+  journal: The Journal of Clinical Investigation
+  volume: '132'
+  issue: '22'
+  pages: null
+  doi: ''
+  url: https://www.jci.org/articles/view/159348
+  citation: Drummond, R. A., Desai, J. V., Hsu, A. P., Oikonomou, V., Vinh, D. C.,
+    Acklin, J. A. & et al.. Human Dectin-1 deficiency impairs macrophage-mediated
+    defense against phaeohyphomycosis. The Journal of Clinical Investigation 132 (2022).
+  citation_nature: Drummond R.A., Desai J.V., Hsu A.P., Oikonomou V., Vinh D.C., Acklin
+    J.A., et al.. Human Dectin-1 deficiency impairs macrophage-mediated defense against
+    phaeohyphomycosis. The Journal of Clinical Investigation 132(22) (2022). https://www.jci.org/articles/view/159348
+- title: Immunogenetics associated with severe coccidioidomycosis
+  authors:
+  - Amy P Hsu
+  - Agnieszka Korzeniowska
+  - Cynthia C Aguilar
+  - Jingwen Gu
+  - Eric Karlins
+  - Andrew J Oler
+  - Gang Chen
+  - Glennys V Reynoso
+  - Joie Davis
+  - Alexandria Chaput
+  - Tao Peng
+  - Ling Sun
+  - Justin B Lack
+  - Derek J Bays
+  - Ethan R Stewart
+  - Sarah E Waldman
+  - Daniel A Powell
+  - Fariba M Donovan
+  - Jigar V Desai
+  - Nima Pouladi
+  - Debra A Long Priel
+  - Daisuke Yamanaka
+  - Sergio D Rosenzweig
+  - Julie E Niemela
+  - Jennifer Stoddard
+  - Alexandra F Freeman
+  - Christa S Zerbe
+  - Douglas B Kuhns
+  - Yves A Lussier
+  - Kenneth N Olivier
+  - Richard C Boucher
+  - Heather D Hickman
+  - Jeffrey Frelinger
+  - Joshua Fierer
+  - Lisa F Shubitz
+  - Thomas L Leto
+  - George R Thompson III
+  - John N Galgiani
+  - Michail S Lionakis
+  - Steven M Holland
+  year: 2022
+  journal: JCI insight
+  volume: '7'
+  issue: '22'
+  pages: e159491
+  doi: ''
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9746810/
+  citation: Hsu, A. P., Korzeniowska, A., Aguilar, C. C., Gu, J., Karlins, E., Oler,
+    A. J. & et al.. Immunogenetics associated with severe coccidioidomycosis. JCI
+    insight 7, e159491 (2022).
+  citation_nature: Hsu A.P., Korzeniowska A., Aguilar C.C., Gu J., Karlins E., Oler
+    A.J., et al.. Immunogenetics associated with severe coccidioidomycosis. JCI insight
+    7(22), e159491 (2022). https://pmc.ncbi.nlm.nih.gov/articles/PMC9746810/
+- title: Immunological memory to fungal infections and vaccine development
+  authors:
+  - André Moraes Nicola
+  - Jigar V Desai
+  - Marc Swidergall
+  - Muki Shey
+  - Ivy M Dambuza
+  year: 2022
+  journal: null
+  volume: '13'
+  issue: null
+  pages: '880037'
+  doi: 10.3389/fimmu.2022.880037/full
+  url: https://www.frontiersin.org/articles/10.3389/fimmu.2022.880037/full
+  citation: Nicola, A. M., Desai, J. V., Swidergall, M., Shey, M. & Dambuza, I. M..
+    Immunological memory to fungal infections and vaccine development. 13, 880037
+    (2022). https://doi.org/10.3389/fimmu.2022.880037/full
+  citation_nature: Nicola A.M., Desai J.V., Swidergall M., Shey M. & Dambuza I.M..
+    Immunological memory to fungal infections and vaccine development. 13, 880037
+    (2022). doi:10.3389/fimmu.2022.880037/full
+- title: Long-term antibiotic exposure promotes mortality after systemic fungal infection
+    by driving lymphocyte dysfunction and systemic escape of commensal bacteria
+  authors:
+  - Rebecca A Drummond
+  - Jigar V Desai
+  - Emily E Ricotta
+  - Muthulekha Swamydas
+  - Clay Deming
+  - Sean Conlan
+  - Mariam Quinones
+  - Veronika Matei-Rascu
+  - Lozan Sheriff
+  - David Lecky
+  - Chyi-Chia R Lee
+  - Nathaniel M Green
+  - Nicholas Collins
+  - Adrian M Zelazny
+  - D Rebecca Prevots
+  - David Bending
+  - David Withers
+  - Yasmine Belkaid
+  - Julia A Segre
+  - Michail S Lionakis
+  year: 2022
+  journal: Cell host & microbe
+  volume: '30'
+  issue: '7'
+  pages: 1020-1033. e6
+  doi: ''
+  url: https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(22)00219-0
+  citation: Drummond, R. A., Desai, J. V., Ricotta, E. E., Swamydas, M., Deming, C.,
+    Conlan, S. & et al.. Long-term antibiotic exposure promotes mortality after systemic
+    fungal infection by driving lymphocyte dysfunction and systemic escape of commensal
+    bacteria. Cell host & microbe 30, 1020-1033. e6 (2022).
+  citation_nature: Drummond R.A., Desai J.V., Ricotta E.E., Swamydas M., Deming C.,
+    Conlan S., et al.. Long-term antibiotic exposure promotes mortality after systemic
+    fungal infection by driving lymphocyte dysfunction and systemic escape of commensal
+    bacteria. Cell host & microbe 30(7), 1020-1033. e6 (2022). https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(22)00219-0
+- title: Predicting exon criticality from protein sequence
+  authors:
+  - Jigar Desai
+  - Christopher Francis
+  - Kenneth Longo
+  - Andrew Hoss
+  year: 2022
+  journal: Nucleic Acids Research
+  volume: '50'
+  issue: '6'
+  pages: 3128-3141
+  doi: ''
+  url: https://academic.oup.com/nar/article-abstract/50/6/3128/6548300
+  citation: Desai, J., Francis, C., Longo, K. & Hoss, A.. Predicting exon criticality
+    from protein sequence. Nucleic Acids Research 50, 3128–3141 (2022).
+  citation_nature: Desai J., Francis C., Longo K. & Hoss A.. Predicting exon criticality
+    from protein sequence. Nucleic Acids Research 50(6), 3128-3141 (2022). https://academic.oup.com/nar/article-abstract/50/6/3128/6548300
+- title: Aberrant type 1 immunity drives susceptibility to mucosal fungal infections
+  authors:
+  - Timothy J Break
+  - Vasileios Oikonomou
+  - Nicolas Dutzan
+  - Jigar V Desai
+  - Marc Swidergall
+  - Tilo Freiwald
+  - Daniel Chauss
+  - Oliver J Harrison
+  - Julie Alejo
+  - Drake W Williams
+  - Stefania Pittaluga
+  - Chyi-Chia R Lee
+  - Nicolas Bouladoux
+  - Muthulekha Swamydas
+  - Kevin W Hoffman
+  - Teresa Greenwell-Wild
+  - Vincent M Bruno
+  - Lindsey B Rosen
+  - Wint Lwin
+  - Andy Renteria
+  - Sergio M Pontejo
+  - John P Shannon
+  - Ian A Myles
+  - Peter Olbrich
+  - Elise MN Ferré
+  - Monica Schmitt
+  - Daniel Martin
+  - Genomics
+  - Computational Biology Core 16
+  - Daniel L Barber
+  - Norma V Solis
+  - Luigi D Notarangelo
+  - David V Serreze
+  - Mitsuru Matsumoto
+  - Heather D Hickman
+  - Philip M Murphy
+  - Mark S Anderson
+  - Jean K Lim
+  - Steven M Holland
+  - Scott G Filler
+  - Behdad Afzali
+  - Yasmine Belkaid
+  - Niki M Moutsopoulos
+  - Michail S Lionakis
+  year: 2021
+  journal: Science
+  volume: '371'
+  issue: '6526'
+  pages: eaay5731
+  doi: 10.1126/science.aay5731
+  url: https://www.science.org/doi/abs/10.1126/science.aay5731
+  citation: Break, T. J., Oikonomou, V., Dutzan, N., Desai, J. V., Swidergall, M.,
+    Freiwald, T. & et al.. Aberrant type 1 immunity drives susceptibility to mucosal
+    fungal infections. Science 371, eaay5731 (2021). https://doi.org/10.1126/science.aay5731
+  citation_nature: Break T.J., Oikonomou V., Dutzan N., Desai J.V., Swidergall M.,
+    Freiwald T., et al.. Aberrant type 1 immunity drives susceptibility to mucosal
+    fungal infections. Science 371(6526), eaay5731 (2021). doi:10.1126/science.aay5731
 - title: An immune-based biomarker signature is associated with mortality in COVID-19
     patients
   authors:
@@ -126,164 +1092,9 @@
   citation: Abers, M. S., Delmonte, O. M., Ricotta, E. E., Fintzi, J., Fink, D. L.,
     Jesus, A. A. A. D. & et al.. An immune-based biomarker signature is associated
     with mortality in COVID-19 patients. JCI insight 6, e144455 (2021).
-- title: An ocular commensal protects against corneal infection by driving an interleukin-17
-    response from mucosal γδ T cells
-  authors:
-  - Anthony J St Leger
-  - Jigar V Desai
-  - Rebecca A Drummond
-  - Abirami Kugadas
-  - Fatimah Almaghrabi
-  - Phyllis Silver
-  - Kumarkrishna Raychaudhuri
-  - Mihaela Gadjeva
-  - Yoichiro Iwakura
-  - Michail S Lionakis
-  - Rachel R Caspi
-  year: 2017
-  journal: Immunity
-  volume: '47'
-  issue: '1'
-  pages: 148-158. e5
-  doi: ''
-  url: https://www.cell.com/immunity/fulltext/S1074-7613(17)30274-1
-  citation: Leger, A. J. S., Desai, J. V., Drummond, R. A., Kugadas, A., Almaghrabi,
-    F., Silver, P. & et al.. An ocular commensal protects against corneal infection
-    by driving an interleukin-17 response from mucosal γδ T cells. Immunity 47, 148-158.
-    e5 (2017).
-- title: Fungal biofilms, drug resistance, and recurrent infection
-  authors:
-  - Jigar V Desai
-  - Aaron P Mitchell
-  - David R Andes
-  year: 2014
-  journal: null
-  volume: '4'
-  issue: '10'
-  pages: a019729
-  doi: ''
-  url: https://perspectivesinmedicine.cshlp.org/content/4/10/a019729.short
-  citation: Desai, J. V., Mitchell, A. P. & Andes, D. R.. Fungal biofilms, drug resistance,
-    and recurrent infection. 4, a019729 (2014).
-- title: Portrait of Candida albicans Adherence Regulators
-  authors:
-  - Jonathan S Finkel
-  - Wenjie Xu
-  - David Huang
-  - Elizabeth M Hill
-  - Jigar V Desai
-  - Carol A Woolford
-  - Jeniel E Nett
-  - Heather Taff
-  - Carmelle T Norice
-  - David R Andes
-  - Frederick Lanni
-  - Aaron P Mitchell
-  year: 2012
-  journal: PLoS pathogens
-  volume: '8'
-  issue: '2'
-  pages: e1002525
-  doi: 10.1371/journal.ppat.1002525
-  url: https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1002525
-  citation: Finkel, J. S., Xu, W., Huang, D., Hill, E. M., Desai, J. V., Woolford,
-    C. A. & et al.. Portrait of Candida albicans Adherence Regulators. PLoS pathogens
-    8, e1002525 (2012). https://doi.org/10.1371/journal.ppat.1002525
-- title: Prenatal maternal infection promotes tissue-specific immunity and inflammation
-    in offspring
-  authors:
-  - Ai Ing Lim
-  - Taryn McFadden
-  - Verena M Link
-  - Seong-Ji Han
-  - Rose-Marie Karlsson
-  - Apollo Stacy
-  - Taylor K Farley
-  - Djalma S Lima-Junior
-  - Oliver J Harrison
-  - Jigar V Desai
-  - Michail S Lionakis
-  - Han-Yu Shih
-  - Heather A Cameron
-  - Yasmine Belkaid
-  year: 2021
-  journal: Science
-  volume: '373'
-  issue: '6558'
-  pages: eabf3002
-  doi: 10.1126/science.abf3002
-  url: https://www.science.org/doi/abs/10.1126/science.abf3002
-  citation: Lim, A. I., McFadden, T., Link, V. M., Han, S., Karlsson, R., Stacy, A.
-    & et al.. Prenatal maternal infection promotes tissue-specific immunity and inflammation
-    in offspring. Science 373, eabf3002 (2021). https://doi.org/10.1126/science.abf3002
-- title: Aberrant type 1 immunity drives susceptibility to mucosal fungal infections
-  authors:
-  - Timothy J Break
-  - Vasileios Oikonomou
-  - Nicolas Dutzan
-  - Jigar V Desai
-  - Marc Swidergall
-  - Tilo Freiwald
-  - Daniel Chauss
-  - Oliver J Harrison
-  - Julie Alejo
-  - Drake W Williams
-  - Stefania Pittaluga
-  - Chyi-Chia R Lee
-  - Nicolas Bouladoux
-  - Muthulekha Swamydas
-  - Kevin W Hoffman
-  - Teresa Greenwell-Wild
-  - Vincent M Bruno
-  - Lindsey B Rosen
-  - Wint Lwin
-  - Andy Renteria
-  - Sergio M Pontejo
-  - John P Shannon
-  - Ian A Myles
-  - Peter Olbrich
-  - Elise MN Ferré
-  - Monica Schmitt
-  - Daniel Martin
-  - Genomics
-  - Computational Biology Core 16
-  - Daniel L Barber
-  - Norma V Solis
-  - Luigi D Notarangelo
-  - David V Serreze
-  - Mitsuru Matsumoto
-  - Heather D Hickman
-  - Philip M Murphy
-  - Mark S Anderson
-  - Jean K Lim
-  - Steven M Holland
-  - Scott G Filler
-  - Behdad Afzali
-  - Yasmine Belkaid
-  - Niki M Moutsopoulos
-  - Michail S Lionakis
-  year: 2021
-  journal: Science
-  volume: '371'
-  issue: '6526'
-  pages: eaay5731
-  doi: 10.1126/science.aay5731
-  url: https://www.science.org/doi/abs/10.1126/science.aay5731
-  citation: Break, T. J., Oikonomou, V., Dutzan, N., Desai, J. V., Swidergall, M.,
-    Freiwald, T. & et al.. Aberrant type 1 immunity drives susceptibility to mucosal
-    fungal infections. Science 371, eaay5731 (2021). https://doi.org/10.1126/science.aay5731
-- title: 'Candida albicans Hyphae: From Growth Initiation to Invasion'
-  authors:
-  - Jigar V Desai
-  year: 2018
-  journal: null
-  volume: '4'
-  issue: '1'
-  pages: '10'
-  doi: ''
-  url: https://www.mdpi.com/2309-608X/4/1/10
-  citation: 'Desai, J. V.. Candida albicans Hyphae: From Growth Initiation to Invasion.
-    4, 10 (2018).'
+  citation_nature: Abers M.S., Delmonte O.M., Ricotta E.E., Fintzi J., Fink D.L.,
+    Jesus A.A.A.D., et al.. An immune-based biomarker signature is associated with
+    mortality in COVID-19 patients. JCI insight 6(1), e144455 (2021). https://pmc.ncbi.nlm.nih.gov/articles/PMC7821609/
 - title: Mitochondrial C5aR1 activity in macrophages controls IL-1β production underlying
     sterile inflammation
   authors:
@@ -334,66 +1145,9 @@
   citation: Niyonzima, N., Rahman, J., Kunz, N., West, E. E., Freiwald, T., Desai,
     J. V. & et al.. Mitochondrial C5aR1 activity in macrophages controls IL-1β production
     underlying sterile inflammation. Science immunology 6, eabf2489 (2021). https://doi.org/10.1126/sciimmunol.abf2489
-- title: The role of neutrophils in host defense against invasive fungal infections
-  authors:
-  - Jigar V Desai
-  - Michail S Lionakis
-  year: 2018
-  journal: null
-  volume: '5'
-  issue: '3'
-  pages: 181-189
-  doi: 10.1007/s40588-018-0098-6
-  url: https://link.springer.com/article/10.1007/s40588-018-0098-6
-  citation: Desai, J. V. & Lionakis, M. S.. The role of neutrophils in host defense
-    against invasive fungal infections. 5, 181–189 (2018). https://doi.org/10.1007/s40588-018-0098-6
-- title: Long-term antibiotic exposure promotes mortality after systemic fungal infection
-    by driving lymphocyte dysfunction and systemic escape of commensal bacteria
-  authors:
-  - Rebecca A Drummond
-  - Jigar V Desai
-  - Emily E Ricotta
-  - Muthulekha Swamydas
-  - Clay Deming
-  - Sean Conlan
-  - Mariam Quinones
-  - Veronika Matei-Rascu
-  - Lozan Sheriff
-  - David Lecky
-  - Chyi-Chia R Lee
-  - Nathaniel M Green
-  - Nicholas Collins
-  - Adrian M Zelazny
-  - D Rebecca Prevots
-  - David Bending
-  - David Withers
-  - Yasmine Belkaid
-  - Julia A Segre
-  - Michail S Lionakis
-  year: 2022
-  journal: Cell host & microbe
-  volume: '30'
-  issue: '7'
-  pages: 1020-1033. e6
-  doi: ''
-  url: https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(22)00219-0
-  citation: Drummond, R. A., Desai, J. V., Ricotta, E. E., Swamydas, M., Deming, C.,
-    Conlan, S. & et al.. Long-term antibiotic exposure promotes mortality after systemic
-    fungal infection by driving lymphocyte dysfunction and systemic escape of commensal
-    bacteria. Cell host & microbe 30, 1020-1033. e6 (2022).
-- title: Candida albicans Biofilm Development and Its Genetic Control
-  authors:
-  - Jigar V Desai
-  - Aaron P Mitchell
-  year: 2015
-  journal: Microbial Biofilms
-  volume: null
-  issue: null
-  pages: 99-114
-  doi: 10.1128/9781555817466.ch5
-  url: https://onlinelibrary.wiley.com/doi/abs/10.1128/9781555817466.ch5
-  citation: Desai, J. V. & Mitchell, A. P.. Candida albicans Biofilm Development and
-    Its Genetic Control. Microbial Biofilms, 99–114 (2015). https://doi.org/10.1128/9781555817466.ch5
+  citation_nature: Niyonzima N., Rahman J., Kunz N., West E.E., Freiwald T., Desai
+    J.V., et al.. Mitochondrial C5aR1 activity in macrophages controls IL-1β production
+    underlying sterile inflammation. Science immunology 6(66), eabf2489 (2021). doi:10.1126/sciimmunol.abf2489
 - title: Murine model of colonization with fungal pathogen Candida auris to explore
     skin tropism, host risk factors and therapeutic strategies
   authors:
@@ -417,303 +1171,217 @@
     Sim, C. K., Belkaid, Y., Lionakis, M. S. & Segre, J. A.. Murine model of colonization
     with fungal pathogen Candida auris to explore skin tropism, host risk factors
     and therapeutic strategies. Cell host & microbe 29, 210-221. e6 (2021).
-- title: Regulatory role of glycerol in Candida albicans biofilm formation
+  citation_nature: Huang X., Hurabielle C., Drummond R.A., Bouladoux N., Desai J.V.,
+    Sim C.K., et al.. Murine model of colonization with fungal pathogen Candida auris
+    to explore skin tropism, host risk factors and therapeutic strategies. Cell host
+    & microbe 29(2), 210-221. e6 (2021). https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30664-8?uuid=uuid%3Aea41591b-ff49-407e-be71-7f8114878a28
+- title: Prenatal maternal infection promotes tissue-specific immunity and inflammation
+    in offspring
   authors:
-  - Jigar V Desai
-  - Vincent M Bruno
-  - Shantanu Ganguly
-  - Ronald J Stamper
-  - Kaitlin F Mitchell
-  - Norma Solis
-  - Elizabeth M Hill
-  - Wenjie Xu
-  - Scott G Filler
-  - David R Andes
-  - Saranna Fanning
-  - Frederick Lanni
-  - Aaron P Mitchell
-  year: 2013
-  journal: MBio
-  volume: '4'
-  issue: '2'
-  pages: 10.1128/mbio. 00637-12
-  doi: 10.1128/mbio.00637-12
-  url: https://journals.asm.org/doi/abs/10.1128/mbio.00637-12
-  citation: Desai, J. V., Bruno, V. M., Ganguly, S., Stamper, R. J., Mitchell, K.
-    F., Solis, N. & et al.. Regulatory role of glycerol in Candida albicans biofilm
-    formation. MBio 4, 10.1128/mbio. 00637-12 (2013). https://doi.org/10.1128/mbio.00637-12
-- title: C5a-licensed phagocytes drive sterilizing immunity during systemic fungal
-    infection
-  authors:
-  - Jigar V Desai
-  - Dhaneshwar Kumar
-  - Tilo Freiwald
-  - Daniel Chauss
-  - Melissa D Johnson
-  - Michael S Abers
-  - Julie M Steinbrink
-  - John R Perfect
-  - Barbara Alexander
-  - Vasiliki Matzaraki
-  - Brendan D Snarr
-  - Marissa A Zarakas
-  - Vasileios Oikonomou
-  - Lakmali M Silva
-  - Raju Shivarathri
-  - Emily Beltran
-  - Luciana Negro Demontel
-  - Luopin Wang
-  - Jean K Lim
-  - Dylan Launder
-  - Heather R Conti
-  - Muthulekha Swamydas
-  - Micah T McClain
-  - Niki M Moutsopoulos
-  - Majid Kazemian
-  - Mihai G Netea
-  - Vinod Kumar
-  - Jörg Köhl
-  - Claudia Kemper
-  - Behdad Afzali
-  - Michail S Lionakis
-  year: 2023
-  journal: Cell
-  volume: '186'
-  issue: '13'
-  pages: 2802-2822. e22
-  doi: ''
-  url: https://www.cell.com/cell/fulltext/S0092-8674(23)00465-8?uuid=uuid%3Aef536d67-eb49-4b01-90fe-a28f0bb1037f
-  citation: Desai, J. V., Kumar, D., Freiwald, T., Chauss, D., Johnson, M. D., Abers,
-    M. S. & et al.. C5a-licensed phagocytes drive sterilizing immunity during systemic
-    fungal infection. Cell 186, 2802-2822. e22 (2023).
-- title: Systemic type I IFN inflammation in human ISG15 deficiency leads to necrotizing
-    skin lesions
-  authors:
-  - Marta Martin-Fernandez
-  - María Bravo García-Morato
-  - Conor Gruber
-  - Sara Murias Loza
-  - Muhammad Nasir Hayat Malik
-  - Fahad Alsohime
-  - Abdullah Alakeel
-  - Rita Valdez
-  - Sofija Buta
-  - Guadalupe Buda
-  - Marcelo A Marti
-  - Margarita Larralde
-  - Bertrand Boisson
-  - Marta Feito Rodriguez
-  - Xueer Qiu
-  - Maya Chrabieh
-  - Mohammed Al Ayed
-  - Saleh Al Muhsen
-  - Jigar V Desai
-  - Elise MN Ferre
-  - Sergio D Rosenzweig
-  - Blanca Amador-Borrero
-  - Luz Yadira Bravo-Gallego
-  - Ruth Olmer
-  - Sylvia Merkert
-  - Montserrat Bret
-  - Amika K Sood
-  - Abdulkarim Al-Rabiaah
-  - Mohamad Hani Temsah
-  - Rabih Halwani
-  - Michelle Hernandez
-  - Frank Pessler
-  - Jean-Laurent Casanova
-  - Jacinta Bustamante
-  - Michail S Lionakis
-  - Dusan Bogunovic
-  year: 2020
-  journal: Cell reports
-  volume: '31'
-  issue: '6'
-  pages: null
-  doi: ''
-  url: https://www.cell.com/cell-reports/fulltext/S2211-1247(20)30586-6
-  citation: Martin-Fernandez, M., García-Morato, M. B., Gruber, C., Loza, S. M., Malik,
-    M. N. H., Alsohime, F. & et al.. Systemic type I IFN inflammation in human ISG15
-    deficiency leads to necrotizing skin lesions. Cell reports 31 (2020).
-- title: Pyridoxal 5′-Phosphate Is a Slow Tight Binding Inhibitor of E. coli Pyridoxal
-    Kinase
-  authors:
-  - Mohini S Ghatge
-  - Roberto Contestabile
-  - Martino L di Salvo
-  - Jigar V Desai
-  - Amit K Gandhi
-  - Christina M Camara
-  - Rita Florio
-  - Isabel N González
-  - Alessia Parroni
-  - Verne Schirch
-  - Martin K Safo
-  year: 2012
-  journal: null
-  volume: '7'
-  issue: '7'
-  pages: e41680
-  doi: 10.1371/journal.pone.0041680
-  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0041680
-  citation: Ghatge, M. S., Contestabile, R., Salvo, M. L. D., Desai, J. V., Gandhi,
-    A. K., Camara, C. M. & et al.. Pyridoxal 5′-Phosphate Is a Slow Tight Binding
-    Inhibitor of E. coli Pyridoxal Kinase. 7, e41680 (2012). https://doi.org/10.1371/journal.pone.0041680
-- title: pDC-like cells are pre-DC2 and require KLF4 to control homeostatic CD4 T
-    cells
-  authors:
-  - Patrick Fernandes Rodrigues
-  - Athanasios Kouklas
-  - Grozdan Cvijetic
-  - Nicolas Bouladoux
-  - Mladen Mitrovic
-  - Jigar V Desai
+  - Ai Ing Lim
+  - Taryn McFadden
+  - Verena M Link
+  - Seong-Ji Han
+  - Rose-Marie Karlsson
+  - Apollo Stacy
+  - Taylor K Farley
   - Djalma S Lima-Junior
+  - Oliver J Harrison
+  - Jigar V Desai
   - Michail S Lionakis
+  - Han-Yu Shih
+  - Heather A Cameron
   - Yasmine Belkaid
-  - Robert Ivanek
-  - Roxane Tussiwand
-  year: 2023
-  journal: Science immunology
-  volume: '8'
-  issue: '80'
-  pages: eadd4132
-  doi: 10.1126/sciimmunol.add4132
-  url: https://www.science.org/doi/abs/10.1126/sciimmunol.add4132
-  citation: Rodrigues, P. F., Kouklas, A., Cvijetic, G., Bouladoux, N., Mitrovic,
-    M., Desai, J. V. & et al.. pDC-like cells are pre-DC2 and require KLF4 to control
-    homeostatic CD4 T cells. Science immunology 8, eadd4132 (2023). https://doi.org/10.1126/sciimmunol.add4132
-- title: Human defects in STAT3 promote oral mucosal fungal and bacterial dysbiosis
+  year: 2021
+  journal: Science
+  volume: '373'
+  issue: '6558'
+  pages: eabf3002
+  doi: 10.1126/science.abf3002
+  url: https://www.science.org/doi/abs/10.1126/science.abf3002
+  citation: Lim, A. I., McFadden, T., Link, V. M., Han, S., Karlsson, R., Stacy, A.
+    & et al.. Prenatal maternal infection promotes tissue-specific immunity and inflammation
+    in offspring. Science 373, eabf3002 (2021). https://doi.org/10.1126/science.abf3002
+  citation_nature: Lim A.I., McFadden T., Link V.M., Han S.J.-, Karlsson R.M.-, Stacy
+    A., et al.. Prenatal maternal infection promotes tissue-specific immunity and
+    inflammation in offspring. Science 373(6558), eabf3002 (2021). doi:10.1126/science.abf3002
+- title: 'Publisher Correction: Gut CD4+ T cell phenotypes are a continuum molded
+    by microbes, not by TH archetypes'
   authors:
-  - Loreto Abusleme
-  - Patricia I Diaz
-  - Alexandra F Freeman
-  - Teresa Greenwell-Wild
-  - Laurie Brenchley
-  - Jigar V Desai
-  - Weng-Ian Ng
-  - Steven M Holland
-  - Michail S Lionakis
-  - Julia A Segre
-  - Heidi H Kong
-  - Niki M Moutsopoulos
-  year: 2018
-  journal: JCI insight
-  volume: '3'
-  issue: '17'
-  pages: e122061
+  - Evgeny Kiner
+  - Elijah Willie
+  - Brinda Vijaykumar
+  - Kaitavjeet Chowdhary
+  - Hugo Schmutz
+  - Jodie Chandler
+  - Alexandra Schnell
+  - Pratiksha I Thakore
+  - Graham LeGros
+  - Sara Mostafavi
+  - Diane Mathis
+  - Christophe Benoist
+  year: 2021
+  journal: Nature Immunology
+  volume: '22'
+  issue: '5'
+  pages: 666-668
   doi: ''
-  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6171814/
-  citation: Abusleme, L., Diaz, P. I., Freeman, A. F., Greenwell-Wild, T., Brenchley,
-    L., Desai, J. V. & et al.. Human defects in STAT3 promote oral mucosal fungal
-    and bacterial dysbiosis. JCI insight 3, e122061 (2018).
-- title: Immunogenetics associated with severe coccidioidomycosis
-  authors:
-  - Amy P Hsu
-  - Agnieszka Korzeniowska
-  - Cynthia C Aguilar
-  - Jingwen Gu
-  - Eric Karlins
-  - Andrew J Oler
-  - Gang Chen
-  - Glennys V Reynoso
-  - Joie Davis
-  - Alexandria Chaput
-  - Tao Peng
-  - Ling Sun
-  - Justin B Lack
-  - Derek J Bays
-  - Ethan R Stewart
-  - Sarah E Waldman
-  - Daniel A Powell
-  - Fariba M Donovan
-  - Jigar V Desai
-  - Nima Pouladi
-  - Debra A Long Priel
-  - Daisuke Yamanaka
-  - Sergio D Rosenzweig
-  - Julie E Niemela
-  - Jennifer Stoddard
-  - Alexandra F Freeman
-  - Christa S Zerbe
-  - Douglas B Kuhns
-  - Yves A Lussier
-  - Kenneth N Olivier
-  - Richard C Boucher
-  - Heather D Hickman
-  - Jeffrey Frelinger
-  - Joshua Fierer
-  - Lisa F Shubitz
-  - Thomas L Leto
-  - George R Thompson III
-  - John N Galgiani
-  - Michail S Lionakis
-  - Steven M Holland
-  year: 2022
-  journal: JCI insight
-  volume: '7'
-  issue: '22'
-  pages: e159491
-  doi: ''
-  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9746810/
-  citation: Hsu, A. P., Korzeniowska, A., Aguilar, C. C., Gu, J., Karlins, E., Oler,
-    A. J. & et al.. Immunogenetics associated with severe coccidioidomycosis. JCI
-    insight 7, e159491 (2022).
-- title: Fungal infections with ibrutinib and other small-molecule kinase inhibitors
-  authors:
-  - Marissa A Zarakas
-  - Jigar V Desai
-  - Georgios Chamilos
-  - Michail S Lionakis
-  year: 2019
-  journal: null
-  volume: '13'
-  issue: '3'
-  pages: 86-98
-  doi: 10.1007/s12281-019-00343-9
-  url: https://link.springer.com/article/10.1007/s12281-019-00343-9
-  citation: Zarakas, M. A., Desai, J. V., Chamilos, G. & Lionakis, M. S.. Fungal infections
-    with ibrutinib and other small-molecule kinase inhibitors. 13, 86–98 (2019). https://doi.org/10.1007/s12281-019-00343-9
-- title: Microscopy of fungal biofilms
-  authors:
-  - Katherine Lagree
-  - Jigar V Desai
-  - Jonathan S Finkel
-  - Frederick Lanni
-  year: 2018
-  journal: null
-  volume: '43'
-  issue: null
-  pages: 100-107
-  doi: ''
-  url: https://www.sciencedirect.com/science/article/pii/S136952741730139X
-  citation: Lagree, K., Desai, J. V., Finkel, J. S. & Lanni, F.. Microscopy of fungal
-    biofilms. 43, 100–107 (2018).
-- title: VT-1161 protects mice against oropharyngeal candidiasis caused by fluconazole-susceptible
-    and -resistant Candida albicans
+  url: https://www.nature.com/articles/s41590-021-00916-2
+  citation: 'Kiner, E., Willie, E., Vijaykumar, B., Chowdhary, K., Schmutz, H., Chandler,
+    J. & et al.. Publisher Correction: Gut CD4+ T cell phenotypes are a continuum
+    molded by microbes, not by TH archetypes. Nature Immunology 22, 666–668 (2021).'
+  citation_nature: 'Kiner E., Willie E., Vijaykumar B., Chowdhary K., Schmutz H.,
+    Chandler J., et al.. Publisher Correction: Gut CD4+ T cell phenotypes are a continuum
+    molded by microbes, not by TH archetypes. Nature Immunology 22(5), 666-668 (2021).
+    https://www.nature.com/articles/s41590-021-00916-2'
+- title: Response to Comments on “Aberrant type 1 immunity drives susceptibility to
+    mucosal fungal infections”
   authors:
   - Timothy J Break
+  - Vasileios Oikonomou
+  - Nicolas Dutzan
   - Jigar V Desai
-  - Mukil Natarajan
-  - Elise MN Ferre
-  - Christina Henderson
-  - Adrian M Zelazny
-  - Ulrich Siebenlist
-  - William J Hoekstra
-  - Robert J Schotzinger
-  - Edward P Garvey
+  - Marc Swidergall
+  - Tilo Freiwald
+  - Daniel Chauss
+  - Oliver J Harrison
+  - Julie Alejo
+  - Drake W Williams
+  - Stefania Pittaluga
+  - Chyi-Chia R Lee
+  - Nicolas Bouladoux
+  - Muthulekha Swamydas
+  - Kevin W Hoffman
+  - Teresa Greenwell-Wild
+  - Vincent M Bruno
+  - Lindsey B Rosen
+  - Wint Lwin
+  - Andy Renteria
+  - Sergio M Pontejo
+  - John P Shannon
+  - Ian A Myles
+  - Peter Olbrich
+  - Elise MN Ferré
+  - Monica Schmitt
+  - Daniel Martin
+  - Genomics
+  - Computational Biology Core 16
+  - Daniel L Barber
+  - Norma V Solis
+  - Luigi D Notarangelo
+  - David V Serreze
+  - Mitsuru Matsumoto
+  - Heather D Hickman
+  - Philip M Murphy
+  - Mark S Anderson
+  - Jean K Lim
+  - Steven M Holland
+  - Scott G Filler
+  - Behdad Afzali
+  - Yasmine Belkaid
+  - Niki M Moutsopoulos
   - Michail S Lionakis
-  year: 2018
-  journal: Journal of Antimicrobial Chemotherapy
-  volume: '73'
-  issue: '1'
-  pages: 151-155
+  year: 2021
+  journal: Science
+  volume: '373'
+  issue: '6561'
+  pages: eabi8835
+  doi: 10.1126/science.abi8835
+  url: https://www.science.org/doi/abs/10.1126/science.abi8835
+  citation: Break, T. J., Oikonomou, V., Dutzan, N., Desai, J. V., Swidergall, M.,
+    Freiwald, T. & et al.. Response to Comments on “Aberrant type 1 immunity drives
+    susceptibility to mucosal fungal infections”. Science 373, eabi8835 (2021). https://doi.org/10.1126/science.abi8835
+  citation_nature: Break T.J., Oikonomou V., Dutzan N., Desai J.V., Swidergall M.,
+    Freiwald T., et al.. Response to Comments on “Aberrant type 1 immunity drives
+    susceptibility to mucosal fungal infections”. Science 373(6561), eabi8835 (2021).
+    doi:10.1126/science.abi8835
+- title: Response to Comments on" Aberrant type 1 immunity drives susceptibility to
+    mucosal fungal infections" COMMENT
+  authors:
+  - Timothy J Break
+  - Vasileios Oikonomou
+  - Nicolas Dutzan
+  - Jigar V Desai
+  - Marc Swidergall
+  - Tilo Freiwald
+  - Daniel Chauss
+  - Oliver J Harrison
+  - Julie Alejo
+  - Drake W Williams
+  - Stefania Pittaluga
+  - Chyi-Chia R Lee
+  - Nicolas Bouladoux
+  - Muthulekha Swamydas
+  - Kevin W Hoffman
+  - Teresa Greenwell-Wild
+  - Vincent M Bruno
+  - Lindsey B Rosen
+  - Wint Lwin
+  - Andy Renteria
+  - Sergio M Pontejo
+  - John P Shannon
+  - Ian A Myles
+  - Peter Olbrich
+  - Elise Ferre
+  - Monica Schmitt
+  - Daniel Martin
+  - Daniel L Barber
+  - Norma V Solis
+  - Luigi D Notarangelo
+  - David V Serreze
+  - Mitsuru Matsumoto
+  - Heather D Hickman
+  - Philip M Murphy
+  - Mark S Anderson
+  - Jean K Lim
+  - Steven M Holland
+  - Scott G Filler
+  - Behdad Afzali
+  - Yasmine Belkaid
+  - Niki M Moutsopoulos
+  - Michail S Lionakis
+  year: 2021
+  journal: SCIENCE
+  volume: '373'
+  issue: '6561'
+  pages: 1318-1318
   doi: ''
-  url: https://academic.oup.com/jac/article-abstract/73/1/151/4430791
-  citation: Break, T. J., Desai, J. V., Natarajan, M., Ferre, E. M., Henderson, C.,
-    Zelazny, A. M. & et al.. VT-1161 protects mice against oropharyngeal candidiasis
-    caused by fluconazole-susceptible and -resistant Candida albicans. Journal of
-    Antimicrobial Chemotherapy 73, 151–155 (2018).
+  url: https://scholar.google.com/scholar?cluster=5815756921921085952&hl=en&oi=scholarr
+  citation: Break, T. J., Oikonomou, V., Dutzan, N., Desai, J. V., Swidergall, M.,
+    Freiwald, T. & et al.. Response to Comments on" Aberrant type 1 immunity drives
+    susceptibility to mucosal fungal infections" COMMENT. SCIENCE 373, 1318–1318 (2021).
+  citation_nature: Break T.J., Oikonomou V., Dutzan N., Desai J.V., Swidergall M.,
+    Freiwald T., et al.. Response to Comments on" Aberrant type 1 immunity drives
+    susceptibility to mucosal fungal infections" COMMENT. SCIENCE 373(6561), 1318-1318
+    (2021). https://scholar.google.com/scholar?cluster=5815756921921085952&hl=en&oi=scholarr
+- title: 149. Efficacy of Cochleated Amphotericin B (CAMB) in Mouse and Human Mucocutaneous
+    Candidiasis
+  authors:
+  - Jigar V Desai
+  - Amanda Urban
+  - Doris Z Swaim
+  - Elise Ferre
+  - Benjamin Colton
+  - Ruying Lu
+  - Theresa Matkovits
+  - Raphael J Mannino
+  - Edmund Tramont
+  - Michail Lionakis
+  - Alexandra Freeman
+  year: 2020
+  journal: Open Forum Infectious Diseases
+  volume: '7'
+  issue: Supplement_1
+  pages: S204-S205
+  doi: ''
+  url: https://academic.oup.com/ofid/article-abstract/7/Supplement_1/S204/6058693
+  citation: Desai, J. V., Urban, A., Swaim, D. Z., Ferre, E., Colton, B., Lu, R. &
+    et al.. 149. Efficacy of Cochleated Amphotericin B (CAMB) in Mouse and Human Mucocutaneous
+    Candidiasis. Open Forum Infectious Diseases 7, S204-S205 (2020).
+  citation_nature: Desai J.V., Urban A., Swaim D.Z., Ferre E., Colton B., Lu R., et
+    al.. 149. Efficacy of Cochleated Amphotericin B (CAMB) in Mouse and Human Mucocutaneous
+    Candidiasis. Open Forum Infectious Diseases 7(Supplement_1), S204-S205 (2020).
+    https://academic.oup.com/ofid/article-abstract/7/Supplement_1/S204/6058693
 - title: ImmGen at 15
   authors:
   - Stephanie Vargas Aguilar
@@ -810,516 +1478,114 @@
   url: https://escholarship.org/content/qt75r8v4bt/qt75r8v4bt.pdf
   citation: Aguilar, S. V., Aguilar, O., Allan, R., Amir, E. A. D., Angeli, V., Artyomov,
     M. N. & et al.. ImmGen at 15. Nature immunology 21, 700–703 (2020).
-- title: 'Crystal structures of human pyridoxal kinase in complex with the neurotoxins,
-    ginkgotoxin and theophylline: insights into pyridoxal kinase inhibition'
+  citation_nature: Aguilar S.V., Aguilar O., Allan R., Amir E.A.D., Angeli V., Artyomov
+    M.N., et al.. ImmGen at 15. Nature immunology 21(7), 700-703 (2020). https://escholarship.org/content/qt75r8v4bt/qt75r8v4bt.pdf
+- title: Inhibition of Bruton tyrosine kinase in patients with severe COVID-19
   authors:
-  - Amit K Gandhi
+  - Mark Roschewski
+  - Michail S Lionakis
+  - Jeff P Sharman
+  - Joseph Roswarski
+  - Andre Goy
+  - M Andrew Monticelli
+  - Michael Roshon
+  - Stephen H Wrzesinski
   - Jigar V Desai
-  - Mohini S Ghatge
-  - Martino L di Salvo
-  - Stefano Di Biase
-  - Richmond Danso-Danquah
-  - Faik N Musayev
-  - Roberto Contestabile
-  - Verne Schirch
-  - Martin K Safo
-  year: 2012
-  journal: PLoS One
-  volume: '7'
-  issue: '7'
-  pages: e40954
-  doi: 10.1371/journal.pone.0040954
-  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0040954
-  citation: 'Gandhi, A. K., Desai, J. V., Ghatge, M. S., Salvo, M. L. D., Biase, S.
-    D., Danso-Danquah, R., Musayev, F. N., Contestabile, R., Schirch, V. & Safo, M.
-    K.. Crystal structures of human pyridoxal kinase in complex with the neurotoxins,
-    ginkgotoxin and theophylline: insights into pyridoxal kinase inhibition. PLoS
-    One 7, e40954 (2012). https://doi.org/10.1371/journal.pone.0040954'
-- title: Restoring glucose uptake rescues neutrophil dysfunction and protects against
-    systemic fungal infection in mouse models of kidney disease
+  - Marissa A Zarakas
+  - Jacob Collen
+  - Keith M Rose
+  - Ahmed Hamdy
+  - Raquel Izumi
+  - George W Wright
+  - Kevin K Chung
+  - Jose Baselga
+  - Louis M Staudt
+  - Wyndham H Wilson
+  year: 2020
+  journal: Science immunology
+  volume: '5'
+  issue: '48'
+  pages: eabd0110
+  doi: 10.1126/sciimmunol.abd0110
+  url: https://www.science.org/doi/abs/10.1126/sciimmunol.abd0110
+  citation: Roschewski, M., Lionakis, M. S., Sharman, J. P., Roswarski, J., Goy, A.,
+    Monticelli, M. A. & et al.. Inhibition of Bruton tyrosine kinase in patients with
+    severe COVID-19. Science immunology 5, eabd0110 (2020). https://doi.org/10.1126/sciimmunol.abd0110
+  citation_nature: Roschewski M., Lionakis M.S., Sharman J.P., Roswarski J., Goy A.,
+    Monticelli M.A., et al.. Inhibition of Bruton tyrosine kinase in patients with
+    severe COVID-19. Science immunology 5(48), eabd0110 (2020). doi:10.1126/sciimmunol.abd0110
+- title: Metabolic ‘de-programming’of neutrophils protects against fatal bloodstream
+    fungal infections during kidney disease
   authors:
+  - Partha Sarathi Biswas
   - Chetan V Jawale
   - Kritika Ramani
-  - De-dong Li
-  - Bianca M Coleman
+  - Bianca Coleman
   - Rohan S Oberoi
   - Saran Kupul
-  - Li Lin
+  - Alexander J Prokopienko
   - Jigar V Desai
   - Greg M Delgoffe
   - Michail S Lionakis
-  - Filitsa H Bender
-  - Alexander J Prokopienko
   - Thomas D Nolin
   - Sarah L Gaffen
-  - Partha S Biswas
   year: 2020
-  journal: Science translational medicine
-  volume: '12'
-  issue: '548'
-  pages: eaay5691
-  doi: 10.1126/scitranslmed.aay5691
-  url: https://www.science.org/doi/abs/10.1126/scitranslmed.aay5691
-  citation: Jawale, C. V., Ramani, K., Li, D., Coleman, B. M., Oberoi, R. S., Kupul,
-    S. & et al.. Restoring glucose uptake rescues neutrophil dysfunction and protects
-    against systemic fungal infection in mouse models of kidney disease. Science translational
-    medicine 12, eaay5691 (2020). https://doi.org/10.1126/scitranslmed.aay5691
-- title: Aspergillosis, eosinophilic esophagitis, and allergic rhinitis in signal
-    transducer and activator of transcription 3 haploinsufficiency
-  authors:
-  - Mukil Natarajan
-  - Amy P Hsu
-  - Michael A Weinreich
-  - Yuan Zhang
-  - Julie E Niemela
-  - John A Butman
-  - Stefania Pittaluga
-  - Janyce Sugui
-  - Amanda L Collar
-  - Jean K Lim
-  - Tirdad Zangeneh
-  - Tara Carr
-  - Andrew J Oler
-  - Morgan Similuk
-  - Lindsey B Rosen
-  - Jigar V Desai
-  - Alexandra F Freeman
-  - Steven M Holland
-  - Kyung J Kwon-Chung
-  - Joshua D Milner
-  - Michail S Lionakis
-  year: 2018
-  journal: Journal of Allergy and Clinical Immunology
-  volume: '142'
-  issue: '3'
-  pages: 993-997. e3
+  journal: The Journal of Immunology
+  volume: '204'
+  issue: 1_Supplement
+  pages: 82.35-82.35
   doi: ''
-  url: https://www.jacionline.org/article/S0091-6749(18)30764-4/abstract
-  citation: Natarajan, M., Hsu, A. P., Weinreich, M. A., Zhang, Y., Niemela, J. E.,
-    Butman, J. A. & et al.. Aspergillosis, eosinophilic esophagitis, and allergic
-    rhinitis in signal transducer and activator of transcription 3 haploinsufficiency.
-    Journal of Allergy and Clinical Immunology 142, 993-997. e3 (2018).
-- title: VT-1598 inhibits the in vitro growth of mucosal Candida strains and protects
-    against fluconazole-susceptible and-resistant oral candidiasis in IL-17 signalling-deficient
-    mice
+  url: https://academic.oup.com/jimmunol/article-abstract/204/1_Supplement/82.35/7948740
+  citation: Biswas, P. S., Jawale, C. V., Ramani, K., Coleman, B., Oberoi, R. S.,
+    Kupul, S. & et al.. Metabolic ‘de-programming’of neutrophils protects against
+    fatal bloodstream fungal infections during kidney disease. The Journal of Immunology
+    204, 82.35-82.35 (2020).
+  citation_nature: Biswas P.S., Jawale C.V., Ramani K., Coleman B., Oberoi R.S., Kupul
+    S., et al.. Metabolic ‘de-programming’of neutrophils protects against fatal bloodstream
+    fungal infections during kidney disease. The Journal of Immunology 204(1_Supplement),
+    82.35-82.35 (2020). https://academic.oup.com/jimmunol/article-abstract/204/1_Supplement/82.35/7948740
+- title: NADPH oxidase correction by mRNA transfection of apheresis granulocytes in
+    chronic granulomatous disease
   authors:
-  - Timothy J Break
-  - Jigar V Desai
-  - Kelley R Healey
-  - Mukil Natarajan
-  - Elise MN Ferre
-  - Christina Henderson
-  - Adrian Zelazny
-  - Ulrich Siebenlist
-  - Christopher M Yates
-  - Oren J Cohen
-  - Robert J Schotzinger
-  - David S Perlin
-  - Edward P Garvey
-  - Michail S Lionakis
-  year: 2018
-  journal: Journal of Antimicrobial Chemotherapy
-  volume: '73'
-  issue: '8'
-  pages: 2089-2094
-  doi: ''
-  url: https://academic.oup.com/jac/article-abstract/73/8/2089/4996888
-  citation: Break, T. J., Desai, J. V., Healey, K. R., Natarajan, M., Ferre, E. M.,
-    Henderson, C. & et al.. VT-1598 inhibits the in vitro growth of mucosal Candida
-    strains and protects against fluconazole-susceptible and-resistant oral candidiasis
-    in IL-17 signalling-deficient mice. Journal of Antimicrobial Chemotherapy 73,
-    2089–2094 (2018).
-- title: Human Dectin-1 deficiency impairs macrophage-mediated defense against phaeohyphomycosis
-  authors:
-  - Rebecca A Drummond
-  - Jigar V Desai
-  - Amy P Hsu
-  - Vasileios Oikonomou
-  - Donald C Vinh
-  - Joshua A Acklin
-  - Michael S Abers
-  - Magdalena A Walkiewicz
-  - Sarah L Anzick
-  - Muthulekha Swamydas
-  - Simon Vautier
-  - Mukil Natarajan
-  - Andrew J Oler
-  - Daisuke Yamanaka
-  - Katrin D Mayer-Barber
-  - Yoichiro Iwakura
-  - David Bianchi
-  - Brian Driscoll
-  - Ken Hauck
-  - Ahnika Kline
-  - Nicholas SP Viall
-  - Christa S Zerbe
-  - Elise MN Ferré
-  - Monica M Schmitt
-  - Tom DiMaggio
-  - Stefania Pittaluga
-  - John A Butman
-  - Adrian M Zelazny
-  - Yvonne R Shea
-  - Cesar A Arias
-  - Cameron Ashbaugh
-  - Maryam Mahmood
-  - Zelalem Temesgen
-  - Alexander G Theofiles
-  - Masayuki Nigo
-  - Varsha Moudgal
-  - Karen C Bloch
-  - Sean G Kelly
-  - M Suzanne Whitworth
-  - Ganesh Rao
-  - Cindy J Whitener
-  - Neema Mafi
-  - Juan Gea-Banacloche
-  - Lawrence C Kenyon
-  - William R Miller
-  - Katia Boggian
-  - Andrea Gilbert
-  - Matthew Sincock
-  - Alexandra F Freeman
-  - John E Bennett
-  - Rodrigo Hasbun
-  - Constantinos M Mikelis
-  - Kyung J Kwon-Chung
-  - Yasmine Belkaid
-  - Gordon D Brown
-  - Jean K Lim
-  - Douglas B Kuhns
-  - Steven M Holland
-  - Michail S Lionakis
-  year: 2022
-  journal: The Journal of Clinical Investigation
-  volume: '132'
-  issue: '22'
-  pages: null
-  doi: ''
-  url: https://www.jci.org/articles/view/159348
-  citation: Drummond, R. A., Desai, J. V., Hsu, A. P., Oikonomou, V., Vinh, D. C.,
-    Acklin, J. A. & et al.. Human Dectin-1 deficiency impairs macrophage-mediated
-    defense against phaeohyphomycosis. The Journal of Clinical Investigation 132 (2022).
-- title: Coordination of Candida albicans Invasion and Infection Functions by Phosphoglycerol
-    Phosphatase Rhr2
-  authors:
-  - Jigar V Desai
-  - Shaoji Cheng
-  - Tammy Ying
-  - M Hong Nguyen
-  - Cornelius J Clancy
-  - Frederick Lanni
-  - Aaron P Mitchell
-  year: 2015
-  journal: Pathogens
-  volume: '4'
-  issue: '3'
-  pages: 573-589
-  doi: ''
-  url: https://www.mdpi.com/2076-0817/4/3/573
-  citation: Desai, J. V., Cheng, S., Ying, T., Nguyen, M. H., Clancy, C. J., Lanni,
-    F. & Mitchell, A. P.. Coordination of Candida albicans Invasion and Infection
-    Functions by Phosphoglycerol Phosphatase Rhr2. Pathogens 4, 573–589 (2015).
-- title: Efficacy of cochleated amphotericin B in mouse and human mucocutaneous candidiasis
-  authors:
-  - Jigar V Desai
-  - Amanda Urban
-  - Doris Z Swaim
-  - Benjamin Colton
-  - Lilian W Kibathi
-  - Elise MN Ferrè
-  - Pamela Stratton
-  - Melissa A Merideth
-  - Sally Hunsberger
-  - Theresa Matkovits
-  - Raphael Mannino
-  - Steven M Holland
-  - Edmund Tramont
-  - Michail S Lionakis
-  - Alexandra F Freeman
-  year: 2022
-  journal: Antimicrobial Agents and Chemotherapy
-  volume: '66'
-  issue: '7'
-  pages: e00308-22
-  doi: 10.1128/aac.00308-22
-  url: https://journals.asm.org/doi/abs/10.1128/aac.00308-22
-  citation: Desai, J. V., Urban, A., Swaim, D. Z., Colton, B., Kibathi, L. W., Ferrè,
-    E. M. & et al.. Efficacy of cochleated amphotericin B in mouse and human mucocutaneous
-    candidiasis. Antimicrobial Agents and Chemotherapy 66, e00308-22 (2022). https://doi.org/10.1128/aac.00308-22
-- title: BTK drives neutrophil activation for sterilizing antifungal immunity
-  authors:
-  - Jigar V Desai
+  - Suk See De Ravin
+  - Julie Brault
+  - Ronald J Meis
+  - Linhong Li
+  - Narda Theobald
+  - Aylin C Bonifacino
+  - Hong Lei
+  - Taylor Q Liu
+  - Sherry Koontz
+  - Cristina Corsino
   - Marissa A Zarakas
-  - Andrew L Wishart
-  - Mark Roschewski
-  - Mariano A Aufiero
-  - Agnes Donkò
-  - Gustaf Wigerblad
-  - Neta Shlezinger
-  - Markus Plate
-  - Matthew R James
-  - Jean K Lim
-  - Gulbu Uzel
-  - Jenna RE Bergerson
-  - Ivan Fuss
-  - Robert A Cramer
-  - Luis M Franco
-  - Emily S Clark
-  - Wasif N Khan
-  - Daisuke Yamanaka
-  - Georgios Chamilos
-  - Jamel El-Benna
-  - Mariana J Kaplan
-  - Louis M Staudt
-  - Thomas L Leto
-  - Steven M Holland
-  - Wyndham H Wilson
-  - Tobias M Hohl
+  - Jigar V Desai
+  - Aaron B Clark
+  - Uimook Choi
+  - Mark E Metzger
+  - Kamille West
+  - Steven L Highfill
+  - Elizabeth Kang
+  - Douglas B Kuhns
   - Michail S Lionakis
-  year: 2024
-  journal: The Journal of clinical investigation
-  volume: '134'
-  issue: '12'
-  pages: null
+  - David F Stroncek
+  - Cynthia E Dunbar
+  - John F Tisdale
+  - Robert E Donahue
+  - Gary A Dahl
+  - Harry L Malech
+  year: 2020
+  journal: Blood Advances
+  volume: '4'
+  issue: '23'
+  pages: 5976-5987
   doi: ''
-  url: https://www.jci.org/articles/view/176142
-  citation: Desai, J. V., Zarakas, M. A., Wishart, A. L., Roschewski, M., Aufiero,
-    M. A., Donkò, A. & et al.. BTK drives neutrophil activation for sterilizing antifungal
-    immunity. The Journal of clinical investigation 134 (2024).
-- title: Network analysis of large-scale ImmGen and Tabula Muris datasets highlights
-    metabolic diversity of tissue mononuclear phagocytes
-  authors:
-  - Anastasiia Gainullina
-  - Denis A Mogilenko
-  - Li-Hao Huang
-  - Helena Todorov
-  - Vipin Narang
-  - Ki-Wook Kim
-  - Lim Sheau Yng
-  - Andrew Kent
-  - Baosen Jia
-  - Kumba Seddu
-  - Karen Krchma
-  - Jun Wu
-  - Karine Crozat
-  - Elena Tomasello
-  - Regine Dress
-  - Peter See
-  - Charlotte Scott
-  - Sophie Gibbings
-  - Geetika Bajpai
-  - Jigar V Desai
-  - Barbara Maier
-  - Sébastien This
-  - Peter Wang
-  - Stephanie Vargas Aguilar
-  - Lucie Poupel
-  - Sebastien Dussaud
-  - Tyng-An Zhou
-  - Veronique Angeli
-  - J Magarian Blander
-  - Kyunghee Choi
-  - Marc Dalod
-  - Ivan Dzhagalov
-  - Emmanuel L Gautier
-  - Claudia Jakubzick
-  - Kory Lavine
-  - Michail S Lionakis
-  - Helena Paidassi
-  - Michael H Sieweke
-  - Florent Ginhoux
-  - Martin Guilliams
-  - Christophe Benoist
-  - Miriam Merad
-  - Gwendalyn J Randolph
-  - Alexey Sergushichev
-  - Maxim N Artyomov
-  year: 2023
-  journal: Cell reports
-  volume: '42'
-  issue: '2'
-  pages: null
-  doi: ''
-  url: https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00057-8?dgcid=raven_jbs_etoc_email
-  citation: Gainullina, A., Mogilenko, D. A., Huang, L., Todorov, H., Narang, V.,
-    Kim, K. & et al.. Network analysis of large-scale ImmGen and Tabula Muris datasets
-    highlights metabolic diversity of tissue mononuclear phagocytes. Cell reports
-    42 (2023).
-- title: Understanding the role of host immune responses in invasive candidiasis
-  authors:
-  - Jigar V Desai
-  - Frank L van de Veerdonk
-  - Michail S Lionakis
-  year: 2018
-  journal: Intensive care medicine
-  volume: '44'
-  issue: '8'
-  pages: 1310-1314
-  doi: 10.1007/s00134-017-4988-5
-  url: https://link.springer.com/article/10.1007/s00134-017-4988-5
-  citation: Desai, J. V., Veerdonk, F. L. V. D. & Lionakis, M. S.. Understanding the
-    role of host immune responses in invasive candidiasis. Intensive care medicine
-    44, 1310–1314 (2018). https://doi.org/10.1007/s00134-017-4988-5
-- title: cis- and trans-Acting Localization Determinants of pH Response Regulator
-    Rim13 in Saccharomyces cerevisiae
-  authors:
-  - Shoba Subramanian
-  - Carol A Woolford
-  - Jigar V Desai
-  - Frederick Lanni
-  - Aaron P Mitchell
-  year: 2012
-  journal: Eukaryotic Cell
-  volume: '11'
-  issue: '10'
-  pages: 1201-1209
-  doi: 10.1128/ec.00158-12
-  url: https://journals.asm.org/doi/abs/10.1128/ec.00158-12
-  citation: Subramanian, S., Woolford, C. A., Desai, J. V., Lanni, F. & Mitchell,
-    A. P.. cis- and trans-Acting Localization Determinants of pH Response Regulator
-    Rim13 in Saccharomyces cerevisiae. Eukaryotic Cell 11, 1201–1209 (2012). https://doi.org/10.1128/ec.00158-12
-- title: Overlooked Candida glabrata petites are echinocandin tolerant, induce host
-    inflammatory responses, and display poor in vivo fitness
-  authors:
-  - Amir Arastehfar
-  - Farnaz Daneshnia
-  - Hrant Hovhannisyan
-  - Diego Fuentes
-  - Nathaly Cabrera
-  - Christopher Quinteros
-  - Macit Ilkit
-  - Nevzat Ünal
-  - Suleyha Hilmioğlu-Polat
-  - Kauser Jabeen
-  - Sadaf Zaka
-  - Jigar V Desai
-  - Cornelia Lass-Flörl
-  - Erika Shor
-  - Toni Gabaldon
-  - David S Perlin
-  year: 2023
-  journal: MBio
-  volume: '14'
-  issue: '5'
-  pages: e01180-23
-  doi: 10.1128/mbio.01180-23
-  url: https://journals.asm.org/doi/abs/10.1128/mbio.01180-23
-  citation: Arastehfar, A., Daneshnia, F., Hovhannisyan, H., Fuentes, D., Cabrera,
-    N., Quinteros, C. & et al.. Overlooked Candida glabrata petites are echinocandin
-    tolerant, induce host inflammatory responses, and display poor in vivo fitness.
-    MBio 14, e01180-23 (2023). https://doi.org/10.1128/mbio.01180-23
-- title: GM-CSF–mediated epithelial-immune cell cross-talk orchestrates pulmonary
-    immunity to Aspergillus fumigatus
-  authors:
-  - Kathleen AM Mills
-  - Frederike Westermann
-  - Vanessa Espinosa
-  - Eric Rosiek
-  - Jigar V Desai
-  - Mariano A Aufiero
-  - Yahui Guo
-  - Fitty L Liu
-  - Kennedy A Mitchell
-  - Selma Tuzlak
-  - Donatella De Feo
-  - Michail S Lionakis
-  - Amariliz Rivera
-  - Burkhard Becher
-  - Tobias M Hohl
-  year: 2025
-  journal: Science immunology
-  volume: '10'
-  issue: '105'
-  pages: eadr0547
-  doi: 10.1126/sciimmunol.adr0547
-  url: https://www.science.org/doi/abs/10.1126/sciimmunol.adr0547
-  citation: Mills, K. A., Westermann, F., Espinosa, V., Rosiek, E., Desai, J. V.,
-    Aufiero, M. A. & et al.. GM-CSF–mediated epithelial-immune cell cross-talk orchestrates
-    pulmonary immunity to Aspergillus fumigatus. Science immunology 10, eadr0547 (2025).
-    https://doi.org/10.1126/sciimmunol.adr0547
-- title: The Candida auris Hog1 MAP kinase is essential for the colonization of murine
-    skin and intradermal persistence
-  authors:
-  - Raju Shivarathri
-  - Manju Chauhan
-  - Abhishek Datta
-  - Diprasom Das
-  - Adela Karuli
-  - Ariel Aptekmann
-  - Sabrina Jenull
-  - Karl Kuchler
-  - Shankar Thangamani
-  - Anuradha Chowdhary
-  - Jigar V Desai
-  - Neeraj Chauhan
-  year: 2024
-  journal: MBio
-  volume: '15'
-  issue: '11'
-  pages: e02748-24
-  doi: 10.1128/mbio.02748-24
-  url: https://journals.asm.org/doi/abs/10.1128/mbio.02748-24
-  citation: Shivarathri, R., Chauhan, M., Datta, A., Das, D., Karuli, A., Aptekmann,
-    A. & et al.. The Candida auris Hog1 MAP kinase is essential for the colonization
-    of murine skin and intradermal persistence. MBio 15, e02748-24 (2024). https://doi.org/10.1128/mbio.02748-24
-- title: Response to Comments on “Aberrant type 1 immunity drives susceptibility to
-    mucosal fungal infections”
-  authors:
-  - Timothy J Break
-  - Vasileios Oikonomou
-  - Nicolas Dutzan
-  - Jigar V Desai
-  - Marc Swidergall
-  - Tilo Freiwald
-  - Daniel Chauss
-  - Oliver J Harrison
-  - Julie Alejo
-  - Drake W Williams
-  - Stefania Pittaluga
-  - Chyi-Chia R Lee
-  - Nicolas Bouladoux
-  - Muthulekha Swamydas
-  - Kevin W Hoffman
-  - Teresa Greenwell-Wild
-  - Vincent M Bruno
-  - Lindsey B Rosen
-  - Wint Lwin
-  - Andy Renteria
-  - Sergio M Pontejo
-  - John P Shannon
-  - Ian A Myles
-  - Peter Olbrich
-  - Elise MN Ferré
-  - Monica Schmitt
-  - Daniel Martin
-  - Genomics
-  - Computational Biology Core 16
-  - Daniel L Barber
-  - Norma V Solis
-  - Luigi D Notarangelo
-  - David V Serreze
-  - Mitsuru Matsumoto
-  - Heather D Hickman
-  - Philip M Murphy
-  - Mark S Anderson
-  - Jean K Lim
-  - Steven M Holland
-  - Scott G Filler
-  - Behdad Afzali
-  - Yasmine Belkaid
-  - Niki M Moutsopoulos
-  - Michail S Lionakis
-  year: 2021
-  journal: Science
-  volume: '373'
-  issue: '6561'
-  pages: eabi8835
-  doi: 10.1126/science.abi8835
-  url: https://www.science.org/doi/abs/10.1126/science.abi8835
-  citation: Break, T. J., Oikonomou, V., Dutzan, N., Desai, J. V., Swidergall, M.,
-    Freiwald, T. & et al.. Response to Comments on “Aberrant type 1 immunity drives
-    susceptibility to mucosal fungal infections”. Science 373, eabi8835 (2021). https://doi.org/10.1126/science.abi8835
+  url: https://ashpublications.org/bloodadvances/article-abstract/4/23/5976/474416
+  citation: Ravin, S. S. D., Brault, J., Meis, R. J., Li, L., Theobald, N., Bonifacino,
+    A. C. & et al.. NADPH oxidase correction by mRNA transfection of apheresis granulocytes
+    in chronic granulomatous disease. Blood Advances 4, 5976–5987 (2020).
+  citation_nature: Ravin S.S.D., Brault J., Meis R.J., Li L., Theobald N., Bonifacino
+    A.C., et al.. NADPH oxidase correction by mRNA transfection of apheresis granulocytes
+    in chronic granulomatous disease. Blood Advances 4(23), 5976-5987 (2020). https://ashpublications.org/bloodadvances/article-abstract/4/23/5976/474416
 - title: 'Open Source ImmGen: network perspective on metabolic diversity among mononuclear
     phagocytes'
   authors:
@@ -1378,742 +1644,112 @@
   citation: 'Gainullina, A., Huang, L., Todorov, H., Kim, K., Yng, L. S., Kent, A.
     & et al.. Open Source ImmGen: network perspective on metabolic diversity among
     mononuclear phagocytes. bioRxiv, 2020.07. 15.204388 (2020). https://doi.org/10.1101/2020.07.15.204388.abstract'
-- title: 'Setting up home: fungal rules of commensalism in the mammalian gut'
+  citation_nature: 'Gainullina A., Huang L.H.-, Todorov H., Kim K., Yng L.S., Kent
+    A., et al.. Open Source ImmGen: network perspective on metabolic diversity among
+    mononuclear phagocytes. bioRxiv 2020.07. 15.204388 (2020). doi:10.1101/2020.07.15.204388.abstract'
+- title: Restoring glucose uptake rescues neutrophil dysfunction and protects against
+    systemic fungal infection in mouse models of kidney disease
   authors:
-  - Jigar V Desai
-  - Michail S Lionakis
-  year: 2019
-  journal: Cell host & microbe
-  volume: '25'
-  issue: '3'
-  pages: 347-349
-  doi: ''
-  url: https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(19)30108-8
-  citation: 'Desai, J. V. & Lionakis, M. S.. Setting up home: fungal rules of commensalism
-    in the mammalian gut. Cell host & microbe 25, 347–349 (2019).'
-- title: Predicting exon criticality from protein sequence
-  authors:
-  - Jigar Desai
-  - Christopher Francis
-  - Kenneth Longo
-  - Andrew Hoss
-  year: 2022
-  journal: Nucleic Acids Research
-  volume: '50'
-  issue: '6'
-  pages: 3128-3141
-  doi: ''
-  url: https://academic.oup.com/nar/article-abstract/50/6/3128/6548300
-  citation: Desai, J., Francis, C., Longo, K. & Hoss, A.. Predicting exon criticality
-    from protein sequence. Nucleic Acids Research 50, 3128–3141 (2022).
-- title: NADPH oxidase correction by mRNA transfection of apheresis granulocytes in
-    chronic granulomatous disease
-  authors:
-  - Suk See De Ravin
-  - Julie Brault
-  - Ronald J Meis
-  - Linhong Li
-  - Narda Theobald
-  - Aylin C Bonifacino
-  - Hong Lei
-  - Taylor Q Liu
-  - Sherry Koontz
-  - Cristina Corsino
-  - Marissa A Zarakas
-  - Jigar V Desai
-  - Aaron B Clark
-  - Uimook Choi
-  - Mark E Metzger
-  - Kamille West
-  - Steven L Highfill
-  - Elizabeth Kang
-  - Douglas B Kuhns
-  - Michail S Lionakis
-  - David F Stroncek
-  - Cynthia E Dunbar
-  - John F Tisdale
-  - Robert E Donahue
-  - Gary A Dahl
-  - Harry L Malech
-  year: 2020
-  journal: Blood Advances
-  volume: '4'
-  issue: '23'
-  pages: 5976-5987
-  doi: ''
-  url: https://ashpublications.org/bloodadvances/article-abstract/4/23/5976/474416
-  citation: Ravin, S. S. D., Brault, J., Meis, R. J., Li, L., Theobald, N., Bonifacino,
-    A. C. & et al.. NADPH oxidase correction by mRNA transfection of apheresis granulocytes
-    in chronic granulomatous disease. Blood Advances 4, 5976–5987 (2020).
-- title: VT-1129 and VT-1161 have in vitro activity against Candida isolates from
-    patients with chronic mucocutaneous candidiasis
-  authors:
-  - Jigar V Desai
-  - Timothy J Break
-  - Mukil Natarajan
-  - Christina Henderson
-  - Adrian M Zelazny
-  - William J Hoekstra
-  - Robert J Schotzinger
-  - Edward P Garvey
-  - Michail S Lionakis
-  year: 2016
-  journal: Open Forum Infectious Diseases
-  volume: '3'
-  issue: suppl_1
-  pages: '1635'
-  doi: ''
-  url: https://academic.oup.com/ofid/article-abstract/3/suppl_1/1635/2635994
-  citation: Desai, J. V., Break, T. J., Natarajan, M., Henderson, C., Zelazny, A.
-    M., Hoekstra, W. J., Schotzinger, R. J., Garvey, E. P. & Lionakis, M. S.. VT-1129
-    and VT-1161 have in vitro activity against Candida isolates from patients with
-    chronic mucocutaneous candidiasis. Open Forum Infectious Diseases 3, 1635 (2016).
-- title: A multidimensional assessment of in-host fitness costs of drug resistance
-    in the opportunistic fungal pathogen Candida glabrata
-  authors:
-  - Amir Arastehfar
-  - Farnaz Daneshnia
-  - Hrant Hovhannisyan
-  - Nathaly Cabrera
-  - Macit Ilkit
-  - Jigar V Desai
-  - Toni Gabaldón
-  - Erika Shor
-  - David S Perlin
-  year: 2024
-  journal: FEMS yeast research
-  volume: '24'
-  issue: null
-  pages: foae035
-  doi: 10.1093/femsyr/foae035/7900768
-  url: https://academic.oup.com/femsyr/article-abstract/doi/10.1093/femsyr/foae035/7900768
-  citation: Arastehfar, A., Daneshnia, F., Hovhannisyan, H., Cabrera, N., Ilkit, M.,
-    Desai, J. V., Gabaldón, T., Shor, E. & Perlin, D. S.. A multidimensional assessment
-    of in-host fitness costs of drug resistance in the opportunistic fungal pathogen
-    Candida glabrata. FEMS yeast research 24, foae035 (2024). https://doi.org/10.1093/femsyr/foae035/7900768
-- title: 'C5‐C5aR1‐mediated immune responses during fungal infection: Clinical and
-    translational implications'
-  authors:
-  - Jigar V Desai
-  - Michail S Lionakis
-  year: 2023
-  journal: Clinical and Translational Medicine
-  volume: '13'
-  issue: '9'
-  pages: e1424
-  doi: ''
-  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10507165/
-  citation: 'Desai, J. V. & Lionakis, M. S.. C5‐C5aR1‐mediated immune responses during
-    fungal infection: Clinical and translational implications. Clinical and Translational
-    Medicine 13, e1424 (2023).'
-- title: 'Publisher Correction: Gut CD4+ T cell phenotypes are a continuum molded
-    by microbes, not by TH archetypes'
-  authors:
-  - Evgeny Kiner
-  - Elijah Willie
-  - Brinda Vijaykumar
-  - Kaitavjeet Chowdhary
-  - Hugo Schmutz
-  - Jodie Chandler
-  - Alexandra Schnell
-  - Pratiksha I Thakore
-  - Graham LeGros
-  - Sara Mostafavi
-  - Diane Mathis
-  - Christophe Benoist
-  year: 2021
-  journal: Nature Immunology
-  volume: '22'
-  issue: '5'
-  pages: 666-668
-  doi: ''
-  url: https://www.nature.com/articles/s41590-021-00916-2
-  citation: 'Kiner, E., Willie, E., Vijaykumar, B., Chowdhary, K., Schmutz, H., Chandler,
-    J. & et al.. Publisher Correction: Gut CD4+ T cell phenotypes are a continuum
-    molded by microbes, not by TH archetypes. Nature Immunology 22, 666–668 (2021).'
-- title: The Gcn5 lysine acetyltransferase mediates cell wall remodeling, antifungal
-    drug resistance, and virulence of Candida auris
-  authors:
-  - Manju Chauhan
-  - Raju Shivarathri
-  - Ariel A Aptekmann
-  - Anuradha Chowdhary
-  - Karl Kuchler
-  - Jigar V Desai
-  - Neeraj Chauhan
-  year: 2025
-  journal: mSphere
-  volume: '10'
-  issue: '4'
-  pages: e00069-25
-  doi: 10.1128/msphere.00069-25
-  url: https://journals.asm.org/doi/abs/10.1128/msphere.00069-25
-  citation: Chauhan, M., Shivarathri, R., Aptekmann, A. A., Chowdhary, A., Kuchler,
-    K., Desai, J. V. & Chauhan, N.. The Gcn5 lysine acetyltransferase mediates cell
-    wall remodeling, antifungal drug resistance, and virulence of Candida auris. mSphere
-    10, e00069-25 (2025). https://doi.org/10.1128/msphere.00069-25
-- title: Immunological memory to fungal infections and vaccine development
-  authors:
-  - André Moraes Nicola
-  - Jigar V Desai
-  - Marc Swidergall
-  - Muki Shey
-  - Ivy M Dambuza
-  year: 2022
-  journal: null
-  volume: '13'
-  issue: null
-  pages: '880037'
-  doi: 10.3389/fimmu.2022.880037/full
-  url: https://www.frontiersin.org/articles/10.3389/fimmu.2022.880037/full
-  citation: Nicola, A. M., Desai, J. V., Swidergall, M., Shey, M. & Dambuza, I. M..
-    Immunological memory to fungal infections and vaccine development. 13, 880037
-    (2022). https://doi.org/10.3389/fimmu.2022.880037/full
-- title: 'An eye commensal tunes the immune response at the ocular surface by eliciting
-    IL-17 from mucosal γδ T cells: Mo-WS6-1'
-  authors:
-  - Anthony J St Leger
-  - Jigar V Desai
-  - Rebecca A Drummond
-  - Abirami Kugadas
-  - Fatimah Almaghrabi
-  - Phyllis B Silver
-  - Kumarkrishna Raychaudhuri
-  - Mihaela Gadjeva
-  - Yoichiro Iwakura
-  - Michail S Lionakis
-  - Rachel R Caspi
-  year: 2017
-  journal: Cytokine
-  volume: '100'
-  issue: null
-  pages: 38-39
-  doi: ''
-  url: https://www.ovid.com/journals/cytok/abstract/00001705-201712000-00080~an-eye-commensal-tunes-the-immune-response-at-the-ocular
-  citation: 'Leger, A. J. S., Desai, J. V., Drummond, R. A., Kugadas, A., Almaghrabi,
-    F., Silver, P. B. & et al.. An eye commensal tunes the immune response at the
-    ocular surface by eliciting IL-17 from mucosal γδ T cells: Mo-WS6-1. Cytokine
-    100, 38–39 (2017).'
-- title: 'Pyridoxal Kinase: Its Role in Vitamin B6 Metabolism'
-  authors:
-  - Jigarkumar Desai
-  year: 2010
-  journal: null
-  volume: null
-  issue: null
-  pages: null
-  doi: ''
-  url: https://scholarscompass.vcu.edu/etd/2254/?mode=full
-  citation: 'Desai, J.. Pyridoxal Kinase: Its Role in Vitamin B6 Metabolism. (2010).'
-- title: Complement and fungal diseases
-  authors:
-  - Jigar V Desai
-  - Michail S Lionakis
-  year: 2025
-  journal: Journal of Allergy and Clinical Immunology
-  volume: null
-  issue: null
-  pages: null
-  doi: ''
-  url: https://www.jacionline.org/article/S0091-6749(25)00165-4/abstract
-  citation: Desai, J. V. & Lionakis, M. S.. Complement and fungal diseases. Journal
-    of Allergy and Clinical Immunology (2025).
-- title: 'The Influence of Body Fat Dynamics on Pulmonary Immune Responses in Murine
-    Tuberculosis: Unraveling Sex-Specific Insights'
-  authors:
-  - Dhanya Dhanyalayam
-  - Hariprasad Thangavel
-  - Tabinda Sidrat
-  - Neelam Oswal
-  - Kezia Lizardo
-  - Michael Mauro
-  - Xin Zhao
-  - Hai-Hui Xue
-  - Jigar V Desai
-  - Jyothi F Nagajyothi
-  year: 2024
-  journal: International Journal of Molecular Sciences
-  volume: '25'
-  issue: '13'
-  pages: '6823'
-  doi: ''
-  url: https://www.mdpi.com/1422-0067/25/13/6823
-  citation: 'Dhanyalayam, D., Thangavel, H., Sidrat, T., Oswal, N., Lizardo, K., Mauro,
-    M., Zhao, X., Xue, H., Desai, J. V. & Nagajyothi, J. F.. The Influence of Body
-    Fat Dynamics on Pulmonary Immune Responses in Murine Tuberculosis: Unraveling
-    Sex-Specific Insights. International Journal of Molecular Sciences 25, 6823 (2024).'
-- title: Evaluation of murine renal phagocyte-fungal interactions using intravital
-    confocal microscopy and flow cytometry
-  authors:
-  - Jigar V Desai
-  - Michail S Lionakis
-  year: 2024
-  journal: STAR protocols
-  volume: '5'
-  issue: '1'
-  pages: '102781'
-  doi: ''
-  url: https://www.sciencedirect.com/science/article/pii/S2666166723007487
-  citation: Desai, J. V. & Lionakis, M. S.. Evaluation of murine renal phagocyte-fungal
-    interactions using intravital confocal microscopy and flow cytometry. STAR protocols
-    5, 102781 (2024).
-- title: Oligonucleotide compositions and methods thereof
-  authors:
-  - Prashant Monian
-  - Chikdu Shakti Shivalila
-  - Subramanian Marappan
-  - Chandra Vargeese
-  - Pachamuthu Kandasamy
-  - Genliang Lu
-  - Hui Yu
-  - David Charles Donnell Butler
-  - Luciano Henrique Apponi
-  - Mamoru Shimizu
-  - Stephany Michelle Standley
-  - David John Boulay
-  - Andrew Guzior Hoss
-  - Jigar Desai
-  - Jack David Godfrey
-  - Hailin Yang
-  - Naoki Iwamoto
-  - Jayakanthan Kumarasamy
-  - Anthony Lamattina
-  - Tom Liantang Pu
-  year: 2024
-  journal: null
-  volume: null
-  issue: null
-  pages: null
-  doi: ''
-  url: https://patents.google.com/patent/US20240026358A1/en
-  citation: Monian, P., Shivalila, C. S., Marappan, S., Vargeese, C., Kandasamy, P.,
-    Lu, G. & et al.. Oligonucleotide compositions and methods thereof. (2024).
-- title: Microbiome-dependent modulation of mucosal immunity at the ocular surface.
-  authors:
-  - Anthony J St. Leger
-  - Jigar V Desai
-  - Rebecca Drummond
-  - Abirami Kugadas
-  - Fatimah Almaghrabi
-  - Phyllis Silver
-  - Mihaela Gadjeva
-  - Yoichiro Iwakura
-  - Michail S Lionakis
-  - Rachel R Caspi
-  year: 2017
-  journal: The Journal of Immunology
-  volume: '198'
-  issue: Supplement_1
-  pages: 149.6-149.6
-  doi: ''
-  url: https://academic.oup.com/jimmunol/article-abstract/198/Supplement_1/149.6/7968672
-  citation: Leger, A. J. S., Desai, J. V., Drummond, R., Kugadas, A., Almaghrabi,
-    F., Silver, P., Gadjeva, M., Iwakura, Y., Lionakis, M. S. & Caspi, R. R.. Microbiome-dependent
-    modulation of mucosal immunity at the ocular surface.. The Journal of Immunology
-    198, 149.6-149.6 (2017).
-- title: VT-1598 Inhibits the in vitro Growth of Mucosal Candida Isolates and Protects
-    Against Oropharyngeal Candidiasis in IL-17 Deficient Mice
-  authors:
-  - Timothy J Break
-  - Jigar V Desai
-  - Mukil Natarajan
-  - Elise Ferre
-  - Christina Henderson
-  - Adrian M Zelazny
-  - Christopher M Yates
-  - Oren J Cohen
-  - Robert J Schotzinger
-  - Edward P Garvey
-  - Michail Lionakis
-  year: 2017
-  journal: Open Forum Infectious Diseases
-  volume: '4'
-  issue: suppl_1
-  pages: S115-S115
-  doi: ''
-  url: https://academic.oup.com/ofid/article-abstract/4/suppl_1/S115/4295534
-  citation: Break, T. J., Desai, J. V., Natarajan, M., Ferre, E., Henderson, C., Zelazny,
-    A. M. & et al.. VT-1598 Inhibits the in vitro Growth of Mucosal Candida Isolates
-    and Protects Against Oropharyngeal Candidiasis in IL-17 Deficient Mice. Open Forum
-    Infectious Diseases 4, S115-S115 (2017).
-- title: Oligonucleotide compositions and methods relating thereto
-  authors:
-  - Genliang Lu
-  - Prashant Monian
-  - Chikdu Shakti Shivalila
-  - Jack David Godfrey
-  - Ian Chandler Harding
-  - Paloma Hoban Giangrande
-  - Tom Liantang Pu
-  - Nayantara Kothari
-  - Subramanian Marappan
-  - Chandra Vargeese
-  - Pachamuthu Kandasamy
-  - Hui Yu
-  - Jayakanthan Kumarasamy
-  - Naoki Iwamoto
-  - Stephany Michelle Standley
-  - Mamoru Shimizu
-  - Timothy Charles Ryan
-  - Jigar Desai
-  - Anthony Lamattina
-  - Milinda Amila Kumara Samaraweera
-  - Wei Liu
-  - Brett Schrand
-  year: 2025
-  journal: null
-  volume: null
-  issue: null
-  pages: null
-  doi: ''
-  url: https://patents.google.com/patent/US20250262235A1/en
-  citation: Lu, G., Monian, P., Shivalila, C. S., Godfrey, J. D., Harding, I. C.,
-    Giangrande, P. H. & et al.. Oligonucleotide compositions and methods relating
-    thereto. (2025).
-- title: Neutralizing GM-CSF autoantibodies impair neutrophil antifungal effector
-    function in a patient with aspergillosis
-  authors:
-  - Andrew L Wishart
-  - Joseph Pechacek
-  - Lindsey B Rosen
-  - Jigar V Desai
-  - Marissa A Zarakas
-  - Taura Webb
-  - Stefania Pittaluga
-  - Amir Seyedmousavi
-  - Tobias M Hohl
-  - Douglas B Kuhns
-  - Steven M Holland
-  - Michail S Lionakis
-  year: 2025
-  journal: Journal of Infection
-  volume: null
-  issue: null
-  pages: '106588'
-  doi: ''
-  url: https://www.sciencedirect.com/science/article/pii/S0163445325001884
-  citation: Wishart, A. L., Pechacek, J., Rosen, L. B., Desai, J. V., Zarakas, M.
-    A., Webb, T. & et al.. Neutralizing GM-CSF autoantibodies impair neutrophil antifungal
-    effector function in a patient with aspergillosis. Journal of Infection, 106588
-    (2025).
-- title: Compositions for editing mecp2 transcripts and methods thereof
-  authors:
-  - Christopher Michael Acker
-  - Onanong Chivatakarn
-  - Prashant Monian
-  - Chikdu Shakti Shivalila
-  - Subramanian Marappan
-  - Chandra Vargeese
-  - Pachamuthu Kandasamy
-  - Genliang Lu
-  - Hui Yu
-  - David Charles Donnell Butler
-  - Luciano Henrique Apponi
-  - Mamoru Shimizu
-  - Stephany Michelle Standley
-  - David John Boulay
-  - Andrew Guzior Hoss
-  - Jigar Desai
-  - Jack David Godfrey
-  - Hailin Yang
-  - Naoki Iwamoto
-  - Jayakanthan Kumarasamy
-  - Anthony Lamattina
-  - Ian Chandler Harding
-  - Jesse Turner
-  year: 2025
-  journal: null
-  volume: null
-  issue: null
-  pages: null
-  doi: ''
-  url: https://patents.google.com/patent/US20250135036A1/en
-  citation: Acker, C. M., Chivatakarn, O., Monian, P., Shivalila, C. S., Marappan,
-    S., Vargeese, C. & et al.. Compositions for editing mecp2 transcripts and methods
-    thereof. (2025).
-- title: Applying AIMer-Based RNA Editing Technology to Correct a Nonsense Mutation
-    in the Lung
-  authors:
-  - Ian Harding
-  - Jack Godfrey
-  - Chikdu Shivalila
-  - Megan Cannon
-  - Jigar Desai
-  - Alyse Faraone
-  - Carolyn Grimes
-  - Naoki Iwamoto
-  - Pachamuthu Kandasamy
-  - Tomomi Kawamoto
-  - Genliang Lu
-  - Jake Metterville
-  - Prashant Monian
-  - Erin Purcell-Estabrook
-  - Stephany Standley
-  - Hailin Yang
-  - Ryan Yordanoff
-  - Hui Yu
-  - Michael Byrne
-  - Chandra Vargeese
-  year: 2025
-  journal: null
-  volume: '33'
-  issue: '4'
-  pages: null
-  doi: ''
-  url: https://scholar.google.com/scholar?cluster=7720671980272750639&hl=en&oi=scholarr
-  citation: Harding, I., Godfrey, J., Shivalila, C., Cannon, M., Desai, J., Faraone,
-    A. & et al.. Applying AIMer-Based RNA Editing Technology to Correct a Nonsense
-    Mutation in the Lung. 33 (2025).
-- title: Silencing of Inhbe mRNA Using GalNAc-siRNAs Induces Durable Weight Loss in
-    a Mouse Model of Diet-Induced Obesity
-  authors:
-  - Naoki Iwamoto
-  - Wei Liu
-  - Stearne Briem
-  - Michael Byrne
-  - Cynthia Caracta
-  - Arindom Chatterjee
-  - Jigar Desai
-  - Frank Favaloro
-  - Pachamuthu Kandasamy
-  - Tomomi Kawamoto
-  - Anthony Lamattina
-  - Fangjun Liu
-  - Ken Longo
-  - Richard Looby
-  - Khoa Luu
-  - Subramanian Marappan
-  - Jake Metterville
-  - Padma Narayanan
-  - Lola Owen
-  - Qianli Pan
-  - Erin Merrill
-  - Priyanka Shiva Prakasha
-  - Himali Shah
-  - Stephany Standley
-  - Kristin Taborn
-  - Snehlata Tripathi
-  - Hailin Yang
-  - Hsiu-Chiung Yang
-  - Yuan Yin
-  - Erik Ingelsson
-  - Chandra Vargeese
-  year: 2025
-  journal: null
-  volume: '33'
-  issue: '4'
-  pages: null
-  doi: ''
-  url: https://scholar.google.com/scholar?cluster=4417712424031447333&hl=en&oi=scholarr
-  citation: Iwamoto, N., Liu, W., Briem, S., Byrne, M., Caracta, C., Chatterjee, A.
-    & et al.. Silencing of Inhbe mRNA Using GalNAc-siRNAs Induces Durable Weight Loss
-    in a Mouse Model of Diet-Induced Obesity. 33 (2025).
-- title: 'mSphere of Influence: Complement activity beyond systemic circulation—implications
-    in the context of infections'
-  authors:
-  - Jigar V Desai
-  year: 2025
-  journal: mSphere
-  volume: '10'
-  issue: '3'
-  pages: e00531-24
-  doi: 10.1128/msphere.00531-24
-  url: https://journals.asm.org/doi/abs/10.1128/msphere.00531-24
-  citation: 'Desai, J. V.. mSphere of Influence: Complement activity beyond systemic
-    circulation—implications in the context of infections. mSphere 10, e00531-24 (2025).
-    https://doi.org/10.1128/msphere.00531-24'
-- title: P-1054. BTK drives neutrophil activation for sterilizing antifungal immunity
-  authors:
-  - Marissa Agathonia Zarakas
-  - Jigar Desai
-  - Andrew Wishart
-  - Cristina Cunha
-  - Agostinho Carvalho
-  - Tobias M Hohl
-  - Michail S Lionakis
-  year: 2025
-  journal: Open Forum Infectious Diseases
-  volume: '12'
-  issue: Supplement_1
-  pages: ofae631. 1243
-  doi: ''
-  url: https://academic.oup.com/ofid/article-abstract/12/Supplement_1/ofae631.1243/7987227
-  citation: Zarakas, M. A., Desai, J., Wishart, A., Cunha, C., Carvalho, A., Hohl,
-    T. M. & Lionakis, M. S.. P-1054. BTK drives neutrophil activation for sterilizing
-    antifungal immunity. Open Forum Infectious Diseases 12, ofae631. 1243 (2025).
-- title: siRNA-INHBE Silencing in Mice Confirms Human Genetic Data and Supports a
-    New Approach for Obesity
-  authors:
-  - Hsiu-Chiung Yang
-  - Wei Liu
-  - Subramanian Marappan
-  - Michael Byrne
-  - Khoa Luu
-  - Tomomi Kawamoto
-  - Keith Bowman
-  - Stephany Standley
-  - Naoki Iwamoto
-  - Himali Shah
-  - Lola Owen
-  - Jigar Desai
-  - Anthony Lamattina
-  - Priyanka Prakasha
-  - Hailin Yang
-  - Qianli Pan
-  - Carina Thomas
-  - Kris Taborn
-  - Kuldeep Singh
-  - Pachamuthu Kandasamy
-  - Chandra Vargeese
-  year: 2024
-  journal: null
-  volume: '32'
-  issue: null
-  pages: 163-164
-  doi: ''
-  url: https://scholar.google.com/scholar?cluster=13788506503045622395&hl=en&oi=scholarr
-  citation: Yang, H., Liu, W., Marappan, S., Byrne, M., Luu, K., Kawamoto, T. & et
-    al.. siRNA-INHBE Silencing in Mice Confirms Human Genetic Data and Supports a
-    New Approach for Obesity. 32, 163–164 (2024).
-- title: Adapting AIMer-based RNA editing technology for application in CNS
-  authors:
-  - C Acker
-  - C Shivalila
-  - J Desai
-  - I Harding
-  - N Iwamoto
-  - G Lu
-  - P Kandasamy
-  - T Kawamoto
-  - J Metterville
-  - M Cannon
-  - E Purcell-Estabrook
-  - A Faraone
-  - P Monian
-  - T Pu
-  - S Standley
-  - J Turner
-  - R Yordanoff
-  - F Liu
-  - H Yang
-  - PH Giangrande
-  - M Byrne
-  - C Vargeese
-  year: 2024
-  journal: null
-  volume: '35'
-  issue: 3-4
-  pages: A328-A329
-  doi: ''
-  url: https://scholar.google.com/scholar?cluster=11948528599118579087&hl=en&oi=scholarr
-  citation: Acker, C., Shivalila, C., Desai, J., Harding, I., Iwamoto, N., Lu, G.
-    & et al.. Adapting AIMer-based RNA editing technology for application in CNS.
-    35, A328-A329 (2024).
-- title: Response to Comments on" Aberrant type 1 immunity drives susceptibility to
-    mucosal fungal infections" COMMENT
-  authors:
-  - Timothy J Break
-  - Vasileios Oikonomou
-  - Nicolas Dutzan
-  - Jigar V Desai
-  - Marc Swidergall
-  - Tilo Freiwald
-  - Daniel Chauss
-  - Oliver J Harrison
-  - Julie Alejo
-  - Drake W Williams
-  - Stefania Pittaluga
-  - Chyi-Chia R Lee
-  - Nicolas Bouladoux
-  - Muthulekha Swamydas
-  - Kevin W Hoffman
-  - Teresa Greenwell-Wild
-  - Vincent M Bruno
-  - Lindsey B Rosen
-  - Wint Lwin
-  - Andy Renteria
-  - Sergio M Pontejo
-  - John P Shannon
-  - Ian A Myles
-  - Peter Olbrich
-  - Elise Ferre
-  - Monica Schmitt
-  - Daniel Martin
-  - Daniel L Barber
-  - Norma V Solis
-  - Luigi D Notarangelo
-  - David V Serreze
-  - Mitsuru Matsumoto
-  - Heather D Hickman
-  - Philip M Murphy
-  - Mark S Anderson
-  - Jean K Lim
-  - Steven M Holland
-  - Scott G Filler
-  - Behdad Afzali
-  - Yasmine Belkaid
-  - Niki M Moutsopoulos
-  - Michail S Lionakis
-  year: 2021
-  journal: SCIENCE
-  volume: '373'
-  issue: '6561'
-  pages: 1318-1318
-  doi: ''
-  url: https://scholar.google.com/scholar?cluster=5815756921921085952&hl=en&oi=scholarr
-  citation: Break, T. J., Oikonomou, V., Dutzan, N., Desai, J. V., Swidergall, M.,
-    Freiwald, T. & et al.. Response to Comments on" Aberrant type 1 immunity drives
-    susceptibility to mucosal fungal infections" COMMENT. SCIENCE 373, 1318–1318 (2021).
-- title: 149. Efficacy of Cochleated Amphotericin B (CAMB) in Mouse and Human Mucocutaneous
-    Candidiasis
-  authors:
-  - Jigar V Desai
-  - Amanda Urban
-  - Doris Z Swaim
-  - Elise Ferre
-  - Benjamin Colton
-  - Ruying Lu
-  - Theresa Matkovits
-  - Raphael J Mannino
-  - Edmund Tramont
-  - Michail Lionakis
-  - Alexandra Freeman
-  year: 2020
-  journal: Open Forum Infectious Diseases
-  volume: '7'
-  issue: Supplement_1
-  pages: S204-S205
-  doi: ''
-  url: https://academic.oup.com/ofid/article-abstract/7/Supplement_1/S204/6058693
-  citation: Desai, J. V., Urban, A., Swaim, D. Z., Ferre, E., Colton, B., Lu, R. &
-    et al.. 149. Efficacy of Cochleated Amphotericin B (CAMB) in Mouse and Human Mucocutaneous
-    Candidiasis. Open Forum Infectious Diseases 7, S204-S205 (2020).
-- title: Metabolic ‘de-programming’of neutrophils protects against fatal bloodstream
-    fungal infections during kidney disease
-  authors:
-  - Partha Sarathi Biswas
   - Chetan V Jawale
   - Kritika Ramani
-  - Bianca Coleman
+  - De-dong Li
+  - Bianca M Coleman
   - Rohan S Oberoi
   - Saran Kupul
-  - Alexander J Prokopienko
+  - Li Lin
   - Jigar V Desai
   - Greg M Delgoffe
   - Michail S Lionakis
+  - Filitsa H Bender
+  - Alexander J Prokopienko
   - Thomas D Nolin
   - Sarah L Gaffen
+  - Partha S Biswas
   year: 2020
-  journal: The Journal of Immunology
-  volume: '204'
-  issue: 1_Supplement
-  pages: 82.35-82.35
+  journal: Science translational medicine
+  volume: '12'
+  issue: '548'
+  pages: eaay5691
+  doi: 10.1126/scitranslmed.aay5691
+  url: https://www.science.org/doi/abs/10.1126/scitranslmed.aay5691
+  citation: Jawale, C. V., Ramani, K., Li, D., Coleman, B. M., Oberoi, R. S., Kupul,
+    S. & et al.. Restoring glucose uptake rescues neutrophil dysfunction and protects
+    against systemic fungal infection in mouse models of kidney disease. Science translational
+    medicine 12, eaay5691 (2020). https://doi.org/10.1126/scitranslmed.aay5691
+  citation_nature: Jawale C.V., Ramani K., Li D.D.-, Coleman B.M., Oberoi R.S., Kupul
+    S., et al.. Restoring glucose uptake rescues neutrophil dysfunction and protects
+    against systemic fungal infection in mouse models of kidney disease. Science translational
+    medicine 12(548), eaay5691 (2020). doi:10.1126/scitranslmed.aay5691
+- title: Systemic type I IFN inflammation in human ISG15 deficiency leads to necrotizing
+    skin lesions
+  authors:
+  - Marta Martin-Fernandez
+  - María Bravo García-Morato
+  - Conor Gruber
+  - Sara Murias Loza
+  - Muhammad Nasir Hayat Malik
+  - Fahad Alsohime
+  - Abdullah Alakeel
+  - Rita Valdez
+  - Sofija Buta
+  - Guadalupe Buda
+  - Marcelo A Marti
+  - Margarita Larralde
+  - Bertrand Boisson
+  - Marta Feito Rodriguez
+  - Xueer Qiu
+  - Maya Chrabieh
+  - Mohammed Al Ayed
+  - Saleh Al Muhsen
+  - Jigar V Desai
+  - Elise MN Ferre
+  - Sergio D Rosenzweig
+  - Blanca Amador-Borrero
+  - Luz Yadira Bravo-Gallego
+  - Ruth Olmer
+  - Sylvia Merkert
+  - Montserrat Bret
+  - Amika K Sood
+  - Abdulkarim Al-Rabiaah
+  - Mohamad Hani Temsah
+  - Rabih Halwani
+  - Michelle Hernandez
+  - Frank Pessler
+  - Jean-Laurent Casanova
+  - Jacinta Bustamante
+  - Michail S Lionakis
+  - Dusan Bogunovic
+  year: 2020
+  journal: Cell reports
+  volume: '31'
+  issue: '6'
+  pages: null
   doi: ''
-  url: https://academic.oup.com/jimmunol/article-abstract/204/1_Supplement/82.35/7948740
-  citation: Biswas, P. S., Jawale, C. V., Ramani, K., Coleman, B., Oberoi, R. S.,
-    Kupul, S. & et al.. Metabolic ‘de-programming’of neutrophils protects against
-    fatal bloodstream fungal infections during kidney disease. The Journal of Immunology
-    204, 82.35-82.35 (2020).
+  url: https://www.cell.com/cell-reports/fulltext/S2211-1247(20)30586-6
+  citation: Martin-Fernandez, M., García-Morato, M. B., Gruber, C., Loza, S. M., Malik,
+    M. N. H., Alsohime, F. & et al.. Systemic type I IFN inflammation in human ISG15
+    deficiency leads to necrotizing skin lesions. Cell reports 31 (2020).
+  citation_nature: Martin-Fernandez M., García-Morato M.B., Gruber C., Loza S.M.,
+    Malik M.N.H., Alsohime F., et al.. Systemic type I IFN inflammation in human ISG15
+    deficiency leads to necrotizing skin lesions. Cell reports 31(6) (2020). https://www.cell.com/cell-reports/fulltext/S2211-1247(20)30586-6
+- title: Fungal infections with ibrutinib and other small-molecule kinase inhibitors
+  authors:
+  - Marissa A Zarakas
+  - Jigar V Desai
+  - Georgios Chamilos
+  - Michail S Lionakis
+  year: 2019
+  journal: null
+  volume: '13'
+  issue: '3'
+  pages: 86-98
+  doi: 10.1007/s12281-019-00343-9
+  url: https://link.springer.com/article/10.1007/s12281-019-00343-9
+  citation: Zarakas, M. A., Desai, J. V., Chamilos, G. & Lionakis, M. S.. Fungal infections
+    with ibrutinib and other small-molecule kinase inhibitors. 13, 86–98 (2019). https://doi.org/10.1007/s12281-019-00343-9
+  citation_nature: Zarakas M.A., Desai J.V., Chamilos G. & Lionakis M.S.. Fungal infections
+    with ibrutinib and other small-molecule kinase inhibitors. 13(3), 86-98 (2019).
+    doi:10.1007/s12281-019-00343-9
 - title: Metabolic ‘De-Programming’of Neutrophils Protects Against Fatal Bloodstream
     Fungal Infections in Kidney Disease
   authors:
@@ -2139,6 +1775,25 @@
   citation: Jawale, C. V., Ramani, K., Coleman, B. M., Oberoi, R. S., Kupul, S., Prokopienko,
     A. J. & et al.. Metabolic ‘De-Programming’of Neutrophils Protects Against Fatal
     Bloodstream Fungal Infections in Kidney Disease. Available at SSRN 3403336 (2019).
+  citation_nature: Jawale C.V., Ramani K., Coleman B.M., Oberoi R.S., Kupul S., Prokopienko
+    A.J., et al.. Metabolic ‘De-Programming’of Neutrophils Protects Against Fatal
+    Bloodstream Fungal Infections in Kidney Disease. Available at SSRN 3403336 (2019).
+    https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3403336
+- title: 'Setting up home: fungal rules of commensalism in the mammalian gut'
+  authors:
+  - Jigar V Desai
+  - Michail S Lionakis
+  year: 2019
+  journal: Cell host & microbe
+  volume: '25'
+  issue: '3'
+  pages: 347-349
+  doi: ''
+  url: https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(19)30108-8
+  citation: 'Desai, J. V. & Lionakis, M. S.. Setting up home: fungal rules of commensalism
+    in the mammalian gut. Cell host & microbe 25, 347–349 (2019).'
+  citation_nature: 'Desai J.V. & Lionakis M.S.. Setting up home: fungal rules of commensalism
+    in the mammalian gut. Cell host & microbe 25(3), 347-349 (2019). https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(19)30108-8'
 - title: 370. Efficacy of Cochleated Amphotericin B (C-AMB) in Mouse Models of Oropharyngeal
     and Vulvovaginal Candidiasis
   authors:
@@ -2160,22 +1815,204 @@
     R. J. & Lionakis, M. S.. 370. Efficacy of Cochleated Amphotericin B (C-AMB) in
     Mouse Models of Oropharyngeal and Vulvovaginal Candidiasis. Open Forum Infectious
     Diseases 5, S145 (2018).
-- title: C5ar1-dependent phagocyte effector functions protect against systemic candidiasis
+  citation_nature: Desai J.V., Lu R., Freeman A.F., Tramont E., Jabbour J., Mannino
+    R.J., et al.. 370. Efficacy of Cochleated Amphotericin B (C-AMB) in Mouse Models
+    of Oropharyngeal and Vulvovaginal Candidiasis. Open Forum Infectious Diseases
+    5(Suppl 1), S145 (2018). https://pmc.ncbi.nlm.nih.gov/articles/PMC6254133/
+- title: Aspergillosis, eosinophilic esophagitis, and allergic rhinitis in signal
+    transducer and activator of transcription 3 haploinsufficiency
+  authors:
+  - Mukil Natarajan
+  - Amy P Hsu
+  - Michael A Weinreich
+  - Yuan Zhang
+  - Julie E Niemela
+  - John A Butman
+  - Stefania Pittaluga
+  - Janyce Sugui
+  - Amanda L Collar
+  - Jean K Lim
+  - Tirdad Zangeneh
+  - Tara Carr
+  - Andrew J Oler
+  - Morgan Similuk
+  - Lindsey B Rosen
+  - Jigar V Desai
+  - Alexandra F Freeman
+  - Steven M Holland
+  - Kyung J Kwon-Chung
+  - Joshua D Milner
+  - Michail S Lionakis
+  year: 2018
+  journal: Journal of Allergy and Clinical Immunology
+  volume: '142'
+  issue: '3'
+  pages: 993-997. e3
+  doi: ''
+  url: https://www.jacionline.org/article/S0091-6749(18)30764-4/abstract
+  citation: Natarajan, M., Hsu, A. P., Weinreich, M. A., Zhang, Y., Niemela, J. E.,
+    Butman, J. A. & et al.. Aspergillosis, eosinophilic esophagitis, and allergic
+    rhinitis in signal transducer and activator of transcription 3 haploinsufficiency.
+    Journal of Allergy and Clinical Immunology 142, 993-997. e3 (2018).
+  citation_nature: Natarajan M., Hsu A.P., Weinreich M.A., Zhang Y., Niemela J.E.,
+    Butman J.A., et al.. Aspergillosis, eosinophilic esophagitis, and allergic rhinitis
+    in signal transducer and activator of transcription 3 haploinsufficiency. Journal
+    of Allergy and Clinical Immunology 142(3), 993-997. e3 (2018). https://www.jacionline.org/article/S0091-6749(18)30764-4/abstract
+- title: 'Candida albicans Hyphae: From Growth Initiation to Invasion'
   authors:
   - Jigar V Desai
-  - Claudia Kemper
-  - Jörg Köhl
-  - Michail Lionakis
-  year: 2017
-  journal: Open Forum Infectious Diseases
+  year: 2018
+  journal: null
   volume: '4'
+  issue: '1'
+  pages: '10'
+  doi: ''
+  url: https://www.mdpi.com/2309-608X/4/1/10
+  citation: 'Desai, J. V.. Candida albicans Hyphae: From Growth Initiation to Invasion.
+    4, 10 (2018).'
+  citation_nature: 'Desai J.V.. Candida albicans Hyphae: From Growth Initiation to
+    Invasion. 4(1), 10 (2018). https://www.mdpi.com/2309-608X/4/1/10'
+- title: Human defects in STAT3 promote oral mucosal fungal and bacterial dysbiosis
+  authors:
+  - Loreto Abusleme
+  - Patricia I Diaz
+  - Alexandra F Freeman
+  - Teresa Greenwell-Wild
+  - Laurie Brenchley
+  - Jigar V Desai
+  - Weng-Ian Ng
+  - Steven M Holland
+  - Michail S Lionakis
+  - Julia A Segre
+  - Heidi H Kong
+  - Niki M Moutsopoulos
+  year: 2018
+  journal: JCI insight
+  volume: '3'
+  issue: '17'
+  pages: e122061
+  doi: ''
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6171814/
+  citation: Abusleme, L., Diaz, P. I., Freeman, A. F., Greenwell-Wild, T., Brenchley,
+    L., Desai, J. V. & et al.. Human defects in STAT3 promote oral mucosal fungal
+    and bacterial dysbiosis. JCI insight 3, e122061 (2018).
+  citation_nature: Abusleme L., Diaz P.I., Freeman A.F., Greenwell-Wild T., Brenchley
+    L., Desai J.V., et al.. Human defects in STAT3 promote oral mucosal fungal and
+    bacterial dysbiosis. JCI insight 3(17), e122061 (2018). https://pmc.ncbi.nlm.nih.gov/articles/PMC6171814/
+- title: Microscopy of fungal biofilms
+  authors:
+  - Katherine Lagree
+  - Jigar V Desai
+  - Jonathan S Finkel
+  - Frederick Lanni
+  year: 2018
+  journal: null
+  volume: '43'
   issue: null
-  pages: S115
-  doi: 10.1093/ofid/ofx163.131
-  url: https://www.ovid.com/journals/ofid/fulltext/10.1093/ofid/ofx163.131~c5ar1-dependent-phagocyte-effector-functions-protect-against
-  citation: Desai, J. V., Kemper, C., Köhl, J. & Lionakis, M.. C5ar1-dependent phagocyte
-    effector functions protect against systemic candidiasis. Open Forum Infectious
-    Diseases 4, S115 (2017). https://doi.org/10.1093/ofid/ofx163.131
+  pages: 100-107
+  doi: ''
+  url: https://www.sciencedirect.com/science/article/pii/S136952741730139X
+  citation: Lagree, K., Desai, J. V., Finkel, J. S. & Lanni, F.. Microscopy of fungal
+    biofilms. 43, 100–107 (2018).
+  citation_nature: Lagree K., Desai J.V., Finkel J.S. & Lanni F.. Microscopy of fungal
+    biofilms. 43, 100-107 (2018). https://www.sciencedirect.com/science/article/pii/S136952741730139X
+- title: The role of neutrophils in host defense against invasive fungal infections
+  authors:
+  - Jigar V Desai
+  - Michail S Lionakis
+  year: 2018
+  journal: null
+  volume: '5'
+  issue: '3'
+  pages: 181-189
+  doi: 10.1007/s40588-018-0098-6
+  url: https://link.springer.com/article/10.1007/s40588-018-0098-6
+  citation: Desai, J. V. & Lionakis, M. S.. The role of neutrophils in host defense
+    against invasive fungal infections. 5, 181–189 (2018). https://doi.org/10.1007/s40588-018-0098-6
+  citation_nature: Desai J.V. & Lionakis M.S.. The role of neutrophils in host defense
+    against invasive fungal infections. 5(3), 181-189 (2018). doi:10.1007/s40588-018-0098-6
+- title: Understanding the role of host immune responses in invasive candidiasis
+  authors:
+  - Jigar V Desai
+  - Frank L van de Veerdonk
+  - Michail S Lionakis
+  year: 2018
+  journal: Intensive care medicine
+  volume: '44'
+  issue: '8'
+  pages: 1310-1314
+  doi: 10.1007/s00134-017-4988-5
+  url: https://link.springer.com/article/10.1007/s00134-017-4988-5
+  citation: Desai, J. V., Veerdonk, F. L. V. D. & Lionakis, M. S.. Understanding the
+    role of host immune responses in invasive candidiasis. Intensive care medicine
+    44, 1310–1314 (2018). https://doi.org/10.1007/s00134-017-4988-5
+  citation_nature: Desai J.V., Veerdonk F.L.V.D. & Lionakis M.S.. Understanding the
+    role of host immune responses in invasive candidiasis. Intensive care medicine
+    44(8), 1310-1314 (2018). doi:10.1007/s00134-017-4988-5
+- title: VT-1161 protects mice against oropharyngeal candidiasis caused by fluconazole-susceptible
+    and -resistant Candida albicans
+  authors:
+  - Timothy J Break
+  - Jigar V Desai
+  - Mukil Natarajan
+  - Elise MN Ferre
+  - Christina Henderson
+  - Adrian M Zelazny
+  - Ulrich Siebenlist
+  - William J Hoekstra
+  - Robert J Schotzinger
+  - Edward P Garvey
+  - Michail S Lionakis
+  year: 2018
+  journal: Journal of Antimicrobial Chemotherapy
+  volume: '73'
+  issue: '1'
+  pages: 151-155
+  doi: ''
+  url: https://academic.oup.com/jac/article-abstract/73/1/151/4430791
+  citation: Break, T. J., Desai, J. V., Natarajan, M., Ferre, E. M., Henderson, C.,
+    Zelazny, A. M. & et al.. VT-1161 protects mice against oropharyngeal candidiasis
+    caused by fluconazole-susceptible and -resistant Candida albicans. Journal of
+    Antimicrobial Chemotherapy 73, 151–155 (2018).
+  citation_nature: Break T.J., Desai J.V., Natarajan M., Ferre E.M., Henderson C.,
+    Zelazny A.M., et al.. VT-1161 protects mice against oropharyngeal candidiasis
+    caused by fluconazole-susceptible and -resistant Candida albicans. Journal of
+    Antimicrobial Chemotherapy 73(1), 151-155 (2018). https://academic.oup.com/jac/article-abstract/73/1/151/4430791
+- title: VT-1598 inhibits the in vitro growth of mucosal Candida strains and protects
+    against fluconazole-susceptible and-resistant oral candidiasis in IL-17 signalling-deficient
+    mice
+  authors:
+  - Timothy J Break
+  - Jigar V Desai
+  - Kelley R Healey
+  - Mukil Natarajan
+  - Elise MN Ferre
+  - Christina Henderson
+  - Adrian Zelazny
+  - Ulrich Siebenlist
+  - Christopher M Yates
+  - Oren J Cohen
+  - Robert J Schotzinger
+  - David S Perlin
+  - Edward P Garvey
+  - Michail S Lionakis
+  year: 2018
+  journal: Journal of Antimicrobial Chemotherapy
+  volume: '73'
+  issue: '8'
+  pages: 2089-2094
+  doi: ''
+  url: https://academic.oup.com/jac/article-abstract/73/8/2089/4996888
+  citation: Break, T. J., Desai, J. V., Healey, K. R., Natarajan, M., Ferre, E. M.,
+    Henderson, C. & et al.. VT-1598 inhibits the in vitro growth of mucosal Candida
+    strains and protects against fluconazole-susceptible and-resistant oral candidiasis
+    in IL-17 signalling-deficient mice. Journal of Antimicrobial Chemotherapy 73,
+    2089–2094 (2018).
+  citation_nature: Break T.J., Desai J.V., Healey K.R., Natarajan M., Ferre E.M.,
+    Henderson C., et al.. VT-1598 inhibits the in vitro growth of mucosal Candida
+    strains and protects against fluconazole-susceptible and-resistant oral candidiasis
+    in IL-17 signalling-deficient mice. Journal of Antimicrobial Chemotherapy 73(8),
+    2089-2094 (2018). https://academic.oup.com/jac/article-abstract/73/8/2089/4996888
 - title: Acknowledgement to Reviewers of Pathogens in 2016
   authors:
   - Gennaro Roberto Abbamondi
@@ -2266,6 +2103,182 @@
   url: https://pdfs.semanticscholar.org/33ab/3d3bd1e8369731d2de8a307010c0d1f2ef32.pdf
   citation: Abbamondi, G. R., Abdelwhab, E., Albrecht, R. A., Altarac, S., Araujo,
     R., Atack, J. & et al.. Acknowledgement to Reviewers of Pathogens in 2016. (2017).
+  citation_nature: Abbamondi G.R., Abdelwhab E.S.-, Albrecht R.A., Altarac S., Araujo
+    R., Atack J., et al.. Acknowledgement to Reviewers of Pathogens in 2016. (2017).
+    https://pdfs.semanticscholar.org/33ab/3d3bd1e8369731d2de8a307010c0d1f2ef32.pdf
+- title: 'An eye commensal tunes the immune response at the ocular surface by eliciting
+    IL-17 from mucosal γδ T cells: Mo-WS6-1'
+  authors:
+  - Anthony J St Leger
+  - Jigar V Desai
+  - Rebecca A Drummond
+  - Abirami Kugadas
+  - Fatimah Almaghrabi
+  - Phyllis B Silver
+  - Kumarkrishna Raychaudhuri
+  - Mihaela Gadjeva
+  - Yoichiro Iwakura
+  - Michail S Lionakis
+  - Rachel R Caspi
+  year: 2017
+  journal: Cytokine
+  volume: '100'
+  issue: null
+  pages: 38-39
+  doi: ''
+  url: https://www.ovid.com/journals/cytok/abstract/00001705-201712000-00080~an-eye-commensal-tunes-the-immune-response-at-the-ocular
+  citation: 'Leger, A. J. S., Desai, J. V., Drummond, R. A., Kugadas, A., Almaghrabi,
+    F., Silver, P. B. & et al.. An eye commensal tunes the immune response at the
+    ocular surface by eliciting IL-17 from mucosal γδ T cells: Mo-WS6-1. Cytokine
+    100, 38–39 (2017).'
+  citation_nature: 'Leger A.J.S., Desai J.V., Drummond R.A., Kugadas A., Almaghrabi
+    F., Silver P.B., et al.. An eye commensal tunes the immune response at the ocular
+    surface by eliciting IL-17 from mucosal γδ T cells: Mo-WS6-1. Cytokine 100, 38-39
+    (2017). https://www.ovid.com/journals/cytok/abstract/00001705-201712000-00080~an-eye-commensal-tunes-the-immune-response-at-the-ocular'
+- title: An ocular commensal protects against corneal infection by driving an interleukin-17
+    response from mucosal γδ T cells
+  authors:
+  - Anthony J St Leger
+  - Jigar V Desai
+  - Rebecca A Drummond
+  - Abirami Kugadas
+  - Fatimah Almaghrabi
+  - Phyllis Silver
+  - Kumarkrishna Raychaudhuri
+  - Mihaela Gadjeva
+  - Yoichiro Iwakura
+  - Michail S Lionakis
+  - Rachel R Caspi
+  year: 2017
+  journal: Immunity
+  volume: '47'
+  issue: '1'
+  pages: 148-158. e5
+  doi: ''
+  url: https://www.cell.com/immunity/fulltext/S1074-7613(17)30274-1
+  citation: Leger, A. J. S., Desai, J. V., Drummond, R. A., Kugadas, A., Almaghrabi,
+    F., Silver, P. & et al.. An ocular commensal protects against corneal infection
+    by driving an interleukin-17 response from mucosal γδ T cells. Immunity 47, 148-158.
+    e5 (2017).
+  citation_nature: Leger A.J.S., Desai J.V., Drummond R.A., Kugadas A., Almaghrabi
+    F., Silver P., et al.. An ocular commensal protects against corneal infection
+    by driving an interleukin-17 response from mucosal γδ T cells. Immunity 47(1),
+    148-158. e5 (2017). https://www.cell.com/immunity/fulltext/S1074-7613(17)30274-1
+- title: C5ar1-dependent phagocyte effector functions protect against systemic candidiasis
+  authors:
+  - Jigar V Desai
+  - Claudia Kemper
+  - Jörg Köhl
+  - Michail Lionakis
+  year: 2017
+  journal: Open Forum Infectious Diseases
+  volume: '4'
+  issue: null
+  pages: S115
+  doi: 10.1093/ofid/ofx163.131
+  url: https://www.ovid.com/journals/ofid/fulltext/10.1093/ofid/ofx163.131~c5ar1-dependent-phagocyte-effector-functions-protect-against
+  citation: Desai, J. V., Kemper, C., Köhl, J. & Lionakis, M.. C5ar1-dependent phagocyte
+    effector functions protect against systemic candidiasis. Open Forum Infectious
+    Diseases 4, S115 (2017). https://doi.org/10.1093/ofid/ofx163.131
+  citation_nature: Desai J.V., Kemper C., Köhl J. & Lionakis M.. C5ar1-dependent phagocyte
+    effector functions protect against systemic candidiasis. Open Forum Infectious
+    Diseases 4, S115 (2017). doi:10.1093/ofid/ofx163.131
+- title: Inhibition of B cell receptor signaling by ibrutinib in primary CNS lymphoma
+  authors:
+  - Michail S Lionakis
+  - Kieron Dunleavy
+  - Mark Roschewski
+  - Brigitte C Widemann
+  - John A Butman
+  - Roland Schmitz
+  - Yandan Yang
+  - Diane E Cole
+  - Christopher Melani
+  - Christine S Higham
+  - Jigar V Desai
+  - Michele Ceribelli
+  - Lu Chen
+  - Craig J Thomas
+  - Richard F Little
+  - Juan Gea-Banacloche
+  - Sucharita Bhaumik
+  - Maryalice Stetler-Stevenson
+  - Stefania Pittaluga
+  - Elaine S Jaffe
+  - John Heiss
+  - Nicole Lucas
+  - Seth M Steinberg
+  - Louis M Staudt
+  - Wyndham H Wilson
+  year: 2017
+  journal: Cancer cell
+  volume: '31'
+  issue: '6'
+  pages: 833-843. e5
+  doi: ''
+  url: https://www.cell.com/cancer-cell/fulltext/S1535-6108(17)30167-8
+  citation: Lionakis, M. S., Dunleavy, K., Roschewski, M., Widemann, B. C., Butman,
+    J. A., Schmitz, R. & et al.. Inhibition of B cell receptor signaling by ibrutinib
+    in primary CNS lymphoma. Cancer cell 31, 833-843. e5 (2017).
+  citation_nature: Lionakis M.S., Dunleavy K., Roschewski M., Widemann B.C., Butman
+    J.A., Schmitz R., et al.. Inhibition of B cell receptor signaling by ibrutinib
+    in primary CNS lymphoma. Cancer cell 31(6), 833-843. e5 (2017). https://www.cell.com/cancer-cell/fulltext/S1535-6108(17)30167-8
+- title: Microbiome-dependent modulation of mucosal immunity at the ocular surface.
+  authors:
+  - Anthony J St. Leger
+  - Jigar V Desai
+  - Rebecca Drummond
+  - Abirami Kugadas
+  - Fatimah Almaghrabi
+  - Phyllis Silver
+  - Mihaela Gadjeva
+  - Yoichiro Iwakura
+  - Michail S Lionakis
+  - Rachel R Caspi
+  year: 2017
+  journal: The Journal of Immunology
+  volume: '198'
+  issue: Supplement_1
+  pages: 149.6-149.6
+  doi: ''
+  url: https://academic.oup.com/jimmunol/article-abstract/198/Supplement_1/149.6/7968672
+  citation: Leger, A. J. S., Desai, J. V., Drummond, R., Kugadas, A., Almaghrabi,
+    F., Silver, P., Gadjeva, M., Iwakura, Y., Lionakis, M. S. & Caspi, R. R.. Microbiome-dependent
+    modulation of mucosal immunity at the ocular surface.. The Journal of Immunology
+    198, 149.6-149.6 (2017).
+  citation_nature: Leger A.J.S., Desai J.V., Drummond R., Kugadas A., Almaghrabi F.,
+    Silver P., et al.. Microbiome-dependent modulation of mucosal immunity at the
+    ocular surface.. The Journal of Immunology 198(Supplement_1), 149.6-149.6 (2017).
+    https://academic.oup.com/jimmunol/article-abstract/198/Supplement_1/149.6/7968672
+- title: VT-1598 Inhibits the in vitro Growth of Mucosal Candida Isolates and Protects
+    Against Oropharyngeal Candidiasis in IL-17 Deficient Mice
+  authors:
+  - Timothy J Break
+  - Jigar V Desai
+  - Mukil Natarajan
+  - Elise Ferre
+  - Christina Henderson
+  - Adrian M Zelazny
+  - Christopher M Yates
+  - Oren J Cohen
+  - Robert J Schotzinger
+  - Edward P Garvey
+  - Michail Lionakis
+  year: 2017
+  journal: Open Forum Infectious Diseases
+  volume: '4'
+  issue: suppl_1
+  pages: S115-S115
+  doi: ''
+  url: https://academic.oup.com/ofid/article-abstract/4/suppl_1/S115/4295534
+  citation: Break, T. J., Desai, J. V., Natarajan, M., Ferre, E., Henderson, C., Zelazny,
+    A. M. & et al.. VT-1598 Inhibits the in vitro Growth of Mucosal Candida Isolates
+    and Protects Against Oropharyngeal Candidiasis in IL-17 Deficient Mice. Open Forum
+    Infectious Diseases 4, S115-S115 (2017).
+  citation_nature: Break T.J., Desai J.V., Natarajan M., Ferre E., Henderson C., Zelazny
+    A.M., et al.. VT-1598 Inhibits the in vitro Growth of Mucosal Candida Isolates
+    and Protects Against Oropharyngeal Candidiasis in IL-17 Deficient Mice. Open Forum
+    Infectious Diseases 4(suppl_1), S115-S115 (2017). https://academic.oup.com/ofid/article-abstract/4/suppl_1/S115/4295534
 - title: 'MICROBIOME-DEPENDENT MODULATION OF MUCOSAL IMMUNITY AT THE OCULAR SURFACE:
     O004'
   authors:
@@ -2286,3 +2299,232 @@
   citation: 'Leger, A. S., Desai, J., Drummond, R., Almaghrabi, F., Silver, P., Lionakis,
     M. & Caspi, R.. MICROBIOME-DEPENDENT MODULATION OF MUCOSAL IMMUNITY AT THE OCULAR
     SURFACE: O004. Cytokine 87, 47–48 (2016).'
+  citation_nature: 'Leger A.S., Desai J., Drummond R., Almaghrabi F., Silver P., Lionakis
+    M., et al.. MICROBIOME-DEPENDENT MODULATION OF MUCOSAL IMMUNITY AT THE OCULAR
+    SURFACE: O004. Cytokine 87, 47-48 (2016). https://www.ovid.com/journals/cytok/abstract/00001705-201611000-00009~microbiome-dependent-modulation-of-mucosal-immunity-at-the'
+- title: VT-1129 and VT-1161 have in vitro activity against Candida isolates from
+    patients with chronic mucocutaneous candidiasis
+  authors:
+  - Jigar V Desai
+  - Timothy J Break
+  - Mukil Natarajan
+  - Christina Henderson
+  - Adrian M Zelazny
+  - William J Hoekstra
+  - Robert J Schotzinger
+  - Edward P Garvey
+  - Michail S Lionakis
+  year: 2016
+  journal: Open Forum Infectious Diseases
+  volume: '3'
+  issue: suppl_1
+  pages: '1635'
+  doi: ''
+  url: https://academic.oup.com/ofid/article-abstract/3/suppl_1/1635/2635994
+  citation: Desai, J. V., Break, T. J., Natarajan, M., Henderson, C., Zelazny, A.
+    M., Hoekstra, W. J., Schotzinger, R. J., Garvey, E. P. & Lionakis, M. S.. VT-1129
+    and VT-1161 have in vitro activity against Candida isolates from patients with
+    chronic mucocutaneous candidiasis. Open Forum Infectious Diseases 3, 1635 (2016).
+  citation_nature: Desai J.V., Break T.J., Natarajan M., Henderson C., Zelazny A.M.,
+    Hoekstra W.J., et al.. VT-1129 and VT-1161 have in vitro activity against Candida
+    isolates from patients with chronic mucocutaneous candidiasis. Open Forum Infectious
+    Diseases 3(suppl_1), 1635 (2016). https://academic.oup.com/ofid/article-abstract/3/suppl_1/1635/2635994
+- title: Candida albicans Biofilm Development and Its Genetic Control
+  authors:
+  - Jigar V Desai
+  - Aaron P Mitchell
+  year: 2015
+  journal: Microbial Biofilms
+  volume: null
+  issue: null
+  pages: 99-114
+  doi: 10.1128/9781555817466.ch5
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1128/9781555817466.ch5
+  citation: Desai, J. V. & Mitchell, A. P.. Candida albicans Biofilm Development and
+    Its Genetic Control. Microbial Biofilms, 99–114 (2015). https://doi.org/10.1128/9781555817466.ch5
+  citation_nature: Desai J.V. & Mitchell A.P.. Candida albicans Biofilm Development
+    and Its Genetic Control. Microbial Biofilms 99-114 (2015). doi:10.1128/9781555817466.ch5
+- title: Coordination of Candida albicans Invasion and Infection Functions by Phosphoglycerol
+    Phosphatase Rhr2
+  authors:
+  - Jigar V Desai
+  - Shaoji Cheng
+  - Tammy Ying
+  - M Hong Nguyen
+  - Cornelius J Clancy
+  - Frederick Lanni
+  - Aaron P Mitchell
+  year: 2015
+  journal: Pathogens
+  volume: '4'
+  issue: '3'
+  pages: 573-589
+  doi: ''
+  url: https://www.mdpi.com/2076-0817/4/3/573
+  citation: Desai, J. V., Cheng, S., Ying, T., Nguyen, M. H., Clancy, C. J., Lanni,
+    F. & Mitchell, A. P.. Coordination of Candida albicans Invasion and Infection
+    Functions by Phosphoglycerol Phosphatase Rhr2. Pathogens 4, 573–589 (2015).
+  citation_nature: Desai J.V., Cheng S., Ying T., Nguyen M.H., Clancy C.J., Lanni
+    F., et al.. Coordination of Candida albicans Invasion and Infection Functions
+    by Phosphoglycerol Phosphatase Rhr2. Pathogens 4(3), 573-589 (2015). https://www.mdpi.com/2076-0817/4/3/573
+- title: Fungal biofilms, drug resistance, and recurrent infection
+  authors:
+  - Jigar V Desai
+  - Aaron P Mitchell
+  - David R Andes
+  year: 2014
+  journal: null
+  volume: '4'
+  issue: '10'
+  pages: a019729
+  doi: ''
+  url: https://perspectivesinmedicine.cshlp.org/content/4/10/a019729.short
+  citation: Desai, J. V., Mitchell, A. P. & Andes, D. R.. Fungal biofilms, drug resistance,
+    and recurrent infection. 4, a019729 (2014).
+  citation_nature: Desai J.V., Mitchell A.P. & Andes D.R.. Fungal biofilms, drug resistance,
+    and recurrent infection. 4(10), a019729 (2014). https://perspectivesinmedicine.cshlp.org/content/4/10/a019729.short
+- title: Regulatory role of glycerol in Candida albicans biofilm formation
+  authors:
+  - Jigar V Desai
+  - Vincent M Bruno
+  - Shantanu Ganguly
+  - Ronald J Stamper
+  - Kaitlin F Mitchell
+  - Norma Solis
+  - Elizabeth M Hill
+  - Wenjie Xu
+  - Scott G Filler
+  - David R Andes
+  - Saranna Fanning
+  - Frederick Lanni
+  - Aaron P Mitchell
+  year: 2013
+  journal: MBio
+  volume: '4'
+  issue: '2'
+  pages: 10.1128/mbio. 00637-12
+  doi: 10.1128/mbio.00637-12
+  url: https://journals.asm.org/doi/abs/10.1128/mbio.00637-12
+  citation: Desai, J. V., Bruno, V. M., Ganguly, S., Stamper, R. J., Mitchell, K.
+    F., Solis, N. & et al.. Regulatory role of glycerol in Candida albicans biofilm
+    formation. MBio 4, 10.1128/mbio. 00637-12 (2013). https://doi.org/10.1128/mbio.00637-12
+  citation_nature: Desai J.V., Bruno V.M., Ganguly S., Stamper R.J., Mitchell K.F.,
+    Solis N., et al.. Regulatory role of glycerol in Candida albicans biofilm formation.
+    MBio 4(2), 10.1128/mbio. 00637-12 (2013). doi:10.1128/mbio.00637-12
+- title: cis- and trans-Acting Localization Determinants of pH Response Regulator
+    Rim13 in Saccharomyces cerevisiae
+  authors:
+  - Shoba Subramanian
+  - Carol A Woolford
+  - Jigar V Desai
+  - Frederick Lanni
+  - Aaron P Mitchell
+  year: 2012
+  journal: Eukaryotic Cell
+  volume: '11'
+  issue: '10'
+  pages: 1201-1209
+  doi: 10.1128/ec.00158-12
+  url: https://journals.asm.org/doi/abs/10.1128/ec.00158-12
+  citation: Subramanian, S., Woolford, C. A., Desai, J. V., Lanni, F. & Mitchell,
+    A. P.. cis- and trans-Acting Localization Determinants of pH Response Regulator
+    Rim13 in Saccharomyces cerevisiae. Eukaryotic Cell 11, 1201–1209 (2012). https://doi.org/10.1128/ec.00158-12
+  citation_nature: Subramanian S., Woolford C.A., Desai J.V., Lanni F. & Mitchell
+    A.P.. cis- and trans-Acting Localization Determinants of pH Response Regulator
+    Rim13 in Saccharomyces cerevisiae. Eukaryotic Cell 11(10), 1201-1209 (2012). doi:10.1128/ec.00158-12
+- title: 'Crystal structures of human pyridoxal kinase in complex with the neurotoxins,
+    ginkgotoxin and theophylline: insights into pyridoxal kinase inhibition'
+  authors:
+  - Amit K Gandhi
+  - Jigar V Desai
+  - Mohini S Ghatge
+  - Martino L di Salvo
+  - Stefano Di Biase
+  - Richmond Danso-Danquah
+  - Faik N Musayev
+  - Roberto Contestabile
+  - Verne Schirch
+  - Martin K Safo
+  year: 2012
+  journal: PLoS One
+  volume: '7'
+  issue: '7'
+  pages: e40954
+  doi: 10.1371/journal.pone.0040954
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0040954
+  citation: 'Gandhi, A. K., Desai, J. V., Ghatge, M. S., Salvo, M. L. D., Biase, S.
+    D., Danso-Danquah, R., Musayev, F. N., Contestabile, R., Schirch, V. & Safo, M.
+    K.. Crystal structures of human pyridoxal kinase in complex with the neurotoxins,
+    ginkgotoxin and theophylline: insights into pyridoxal kinase inhibition. PLoS
+    One 7, e40954 (2012). https://doi.org/10.1371/journal.pone.0040954'
+  citation_nature: 'Gandhi A.K., Desai J.V., Ghatge M.S., Salvo M.L.D., Biase S.D.,
+    Danso-Danquah R., et al.. Crystal structures of human pyridoxal kinase in complex
+    with the neurotoxins, ginkgotoxin and theophylline: insights into pyridoxal kinase
+    inhibition. PLoS One 7(7), e40954 (2012). doi:10.1371/journal.pone.0040954'
+- title: Portrait of Candida albicans Adherence Regulators
+  authors:
+  - Jonathan S Finkel
+  - Wenjie Xu
+  - David Huang
+  - Elizabeth M Hill
+  - Jigar V Desai
+  - Carol A Woolford
+  - Jeniel E Nett
+  - Heather Taff
+  - Carmelle T Norice
+  - David R Andes
+  - Frederick Lanni
+  - Aaron P Mitchell
+  year: 2012
+  journal: PLoS pathogens
+  volume: '8'
+  issue: '2'
+  pages: e1002525
+  doi: 10.1371/journal.ppat.1002525
+  url: https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1002525
+  citation: Finkel, J. S., Xu, W., Huang, D., Hill, E. M., Desai, J. V., Woolford,
+    C. A. & et al.. Portrait of Candida albicans Adherence Regulators. PLoS pathogens
+    8, e1002525 (2012). https://doi.org/10.1371/journal.ppat.1002525
+  citation_nature: Finkel J.S., Xu W., Huang D., Hill E.M., Desai J.V., Woolford C.A.,
+    et al.. Portrait of Candida albicans Adherence Regulators. PLoS pathogens 8(2),
+    e1002525 (2012). doi:10.1371/journal.ppat.1002525
+- title: Pyridoxal 5′-Phosphate Is a Slow Tight Binding Inhibitor of E. coli Pyridoxal
+    Kinase
+  authors:
+  - Mohini S Ghatge
+  - Roberto Contestabile
+  - Martino L di Salvo
+  - Jigar V Desai
+  - Amit K Gandhi
+  - Christina M Camara
+  - Rita Florio
+  - Isabel N González
+  - Alessia Parroni
+  - Verne Schirch
+  - Martin K Safo
+  year: 2012
+  journal: null
+  volume: '7'
+  issue: '7'
+  pages: e41680
+  doi: 10.1371/journal.pone.0041680
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0041680
+  citation: Ghatge, M. S., Contestabile, R., Salvo, M. L. D., Desai, J. V., Gandhi,
+    A. K., Camara, C. M. & et al.. Pyridoxal 5′-Phosphate Is a Slow Tight Binding
+    Inhibitor of E. coli Pyridoxal Kinase. 7, e41680 (2012). https://doi.org/10.1371/journal.pone.0041680
+  citation_nature: Ghatge M.S., Contestabile R., Salvo M.L.D., Desai J.V., Gandhi
+    A.K., Camara C.M., et al.. Pyridoxal 5′-Phosphate Is a Slow Tight Binding Inhibitor
+    of E. coli Pyridoxal Kinase. 7(7), e41680 (2012). doi:10.1371/journal.pone.0041680
+- title: 'Pyridoxal Kinase: Its Role in Vitamin B6 Metabolism'
+  authors:
+  - Jigarkumar Desai
+  year: 2010
+  journal: null
+  volume: null
+  issue: null
+  pages: null
+  doi: ''
+  url: https://scholarscompass.vcu.edu/etd/2254/?mode=full
+  citation: 'Desai, J.. Pyridoxal Kinase: Its Role in Vitamin B6 Metabolism. (2010).'
+  citation_nature: 'Desai J.. Pyridoxal Kinase: Its Role in Vitamin B6 Metabolism.
+    (2010). https://scholarscompass.vcu.edu/etd/2254/?mode=full'

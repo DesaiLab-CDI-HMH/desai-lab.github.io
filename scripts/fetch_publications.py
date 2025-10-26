@@ -1,214 +1,318 @@
 #!/usr/bin/env python3
 """
-Fetch publications from Google Scholar and output Nature-style citations
-to _data/publications.yml.
+Enrich _data/publications.yml with:
+  - year: int (derived if missing)
+  - citation_nature: str (Nature-style: Authors. Title. Journal Volume(issue), pages (Year). doi:DOI)
+Also sorts entries (newest first) if --sort is provided.
 
-Nature-ish format used:
-Author, A. B., Author, C. D. & Author, E. F. Title. Journal Volume, pages (Year). DOI
+INPUT SHAPE (flexible):
+Each publication can have keys like:
+  title, authors, journal, volume, issue, pages, year, published, date, doi, url, pmid
 
-Author listing rule:
-- If <= 10 authors: list all
-- If > 10 authors: list first 6, then "et al."
+'authors' may be:
+  - list of dicts: [{'family':'Desai','given':'Jigar P.'}, ...]
+  - list of strings: ['Jigar P. Desai', 'Jane Q. Doe', ...] OR ['Desai, Jigar P.', 'Doe, Jane Q.']
+  - single string with separators: 'Desai, Jigar P.; Doe, Jane Q.'
 
-Requires:
-  pip install scholarly PyYAML
-
-Tip: run from the repo root:  python scripts/fetch_publications.py
+USAGE:
+  python3 scripts/fetch_publications.py \
+      --in _data/publications.yml \
+      --out _data/publications.yml \
+      --sort
 """
 
+import argparse
+import copy
+import datetime as dt
 import os
 import re
-import yaml
+import sys
 from typing import List, Dict, Any
-from scholarly import scholarly
 
-SCHOLAR_ID = "hhKlTYYAAAAJ"  # <-- your Google Scholar ID
-OUTPUT_PATH = "_data/publications.yml"
+try:
+    import yaml  # PyYAML
+except ImportError:
+    sys.stderr.write("ERROR: PyYAML not installed. Try: pip install pyyaml\n")
+    sys.exit(1)
 
-# --------------------------
-# Helpers
-# --------------------------
 
-DOI_RE = re.compile(r"(10\.\d{4,9}/[-._;()/:A-Za-z0-9]+)")
+# --------------------------- Helpers --------------------------------- #
 
-def parse_authors(bib_author_field: Any) -> List[str]:
+def _strip(s: Any) -> str:
+    return s.strip() if isinstance(s, str) else s
+
+
+def parse_author_name(name: str):
     """
-    scholarly 'bib.author' can be a string like 'A Author and B Author'
-    or a list. Normalize to a list of 'First Last' strings.
+    Return (family, given) from a free-form author string.
+    Tries 'Last, First Middle' first; falls back to last token as family.
     """
-    if isinstance(bib_author_field, list):
-        raw = bib_author_field
-    elif isinstance(bib_author_field, str):
-        raw = [x.strip() for x in bib_author_field.replace(" and ", " , ").split(" , ") if x.strip()]
-    else:
-        return []
-    return raw
-
-def initials_from_first_names(first_parts: List[str]) -> str:
-    """Turn ['Alice','B.','Carol'] -> 'A. B. C.'"""
-    initials = []
-    for p in first_parts:
-        # strip punctuation, keep letters
-        letters = re.sub(r"[^A-Za-z]", "", p)
-        if letters:
-            initials.append(letters[0].upper() + ".")
-    return " ".join(initials)
-
-def format_author(full_name: str) -> str:
-    """
-    Convert 'First Middle Last' or 'Last, First M.' -> 'Last, F. M.'
-    Handles simple particles like 'van', 'de', 'da', etc. reasonably.
-    """
-    name = full_name.strip()
-    # If already "Last, First ..." keep that split, else split normally
+    name = name.strip()
     if "," in name:
-        last, first = [x.strip() for x in name.split(",", 1)]
-        first_parts = first.split()
-    else:
-        parts = name.split()
-        if len(parts) == 1:
-            # Single token, treat as last name only
-            return parts[0]
-        # Heuristic: last name is the last token
-        last = parts[-1]
-        first_parts = parts[:-1]
+        parts = [p.strip() for p in name.split(",", 1)]
+        family = parts[0]
+        given = parts[1] if len(parts) > 1 else ""
+        return family, given
+    # No comma form: assume last token is family, rest is given
+    tokens = name.split()
+    if len(tokens) == 1:
+        return tokens[0], ""
+    family = tokens[-1]
+    given = " ".join(tokens[:-1])
+    return family, given
 
-    return f"{last}, {initials_from_first_names(first_parts)}".strip()
 
-def format_author_list_nature(authors: List[str]) -> str:
+def initials(given: str) -> str:
     """
-    Nature-like joining:
-    - <=10 authors: A, B, C & D
-    - >10 authors: first 6 then 'et al.'
+    Convert 'Jigar P.' or 'Jane Q' -> 'J.P.' or 'J.Q.'
+    Keep hyphenated names: 'Jean-Pierre' -> 'J.-P.'
     """
-    formatted = [format_author(a) for a in authors]
+    if not given:
+        return ""
+    # Remove stray punctuation at ends
+    given = given.strip()
+    # Handle hyphens
+    parts = re.split(r"\s+", given.replace("–", "-"))
+    out = []
+    for p in parts:
+        for chunk in p.split("-"):
+            if chunk:
+                out.append(chunk[0].upper() + ".")
+        if "-" in p:
+            out.append("-")
+    # Re-join hyphenated initials properly
+    joined = []
+    skip_next = False
+    for i, tok in enumerate(out):
+        if tok == "-":
+            # join last and next with hyphen
+            if joined:
+                joined[-1] = joined[-1] + "-"
+            skip_next = False
+        else:
+            joined.append(tok)
+    return "".join(joined)
+
+
+def format_authors_nature(author_objs: List[Dict[str, str]]) -> str:
+    """
+    Nature-ish author formatting:
+      - "Family F.I., Family F.I., Family F.I. & Family F.I."
+      - If > 6 authors, list first 6 then 'et al.'
+    """
+    MAX_LIST = 6
+    formatted = []
+    for a in author_objs:
+        family = a.get("family") or a.get("last") or a.get("surname") or ""
+        given  = a.get("given")  or a.get("first") or a.get("forename") or ""
+        family = family.strip()
+        gi = initials(given)
+        if family and gi:
+            formatted.append(f"{family} {gi}")
+        elif family:
+            formatted.append(family)
+        else:
+            # fallback if weird record
+            nm = (given or "").strip()
+            formatted.append(nm if nm else "Unknown")
     if len(formatted) == 0:
         return ""
-    if len(formatted) > 10:
-        formatted = formatted[:6] + ["et al."]
+    if len(formatted) > MAX_LIST:
+        formatted = formatted[:MAX_LIST] + ["et al."]
     if len(formatted) == 1:
         return formatted[0]
-    # Oxford-ish with ampersand before last
+    if formatted[-1] == "et al.":
+        return ", ".join(formatted[:-1]) + ", et al."
+    # Oxford style ampersand before last
     return ", ".join(formatted[:-1]) + " & " + formatted[-1]
 
-def clean_pages(pages: str) -> str:
-    """Replace hyphen with en dash if numeric range."""
-    if not pages:
-        return ""
-    pages = pages.strip()
-    if re.match(r"^\d+\s*-\s*\d+$", pages):
-        return re.sub(r"\s*-\s*", "–", pages)
-    return pages
 
-def extract_doi(urls: List[str]) -> str:
-    """Try to pull a DOI from any candidate URL."""
-    for u in urls:
-        if not u:
-            continue
-        m = DOI_RE.search(u)
-        if m:
-            return m.group(1)
-    return ""
-
-def nature_citation(bib: Dict[str, Any], doi: str) -> str:
+def normalize_authors(raw) -> List[Dict[str, str]]:
     """
-    Build the Nature-style string.
-    Authors. Title. Journal Volume, pages (Year). DOI
-    Only include pieces that exist; keep punctuation clean.
+    Normalize 'authors' into list of dicts with 'family' and 'given' keys.
     """
-    authors = format_author_list_nature(parse_authors(bib.get("author", [])))
-    title = bib.get("title", "") or ""
-    journal = (bib.get("journal") or bib.get("venue") or "").strip()
-    volume = (bib.get("volume") or "").strip()
-    pages = clean_pages(bib.get("pages", "") or "")
-    year = str(bib.get("pub_year") or bib.get("year") or "").strip()
+    if raw is None:
+        return []
+    # If already in dict form
+    if isinstance(raw, list) and len(raw) > 0 and isinstance(raw[0], dict):
+        # Ensure keys
+        norm = []
+        for a in raw:
+            family = a.get("family") or a.get("last") or a.get("surname") or ""
+            given  = a.get("given")  or a.get("first") or a.get("forename") or ""
+            norm.append({"family": family.strip(), "given": given.strip()})
+        return norm
 
-    parts = []
-    if authors:
-        parts.append(f"{authors}.")
-    if title:
-        parts.append(f"{title}.")
-    jp = []
-    if journal:
-        jp.append(journal)
-    if volume:
-        jp.append(volume)
+    # If list of strings
+    if isinstance(raw, list) and len(raw) > 0 and isinstance(raw[0], str):
+        norm = []
+        for s in raw:
+            fam, giv = parse_author_name(s)
+            norm.append({"family": fam, "given": giv})
+        return norm
+
+    # Single string with separators
+    if isinstance(raw, str):
+        # split on ; or and or ,
+        cand = re.split(r";|\band\b", raw)
+        if len(cand) == 1:
+            cand = raw.split(",")
+            # if it looked like "Last, First, Last2, First2" pair up
+            if len(cand) % 2 == 0 and len(cand) > 2:
+                pairs = [", ".join(cand[i:i+2]).strip() for i in range(0, len(cand), 2)]
+                return normalize_authors(pairs)
+        names = [c.strip() for c in cand if c.strip()]
+        return normalize_authors(names)
+
+    return []
+
+
+def extract_year(rec: Dict[str, Any]) -> int:
+    """
+    Prefer explicit 'year'. Else derive from 'published' or 'date' (YYYY or YYYY-MM or YYYY-MM-DD).
+    """
+    for key in ("year", "Year"):
+        if key in rec:
+            try:
+                return int(str(rec[key])[:4])
+            except Exception:
+                pass
+    for key in ("published", "date", "issued", "pub_date"):
+        val = rec.get(key)
+        if isinstance(val, str):
+            m = re.match(r"(\d{4})", val.strip())
+            if m:
+                return int(m.group(1))
+        if isinstance(val, dict):
+            # crossref-like {"date-parts":[[YYYY, M, D]]}
+            dp = val.get("date-parts") or val.get("date_parts")
+            if isinstance(dp, list) and dp and isinstance(dp[0], list) and dp[0]:
+                try:
+                    return int(dp[0][0])
+                except Exception:
+                    pass
+    # As a last resort, try pages like '123-129 (2021)'
+    for key in ("pages", "citation", "title", "journal"):
+        v = rec.get(key)
+        if isinstance(v, str):
+            m = re.search(r"\((\d{4})\)", v)
+            if m:
+                return int(m.group(1))
+    return dt.datetime.now().year
+
+
+def build_citation_nature(rec: Dict[str, Any]) -> str:
+    """
+    Build Nature-style citation string:
+      Authors. Title. Journal Volume(issue), pages (Year). doi:DOI
+    Only include parts that exist.
+    """
+    authors = normalize_authors(rec.get("authors"))
+    authors_str = format_authors_nature(authors)
+    title  = (rec.get("title") or rec.get("Title") or "").strip()
+    journal = (rec.get("journal") or rec.get("container-title") or rec.get("container_title") or "").strip()
+    volume  = _strip(rec.get("volume"))
+    issue   = _strip(rec.get("issue"))
+    pages   = _strip(rec.get("pages") or rec.get("page"))
+    year    = extract_year(rec)
+    doi     = (rec.get("doi") or rec.get("DOI") or "").strip()
+    url     = (rec.get("url") or rec.get("URL") or "").strip()
+
+    # Compose journal part
+    vol_issue = ""
+    if volume and issue:
+        vol_issue = f"{volume}({issue})"
+    elif volume:
+        vol_issue = f"{volume}"
+
+    jvp = journal
+    if vol_issue:
+        jvp = f"{jvp} {vol_issue}"
     if pages:
-        # If we have volume and pages, prefer "Journal Volume, pages"
-        if journal or volume:
-            jp[-1] = f"{jp[-1]}," if jp else pages
-            jp.append(pages)
+        if vol_issue:
+            jvp = f"{jvp}, {pages}"
         else:
-            jp.append(pages)
-    if year:
-        # Append (Year).
-        parts.append((" ".join(jp) if jp else "").strip() + (f" ({year})." if year else ""))
-    else:
-        if jp:
-            parts.append(" ".join(jp) + ".")
+            jvp = f"{jvp} {pages}"
 
+    # Compose DOI/URL part
+    tail = ""
     if doi:
-        parts.append(f"https://doi.org/{doi}")
+        tail = f" doi:{doi}"
+    elif url:
+        tail = f" {url}"
 
-    # Clean extra spaces and stray punctuation
-    citation = " ".join(p.strip() for p in parts if p.strip())
-    citation = re.sub(r"\s+\.", ".", citation)
-    citation = re.sub(r"\s+,", ",", citation)
-    citation = re.sub(r"\(\s+(\d{4})\s+\)", r"(\1)", citation)
-    return citation
+    pieces = []
+    if authors_str:
+        pieces.append(f"{authors_str}.")
+    if title:
+        pieces.append(f"{title}.")
+    if jvp:
+        pieces.append(f"{jvp} ({year}).")
+    else:
+        pieces.append(f"({year}).")
+    if tail:
+        pieces.append(tail)
 
-# --------------------------
-# Main
-# --------------------------
+    return " ".join(pieces).replace("  ", " ").strip()
+
+
+def _sort_key(rec):
+    # Newest first: (-year, then title)
+    y = extract_year(rec)
+    title = (rec.get("title") or "").lower()
+    return (-int(y), title)
+
+
+# --------------------------- Main ------------------------------------ #
 
 def main():
-    author = scholarly.search_author_id(SCHOLAR_ID)
-    filled_author = scholarly.fill(author, sections=["publications"])
+    ap = argparse.ArgumentParser(description="Enrich publications YAML with Nature-style citations and year.")
+    ap.add_argument("--in", dest="infile", default="_data/publications.yml", help="Input YAML (default: _data/publications.yml)")
+    ap.add_argument("--out", dest="outfile", default="_data/publications.yml", help="Output YAML (default: _data/publications.yml)")
+    ap.add_argument("--sort", action="store_true", help="Sort newest first before writing")
+    ap.add_argument("--no-backup", action="store_true", help="Do not create a timestamped backup of the output file")
+    args = ap.parse_args()
+
+    if not os.path.exists(args.infile):
+        sys.stderr.write(f"ERROR: Input YAML not found: {args.infile}\n")
+        sys.exit(1)
+
+    with open(args.infile, "r", encoding="utf-8") as f:
+        data = yaml.safe_load(f) or []
+
+    if not isinstance(data, list):
+        sys.stderr.write("ERROR: Expected a YAML list of publications.\n")
+        sys.exit(1)
 
     out_items = []
+    for rec in data:
+        item = copy.deepcopy(rec) if isinstance(rec, dict) else {}
+        # Ensure year
+        item["year"] = extract_year(item)
+        # Build Nature citation
+        item["citation_nature"] = build_citation_nature(item)
+        out_items.append(item)
 
-    for pub in filled_author.get("publications", []):
+    if args.sort:
+        out_items.sort(key=_sort_key)
+
+    # Backup
+    if not args.no_backup and os.path.exists(args.outfile):
+        stamp = dt.datetime.now().strftime("%Y%m%d-%H%M%S")
+        bak = f"{args.outfile}.{stamp}.bak"
         try:
-            full = scholarly.fill(pub)  # fills bib + links
-            bib = full.get("bib", {}) or {}
-
-            # Collect possible URLs to hunt for a DOI
-            candidate_urls = []
-            for key in ("pub_url", "eprint_url", "url_scholarbib"):
-                u = full.get(key)
-                if u:
-                    candidate_urls.append(u)
-
-            doi = extract_doi(candidate_urls)
-
-            # Build Nature-style citation
-            citation = nature_citation(bib, doi)
-
-            # Write a rich record so you can tweak downstream if needed
-            item = {
-                "title": bib.get("title", ""),
-                "authors": parse_authors(bib.get("author", [])),
-                "year": bib.get("pub_year") or bib.get("year"),
-                "journal": bib.get("journal") or bib.get("venue"),
-                "volume": bib.get("volume"),
-                "issue": bib.get("number"),
-                "pages": bib.get("pages"),
-                "doi": doi,
-                "url": full.get("pub_url") or full.get("eprint_url"),
-                "citation": citation,
-            }
-            out_items.append(item)
-
+            with open(args.outfile, "r", encoding="utf-8") as f_in, open(bak, "w", encoding="utf-8") as f_out:
+                f_out.write(f_in.read())
+            print(f"Backup written to {bak}")
         except Exception as e:
-            print(f"Error processing publication: {e}")
-            continue
+            sys.stderr.write(f"WARNING: Could not write backup: {e}\n")
 
-    # Ensure _data exists; write YAML (stable key order)
-    os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
-    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-        yaml.dump(out_items, f, allow_unicode=True, sort_keys=False)
+    # Write
+    os.makedirs(os.path.dirname(args.outfile) or ".", exist_ok=True)
+    with open(args.outfile, "w", encoding="utf-8") as f:
+        yaml.safe_dump(out_items, f, sort_keys=False, allow_unicode=True)
+    print(f"Wrote {len(out_items)} records -> {args.outfile}")
 
-    print(f"Saved {len(out_items)} publications to {OUTPUT_PATH}")
 
 if __name__ == "__main__":
     main()
