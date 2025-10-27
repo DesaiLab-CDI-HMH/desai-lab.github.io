@@ -5,25 +5,15 @@ permalink: /people/
 classes: wide
 ---
 
-{%- assign people = site.data.people | default: empty -%}
-{%- if people == empty -%}
-<p><em>No people found. Add entries to <code>_data/people.yml</code>.</em></p>
-{%- endif -%}
-
-<!-- Quick jump links -->
 <div class="notice--primary" markdown="1">
 **Jump to:** [Current Lab Members](#current) · [Alumni](#alumni)
 </div>
 
-{%- comment -%}
-Current = everyone without alumni: true
-Alumni  = everyone with alumni: true
-Order within each section controlled by `order` in _data/people.yml
-{%- endcomment -%}
+{%- assign current = site.data.people
+    | where_exp: "p", "p.category != 'Alumni'"
+    | sort: "order" -%}
 
-{%- assign current = people | where_exp: "p","p.alumni != true" | sort: "order" -%}
-{%- if current.size > 0 -%}
-<h2 id="current">Current Lab Members</h2>
+## <a id="current"></a>Current Lab Members
 <div class="grid__wrapper">
   {%- for p in current -%}
   <article class="archive__item grid__item">
@@ -32,27 +22,28 @@ Order within each section controlled by `order` in _data/people.yml
     </div>
     <h3 class="archive__item-title">{{ p.name }}</h3>
     <p class="archive__item-excerpt"><strong>{{ p.role }}</strong></p>
-    {%- if p.bio -%}
-    <p class="archive__item-excerpt">{{ p.bio }}</p>
-    {%- endif -%}
+    {%- if p.bio -%}<p class="archive__item-excerpt">{{ p.bio }}</p>{%- endif -%}
     <p class="page__meta">
-      {%- assign links_shown = 0 -%}
-      {%- if p.email -%}<a href="mailto:{{ p.email }}">Email</a>{%- assign links_shown = 1 -%}{%- endif -%}
-      {%- if p.website -%}{% if links_shown %} · {% endif %}<a href="{{ p.website }}">Website</a>{%- assign links_shown = 1 -%}{%- endif -%}
-      {%- if p.scholar -%}{% if links_shown %} · {% endif %}<a href="{{ p.scholar }}">Scholar</a>{%- assign links_shown = 1 -%}{%- endif -%}
-      {%- if p.github -%}{% if links_shown %} · {% endif %}<a href="{{ p.github }}">GitHub</a>{%- assign links_shown = 1 -%}{%- endif -%}
-      {%- if p.linkedin -%}{% if links_shown %} · {% endif %}<a href="{{ p.linkedin }}">LinkedIn</a>{%- assign links_shown = 1 -%}{%- endif -%}
-      {%- if p.twitter -%}{% if links_shown %} · {% endif %}<a href="{{ p.twitter }}">Twitter</a>{%- endif -%}
+      {%- if p.email -%}<a href="mailto:{{ p.email }}">Email</a>{%- endif -%}
+      {%- if p.website -%}{% if p.email %} · {% endif %}<a href="{{ p.website }}">Website</a>{%- endif -%}
+      {%- if p.scholar -%}{% if p.email or p.website %} · {% endif %}<a href="{{ p.scholar }}">Scholar</a>{%- endif -%}
+      {%- if p.github -%}{% if p.email or p.website or p.scholar %} · {% endif %}<a href="{{ p.github }}">GitHub</a>{%- endif -%}
+      {%- if p.linkedin -%}{% if p.email or p.website or p.scholar or p.github %} · {% endif %}<a href="{{ p.linkedin }}">LinkedIn</a>{%- endif -%}
     </p>
   </article>
   {%- endfor -%}
 </div>
-<hr>
-{%- endif -%}
 
-{%- assign alumni = people | where: "alumni", true | sort: "order" -%}
-{%- if alumni.size > 0 -%}
-<h2 id="alumni">Alumni</h2>
+<!-- Force the next section to start on a new row even if CSS tries to place it alongside -->
+<div style="clear: both;"></div>
+
+<hr style="margin: 2rem 0;" />
+
+{%- assign alumni = site.data.people
+    | where: "category", "Alumni"
+    | sort: "order" -%}
+
+## <a id="alumni"></a>Alumni
 <div class="grid__wrapper">
   {%- for p in alumni -%}
   <article class="archive__item grid__item">
@@ -61,25 +52,20 @@ Order within each section controlled by `order` in _data/people.yml
     </div>
     <h3 class="archive__item-title">{{ p.name }}</h3>
     <p class="archive__item-excerpt"><strong>{{ p.role }}</strong></p>
-    {%- if p.bio -%}
-    <p class="archive__item-excerpt">{{ p.bio }}</p>
-    {%- endif -%}
+    {%- if p.bio -%}<p class="archive__item-excerpt">{{ p.bio }}</p>{%- endif -%}
     <p class="page__meta">
-      {%- assign links_shown = 0 -%}
-      {%- if p.email -%}<a href="mailto:{{ p.email }}">Email</a>{%- assign links_shown = 1 -%}{%- endif -%}
-      {%- if p.website -%}{% if links_shown %} · {% endif %}<a href="{{ p.website }}">Website</a>{%- assign links_shown = 1 -%}{%- endif -%}
-      {%- if p.scholar -%}{% if links_shown %} · {% endif %}<a href="{{ p.scholar }}">Scholar</a>{%- assign links_shown = 1 -%}{%- endif -%}
-      {%- if p.github -%}{% if links_shown %} · {% endif %}<a href="{{ p.github }}">GitHub</a>{%- assign links_shown = 1 -%}{%- endif -%}
-      {%- if p.linkedin -%}{% if links_shown %} · {% endif %}<a href="{{ p.linkedin }}">LinkedIn</a>{%- assign links_shown = 1 -%}{%- endif -%}
-      {%- if p.twitter -%}{% if links_shown %} · {% endif %}<a href="{{ p.twitter }}">Twitter</a>{%- endif -%}
+      {%- if p.email -%}<a href="mailto:{{ p.email }}">Email</a>{%- endif -%}
+      {%- if p.website -%}{% if p.email %} · {% endif %}<a href="{{ p.website }}">Website</a>{%- endif -%}
+      {%- if p.scholar -%}{% if p.email or p.website %} · {% endif %}<a href="{{ p.scholar }}">Scholar</a>{%- endif -%}
+      {%- if p.github -%}{% if p.email or p.website or p.scholar %} · {% endif %}<a href="{{ p.github }}">GitHub</a>{%- endif -%}
+      {%- if p.linkedin -%}{% if p.email or p.website or p.scholar or p.github %} · {% endif %}<a href="{{ p.linkedin }}">LinkedIn</a>{%- endif -%}
     </p>
   </article>
   {%- endfor -%}
 </div>
-{%- endif -%}
 
 <style>
-/* polish for avatars and card spacing */
+/* small polish */
 .archive__item-teaser img { width: 100%; height: 100%; object-fit: cover; }
 .grid__wrapper { row-gap: 1.5rem; }
 .archive__item-title { margin-top: .6rem; }

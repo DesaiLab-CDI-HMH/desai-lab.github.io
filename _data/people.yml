@@ -32,6 +32,7 @@
   role: "Research Associate (Alumni)"
   alumni: true
   order: 1
+  category: "Alumni"
   image: "/assets/images/team/adela.jpg"
   email: "adela.karuli@hmh-cdi.org"
   bio: "Now a clinical study coordinator at Hackensack University Medical Center."
