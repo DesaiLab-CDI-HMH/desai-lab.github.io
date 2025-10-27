@@ -1,35 +1,37 @@
 # _data/people.yml
+# Use `alumni: true` for former members. `order` controls display order within each section.
+
+# Current Lab Members
 - name: "Jigar V. Desai, PhD"
   role: "Principal Investigator"
-  order: 1                  # for sorting within a section
-  image: "/assets/images/team/jigar.jpg"
+  order: 1
+  image: "/assets/images/team/jigar.jpg"   # ensure this file exists
   email: "jigarkumar.desai@hmh-cdi.org"
   website: "https://desailab.org"
   scholar: "https://scholar.google.com/citations?user=hhKlTYYAAAAJ&hl=en"
   github: "https://github.com/DesaiLab-CDI-HMH"
-  linkedin: "hhttps://www.linkedin.com/in/jigar-desai-3855b535/"
-  bio: "Complement Research Lab @ CDI-HMH | Complement in Mucosal and Systemic Immunity | Cancer & Antifungal Immunity"
+  linkedin: "https://www.linkedin.com/in/jigar-desai-3855b535/"
+  bio: "Complement in mucosal/systemic immunity; cancer and antifungal immunity."
 
 - name: "Ashley Carlo"
   role: "Clinical Fellow"
-  order: 1
+  order: 2
   image: "/assets/images/team/ashley.jpg"
   email: "ashley.carlo@hmhn.org"
-  bio: "The role of cell-intrinsic complement C5a signaling in cancer cell biology"
+  bio: "Cell-intrinsic C5a signaling in cancer cell biology."
 
 - name: "Raju Shivarathri"
   role: "Research Associate"
-  order: 1
+  order: 3
   image: "/assets/images/team/raju.jpg"
   email: "raju.shivarathri@hmh-cdi.org"
-  bio: "Fungal genetics | Complement-mediated antifungal immunity at the pulmonary mucosa"
+  bio: "Fungal genetics; complement-mediated antifungal immunity at the pulmonary mucosa."
 
+# Alumni
 - name: "Adela Karuli"
-  role: "Research Associate"
-  category: "Aumni"
+  role: "Research Associate (Alumni)"
+  alumni: true
   order: 1
   image: "/assets/images/team/adela.jpg"
   email: "adela.karuli@hmh-cdi.org"
-  bio: "Currently working as clinical study coordinator at Hackensack University Medical Center"
-
-# Additional entries...
+  bio: "Now a clinical study coordinator at Hackensack University Medical Center."
