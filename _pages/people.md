@@ -2,51 +2,53 @@
 layout: single
 title: "People"
 permalink: /people/
-author_profile: true
+classes: wide
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: flex-start;">
+{%- assign people = site.data.people | default: empty -%}
+{%- if people == empty -%}
+<p><em>No people found. Add entries to <code>_data/people.yml</code>.</em></p>
+{%- endif -%}
 
-<div style="max-width: 300px; text-align: center;">
-  <img src="/assets/images/team/jigar.jpg" alt="Jigar V. Desai" style="border-radius: 50%; width: 160px;">
-  <h3 style="margin-bottom: 5px;">Jigar V. Desai, MS, PhD</h3>
-  <p><em>Principal Investigator</em></p>
-  <p style="font-size: 14px;">My lab studies how the complement system — an evolutionary ancient arm of immunity — works regulates mucosal and systemic immunity. We are uncovering how this dialogue shapes defenses against infection and influences cancer, especially colorectal cancer. We recently showed that complement inside phagocytes tunes myeloid cell function; now we are defining its role in antifungal immunity at diverse mucosal surfaces (e.g., at pulmonary mucosa – during invasive pulmonary aspergillosis; at intenstinal mucosa – during commensal colonization by Candida albicans) and anti-tumor immunity in the gut. We are utilizing patient specimens, in vivo murine modeling, ex vivo modeling using primary cells and organoids as well as approaches including advanced spatial molecular and single-cell profiling approaches, engineered mice and fungal strains, and intravital microscopy to turn mechanisms into therapies.</p>
-  <p>
-    <a href="mailto:jigarkumar.desai@hmh-cdi.org">Email</a> 
-  </p>
+<!-- Quick jump links -->
+<div class="notice--primary" markdown="1">
+**Jump to:** [PI](#pi) · [Staff](#staff) · [Postdocs](#postdocs) · [Graduate](#graduate) · [Undergraduate](#undergraduate) · [Alumni](#alumni)
 </div>
 
-<div style="max-width: 300px; text-align: center;">
-  <img src="/assets/images/team/ashley.jpg" alt="Ashley Carlo" style="border-radius: 50%; width: 160px;">
-  <h3 style="margin-bottom: 5px;">Ashley Carlo, MD</h3>
-  <p><em>Clinical Fellow</em></p>
-  <p style="font-size: 14px;">Ashley is bringing her clinical oncology expertise to the lab and assessing cancer cell-intrinsic functions of the complement receptor C5AR1.</p>
-  <p>
-    <a href="mailto:ashley.carlo@hmhn.org">Email</a> 
-  </p>
-</div>
+{%- assign sections = "PI,Staff,Postdoc,Graduate,Undergraduate,Alumni" | split: "," -%}
+{%- for section in sections -%}
+  {%- assign group = people | where: "category", section | sort: "order" -%}
+  {%- if group.size > 0 -%}
+  <h2 id="{{ section | downcase }}">{{ section }}</h2>
+  <div class="grid__wrapper">
+    {%- for p in group -%}
+    <article class="archive__item grid__item">
+      <div class="archive__item-teaser" style="aspect-ratio:1/1; overflow:hidden;">
+        <img src="{{ p.image | default: '/assets/images/team/placeholder.png' }}" alt="{{ p.name | escape }}">
+      </div>
+      <h3 class="archive__item-title">{{ p.name }}</h3>
+      <p class="archive__item-excerpt"><strong>{{ p.role }}</strong></p>
+      {%- if p.bio -%}
+      <p class="archive__item-excerpt">{{ p.bio }}</p>
+      {%- endif -%}
+      <p class="page__meta">
+        {%- if p.email -%}<a href="mailto:{{ p.email }}">Email</a>{%- endif -%}
+        {%- if p.website -%}{% if p.email %} · {% endif %}<a href="{{ p.website }}">Website</a>{%- endif -%}
+        {%- if p.scholar -%}{% if p.email or p.website %} · {% endif %}<a href="{{ p.scholar }}">Scholar</a>{%- endif -%}
+        {%- if p.github -%}{% if p.email or p.website or p.scholar %} · {% endif %}<a href="{{ p.github }}">GitHub</a>{%- endif -%}
+        {%- if p.twitter -%}{% if p.email or p.website or p.scholar or p.github %} · {% endif %}<a href="{{ p.twitter }}">Twitter</a>{%- endif -%}
+      </p>
+    </article>
+    {%- endfor -%}
+  </div>
+  <hr>
+  {%- endif -%}
+{%- endfor -%}
 
-<div style="max-width: 300px; text-align: center;">
-  <img src="/assets/images/team/adela.jpg" alt="Adela Karuli" style="border-radius: 50%; width: 160px;">
-  <h3 style="margin-bottom: 5px;">Adela Karuli, MS</h3>
-  <p><em>Research Associate</em></p>
-  <p style="font-size: 14px;">Adela is developing organoid-fungal and organoid-bacterial co-culture systems to study mucosal complement activation and immune priming during fungal colonization.</p>
-  <p>
-    <a href="mailto:adela.karuli@hmh-cdi.org">Email</a>
-  </p>
-</div>
-
-<div style="max-width: 300px; text-align: center;">
-  <img src="/assets/images/team/raju.jpg" alt="Raju Shivarathri" style="border-radius: 50%; width: 160px;">
-  <h3 style="margin-bottom: 5px;">Raju Shivarathri, MS</h3>
-  <p><em>Assistant Research Associate</em></p>
-  <p style="font-size: 14px;">Raju is focused on investigating the role of complement in invasive aspergillosis. Additionally, he is involved in implementing the spatial transcriptomics approaches to decode complement involvement during colorectal cancer using Nanostring CosMx and highly-multiplexed immunofluorescence approaches.</p>
-  <p>
-    <a href="mailto:raju.shivarathri@hmh-cdi.org">Email</a> 
-  </p>
-</div>
-
-</div>
-
-
+<style>
+/* optional: subtle polish for avatars and card spacing */
+.archive__item-teaser img { width: 100%; height: 100%; object-fit: cover; }
+.grid__wrapper { row-gap: 1.5rem; }
+.archive__item-title { margin-top: .6rem; }
+.page__meta a { white-space: nowrap; }
+</style>
