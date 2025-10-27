@@ -1,7 +1,6 @@
 # _data/people.yml
 - name: "Jigar V. Desai, PhD"
   role: "Principal Investigator"
-  category: "PI"            # PI | Staff | Postdoc | Graduate | Undergraduate | Alumni
   order: 1                  # for sorting within a section
   image: "/assets/images/team/jigar.jpg"
   email: "jigarkumar.desai@hmh-cdi.org"
@@ -13,7 +12,6 @@
 
 - name: "Ashley Carlo"
   role: "Clinical Fellow"
-  category: "Staff"
   order: 1
   image: "/assets/images/team/ashley.jpg"
   email: "ashley.carlo@hmhn.org"
@@ -21,10 +19,17 @@
 
 - name: "Raju Shivarathri"
   role: "Research Associate"
-  category: "Staff"
   order: 1
   image: "/assets/images/team/raju.jpg"
   email: "raju.shivarathri@hmh-cdi.org"
   bio: "Fungal genetics | Complement-mediated antifungal immunity at the pulmonary mucosa"
+
+- name: "Adela Karuli"
+  role: "Research Associate"
+  category: "Aumni"
+  order: 1
+  image: "/assets/images/team/adela.jpg"
+  email: "adela.karuli@hmh-cdi.org"
+  bio: "Currently working as clinical study coordinator at Hackensack University Medical Center"
 
 # Additional entries...

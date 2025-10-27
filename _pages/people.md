@@ -12,7 +12,7 @@ classes: wide
 
 <!-- Quick jump links -->
 <div class="notice--primary" markdown="1">
-**Jump to:** [PI](#pi) · [Staff](#staff) · [Postdocs](#postdocs) · [Graduate](#graduate) · [Undergraduate](#undergraduate) · [Alumni](#alumni)
+**Jump to:** [Current Lab Members] · [Alumni](#alumni)
 </div>
 
 {%- assign sections = "PI,Staff,Postdoc,Graduate,Undergraduate,Alumni" | split: "," -%}
